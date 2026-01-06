@@ -1,0 +1,8288 @@
+
+============================================================
+训练开始时间: 2026-01-05 16:25:39
+环境类型: dude
+UAV数量: 2
+用户数量: 20
+============================================================
+
+✓ 环境创建成功: UAVEnvDUDe
+  观察维度: 3
+  动作维度: 44
+✓ 创建 2 个智能体
+
+开始训练...
+
+============================================================
+Episode 0
+  Avg Score: -178.70
+  Total Reward: -17870.42
+  Total Rate: 117.73 Mbps
+  UL Rate: 0.62 Mbps
+  DL Rate: 117.12 Mbps
+  Total Power: 29382.11 W
+
+
+============================================================
+Episode 1
+  Avg Score: -52.91
+  Total Reward: 7288.69
+  Total Rate: 118.88 Mbps
+  UL Rate: 0.06 Mbps
+  DL Rate: 118.82 Mbps
+  Total Power: 4480.29 W
+
+
+============================================================
+Episode 2
+  Avg Score: -9.96
+  Total Reward: 7593.03
+  Total Rate: 114.95 Mbps
+  UL Rate: 0.07 Mbps
+  DL Rate: 114.89 Mbps
+  Total Power: 3781.04 W
+
+
+============================================================
+Episode 3
+  Avg Score: 10.98
+  Total Reward: 7380.07
+  Total Rate: 117.44 Mbps
+  UL Rate: 0.05 Mbps
+  DL Rate: 117.38 Mbps
+  Total Power: 4242.13 W
+
+
+============================================================
+Episode 4
+  Avg Score: 24.37
+  Total Reward: 7795.01
+  Total Rate: 120.33 Mbps
+  UL Rate: 0.05 Mbps
+  DL Rate: 120.28 Mbps
+  Total Power: 4129.32 W
+
+
+============================================================
+Episode 5
+  Avg Score: 32.49
+  Total Reward: 7307.80
+  Total Rate: 119.84 Mbps
+  UL Rate: 0.08 Mbps
+  DL Rate: 119.76 Mbps
+  Total Power: 4542.54 W
+
+
+============================================================
+Episode 6
+  Avg Score: 38.48
+  Total Reward: 7441.32
+  Total Rate: 117.47 Mbps
+  UL Rate: 0.06 Mbps
+  DL Rate: 117.41 Mbps
+  Total Power: 4171.57 W
+
+
+============================================================
+Episode 7
+  Avg Score: 43.73
+  Total Reward: 8047.49
+  Total Rate: 124.16 Mbps
+  UL Rate: 0.06 Mbps
+  DL Rate: 124.10 Mbps
+  Total Power: 4231.14 W
+
+
+============================================================
+Episode 8
+  Avg Score: 47.09
+  Total Reward: 7400.68
+  Total Rate: 118.38 Mbps
+  UL Rate: 0.06 Mbps
+  DL Rate: 118.32 Mbps
+  Total Power: 4310.92 W
+
+
+============================================================
+Episode 9
+  Avg Score: 50.01
+  Total Reward: 7630.19
+  Total Rate: 120.76 Mbps
+  UL Rate: 0.07 Mbps
+  DL Rate: 120.69 Mbps
+  Total Power: 4340.12 W
+
+
+============================================================
+Episode 10
+  Avg Score: 52.78
+  Total Reward: 8046.88
+  Total Rate: 122.99 Mbps
+  UL Rate: 0.06 Mbps
+  DL Rate: 122.92 Mbps
+  Total Power: 4147.25 W
+
+
+============================================================
+Episode 11
+  Avg Score: 54.98
+  Total Reward: 7914.56
+  Total Rate: 123.90 Mbps
+  UL Rate: 0.08 Mbps
+  DL Rate: 123.82 Mbps
+  Total Power: 4314.23 W
+
+
+============================================================
+Episode 12
+  Avg Score: 58.30
+  Total Reward: 9814.30
+  Total Rate: 127.26 Mbps
+  UL Rate: 0.06 Mbps
+  DL Rate: 127.20 Mbps
+  Total Power: 2862.24 W
+
+
+============================================================
+Episode 13
+  Avg Score: 61.12
+  Total Reward: 9783.04
+  Total Rate: 125.63 Mbps
+  UL Rate: 0.08 Mbps
+  DL Rate: 125.55 Mbps
+  Total Power: 2713.87 W
+
+
+============================================================
+Episode 14
+  Avg Score: 64.47
+  Total Reward: 11127.56
+  Total Rate: 128.57 Mbps
+  UL Rate: 0.10 Mbps
+  DL Rate: 128.47 Mbps
+  Total Power: 1649.36 W
+
+
+============================================================
+Episode 15
+  Avg Score: 68.20
+  Total Reward: 12415.49
+  Total Rate: 142.29 Mbps
+  UL Rate: 0.12 Mbps
+  DL Rate: 142.17 Mbps
+  Total Power: 1555.62 W
+
+
+============================================================
+Episode 16
+  Avg Score: 71.19
+  Total Reward: 11912.95
+  Total Rate: 137.57 Mbps
+  UL Rate: 0.17 Mbps
+  DL Rate: 137.40 Mbps
+  Total Power: 1624.63 W
+
+
+============================================================
+Episode 17
+  Avg Score: 73.96
+  Total Reward: 12098.73
+  Total Rate: 139.14 Mbps
+  UL Rate: 0.15 Mbps
+  DL Rate: 139.00 Mbps
+  Total Power: 1624.05 W
+
+
+============================================================
+Episode 18
+  Avg Score: 76.05
+  Total Reward: 11365.66
+  Total Rate: 133.48 Mbps
+  UL Rate: 0.14 Mbps
+  DL Rate: 133.34 Mbps
+  Total Power: 1739.74 W
+
+
+============================================================
+Episode 19
+  Avg Score: 78.51
+  Total Reward: 12517.06
+  Total Rate: 141.67 Mbps
+  UL Rate: 0.14 Mbps
+  DL Rate: 141.53 Mbps
+  Total Power: 1395.52 W
+
+
+============================================================
+Episode 20
+  Avg Score: 81.08
+  Total Reward: 13264.44
+  Total Rate: 151.19 Mbps
+  UL Rate: 0.13 Mbps
+  DL Rate: 151.06 Mbps
+  Total Power: 1606.59 W
+
+
+============================================================
+Episode 21
+  Avg Score: 83.37
+  Total Reward: 13133.85
+  Total Rate: 147.45 Mbps
+  UL Rate: 0.17 Mbps
+  DL Rate: 147.28 Mbps
+  Total Power: 1378.42 W
+
+
+============================================================
+Episode 22
+  Avg Score: 85.61
+  Total Reward: 13483.17
+  Total Rate: 151.15 Mbps
+  UL Rate: 0.23 Mbps
+  DL Rate: 150.92 Mbps
+  Total Power: 1346.95 W
+
+
+============================================================
+Episode 23
+  Avg Score: 87.22
+  Total Reward: 12427.50
+  Total Rate: 143.21 Mbps
+  UL Rate: 0.21 Mbps
+  DL Rate: 143.00 Mbps
+  Total Power: 1606.76 W
+
+
+============================================================
+Episode 24
+  Avg Score: 88.50
+  Total Reward: 11940.55
+  Total Rate: 137.06 Mbps
+  UL Rate: 0.22 Mbps
+  DL Rate: 136.85 Mbps
+  Total Power: 1568.37 W
+
+
+============================================================
+Episode 25
+  Avg Score: 89.90
+  Total Reward: 12488.85
+  Total Rate: 142.89 Mbps
+  UL Rate: 0.21 Mbps
+  DL Rate: 142.68 Mbps
+  Total Power: 1567.03 W
+
+
+============================================================
+Episode 26
+  Avg Score: 91.34
+  Total Reward: 12865.74
+  Total Rate: 145.47 Mbps
+  UL Rate: 0.60 Mbps
+  DL Rate: 144.87 Mbps
+  Total Power: 1356.22 W
+
+
+============================================================
+Episode 27
+  Avg Score: 93.09
+  Total Reward: 14047.48
+  Total Rate: 152.59 Mbps
+  UL Rate: 0.70 Mbps
+  DL Rate: 151.89 Mbps
+  Total Power: 881.33 W
+
+
+============================================================
+Episode 28
+  Avg Score: 94.71
+  Total Reward: 13989.06
+  Total Rate: 155.25 Mbps
+  UL Rate: 0.73 Mbps
+  DL Rate: 154.53 Mbps
+  Total Power: 1192.63 W
+
+
+============================================================
+Episode 29
+  Avg Score: 96.02
+  Total Reward: 13398.00
+  Total Rate: 149.04 Mbps
+  UL Rate: 0.16 Mbps
+  DL Rate: 148.89 Mbps
+  Total Power: 1259.04 W
+
+
+============================================================
+Episode 30
+  Avg Score: 96.87
+  Total Reward: 12247.68
+  Total Rate: 142.00 Mbps
+  UL Rate: 0.12 Mbps
+  DL Rate: 141.88 Mbps
+  Total Power: 1647.00 W
+
+
+============================================================
+Episode 31
+  Avg Score: 97.76
+  Total Reward: 12521.58
+  Total Rate: 146.93 Mbps
+  UL Rate: 0.13 Mbps
+  DL Rate: 146.80 Mbps
+  Total Power: 1883.75 W
+
+
+============================================================
+Episode 32
+  Avg Score: 98.76
+  Total Reward: 13081.82
+  Total Rate: 145.93 Mbps
+  UL Rate: 0.39 Mbps
+  DL Rate: 145.53 Mbps
+  Total Power: 1241.50 W
+
+
+============================================================
+Episode 33
+  Avg Score: 99.92
+  Total Reward: 13814.81
+  Total Rate: 152.44 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 151.69 Mbps
+  Total Power: 1104.25 W
+
+
+============================================================
+Episode 34
+  Avg Score: 100.48
+  Total Reward: 11949.19
+  Total Rate: 135.70 Mbps
+  UL Rate: 0.66 Mbps
+  DL Rate: 135.04 Mbps
+  Total Power: 1388.12 W
+
+
+============================================================
+Episode 35
+  Avg Score: 101.22
+  Total Reward: 12712.46
+  Total Rate: 144.08 Mbps
+  UL Rate: 0.22 Mbps
+  DL Rate: 143.86 Mbps
+  Total Power: 1415.07 W
+
+
+============================================================
+Episode 36
+  Avg Score: 101.13
+  Total Reward: 9788.77
+  Total Rate: 119.25 Mbps
+  UL Rate: 0.19 Mbps
+  DL Rate: 119.06 Mbps
+  Total Power: 1929.25 W
+
+
+============================================================
+Episode 37
+  Avg Score: 101.69
+  Total Reward: 12244.34
+  Total Rate: 138.85 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 138.68 Mbps
+  Total Power: 1425.85 W
+
+
+============================================================
+Episode 38
+  Avg Score: 102.05
+  Total Reward: 11598.25
+  Total Rate: 132.85 Mbps
+  UL Rate: 0.19 Mbps
+  DL Rate: 132.67 Mbps
+  Total Power: 1485.14 W
+
+
+============================================================
+Episode 39
+  Avg Score: 102.48
+  Total Reward: 11907.30
+  Total Rate: 134.21 Mbps
+  UL Rate: 0.14 Mbps
+  DL Rate: 134.07 Mbps
+  Total Power: 1336.65 W
+
+
+============================================================
+Episode 40
+  Avg Score: 102.91
+  Total Reward: 12027.85
+  Total Rate: 135.44 Mbps
+  UL Rate: 0.13 Mbps
+  DL Rate: 135.30 Mbps
+  Total Power: 1318.66 W
+
+
+============================================================
+Episode 41
+  Avg Score: 103.49
+  Total Reward: 12718.40
+  Total Rate: 143.37 Mbps
+  UL Rate: 0.34 Mbps
+  DL Rate: 143.04 Mbps
+  Total Power: 1365.83 W
+
+
+============================================================
+Episode 42
+  Avg Score: 104.35
+  Total Reward: 14063.14
+  Total Rate: 154.18 Mbps
+  UL Rate: 0.68 Mbps
+  DL Rate: 153.50 Mbps
+  Total Power: 1123.91 W
+
+
+============================================================
+Episode 43
+  Avg Score: 105.11
+  Total Reward: 13770.92
+  Total Rate: 152.25 Mbps
+  UL Rate: 0.71 Mbps
+  DL Rate: 151.54 Mbps
+  Total Power: 1230.39 W
+
+
+============================================================
+Episode 44
+  Avg Score: 105.81
+  Total Reward: 13636.69
+  Total Rate: 154.05 Mbps
+  UL Rate: 0.15 Mbps
+  DL Rate: 153.90 Mbps
+  Total Power: 1505.09 W
+
+
+============================================================
+Episode 45
+  Avg Score: 106.49
+  Total Reward: 13706.02
+  Total Rate: 151.88 Mbps
+  UL Rate: 0.16 Mbps
+  DL Rate: 151.72 Mbps
+  Total Power: 1355.34 W
+
+
+============================================================
+Episode 46
+  Avg Score: 107.17
+  Total Reward: 13857.57
+  Total Rate: 151.83 Mbps
+  UL Rate: 0.38 Mbps
+  DL Rate: 151.45 Mbps
+  Total Power: 1162.05 W
+
+
+============================================================
+Episode 47
+  Avg Score: 107.75
+  Total Reward: 13512.64
+  Total Rate: 149.53 Mbps
+  UL Rate: 0.13 Mbps
+  DL Rate: 149.39 Mbps
+  Total Power: 1260.25 W
+
+
+============================================================
+Episode 48
+  Avg Score: 108.20
+  Total Reward: 12953.17
+  Total Rate: 147.76 Mbps
+  UL Rate: 0.17 Mbps
+  DL Rate: 147.59 Mbps
+  Total Power: 1619.53 W
+
+
+============================================================
+Episode 49
+  Avg Score: 108.47
+  Total Reward: 12178.31
+  Total Rate: 139.90 Mbps
+  UL Rate: 0.16 Mbps
+  DL Rate: 139.74 Mbps
+  Total Power: 1674.92 W
+
+
+============================================================
+Episode 50
+  Avg Score: 109.14
+  Total Reward: 14260.03
+  Total Rate: 156.76 Mbps
+  UL Rate: 1.02 Mbps
+  DL Rate: 155.75 Mbps
+  Total Power: 1054.88 W
+
+
+============================================================
+Episode 51
+  Avg Score: 109.75
+  Total Reward: 14080.23
+  Total Rate: 155.35 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 154.60 Mbps
+  Total Power: 1147.40 W
+
+
+============================================================
+Episode 52
+  Avg Score: 110.37
+  Total Reward: 14293.33
+  Total Rate: 158.06 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 157.33 Mbps
+  Total Power: 1180.55 W
+
+
+============================================================
+Episode 53
+  Avg Score: 111.04
+  Total Reward: 14625.21
+  Total Rate: 160.35 Mbps
+  UL Rate: 0.65 Mbps
+  DL Rate: 159.70 Mbps
+  Total Power: 1061.90 W
+
+
+============================================================
+Episode 54
+  Avg Score: 111.73
+  Total Reward: 14911.30
+  Total Rate: 162.17 Mbps
+  UL Rate: 0.72 Mbps
+  DL Rate: 161.45 Mbps
+  Total Power: 936.89 W
+
+
+============================================================
+Episode 55
+  Avg Score: 112.20
+  Total Reward: 13821.64
+  Total Rate: 152.73 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 151.98 Mbps
+  Total Power: 1167.17 W
+
+
+============================================================
+Episode 56
+  Avg Score: 112.53
+  Total Reward: 13102.01
+  Total Rate: 149.50 Mbps
+  UL Rate: 0.10 Mbps
+  DL Rate: 149.40 Mbps
+  Total Power: 1666.28 W
+
+
+============================================================
+Episode 57
+  Avg Score: 112.85
+  Total Reward: 13098.96
+  Total Rate: 150.24 Mbps
+  UL Rate: 0.12 Mbps
+  DL Rate: 150.12 Mbps
+  Total Power: 1638.55 W
+
+
+============================================================
+Episode 58
+  Avg Score: 113.19
+  Total Reward: 13268.59
+  Total Rate: 150.93 Mbps
+  UL Rate: 0.14 Mbps
+  DL Rate: 150.80 Mbps
+  Total Power: 1563.01 W
+
+
+============================================================
+Episode 59
+  Avg Score: 113.44
+  Total Reward: 12832.78
+  Total Rate: 146.57 Mbps
+  UL Rate: 0.12 Mbps
+  DL Rate: 146.45 Mbps
+  Total Power: 1606.81 W
+
+
+============================================================
+Episode 60
+  Avg Score: 113.67
+  Total Reward: 12759.38
+  Total Rate: 144.56 Mbps
+  UL Rate: 0.10 Mbps
+  DL Rate: 144.47 Mbps
+  Total Power: 1529.33 W
+
+
+============================================================
+Episode 61
+  Avg Score: 113.94
+  Total Reward: 13012.09
+  Total Rate: 143.32 Mbps
+  UL Rate: 0.21 Mbps
+  DL Rate: 143.10 Mbps
+  Total Power: 1232.86 W
+
+
+============================================================
+Episode 62
+  Avg Score: 114.43
+  Total Reward: 14488.96
+  Total Rate: 161.43 Mbps
+  UL Rate: 0.68 Mbps
+  DL Rate: 160.75 Mbps
+  Total Power: 1282.98 W
+
+
+============================================================
+Episode 63
+  Avg Score: 114.96
+  Total Reward: 14872.79
+  Total Rate: 163.82 Mbps
+  UL Rate: 0.66 Mbps
+  DL Rate: 163.16 Mbps
+  Total Power: 1192.00 W
+
+
+============================================================
+Episode 64
+  Avg Score: 115.27
+  Total Reward: 13498.04
+  Total Rate: 147.96 Mbps
+  UL Rate: 0.55 Mbps
+  DL Rate: 147.41 Mbps
+  Total Power: 1118.13 W
+
+
+============================================================
+Episode 65
+  Avg Score: 115.56
+  Total Reward: 13450.90
+  Total Rate: 148.51 Mbps
+  UL Rate: 0.39 Mbps
+  DL Rate: 148.12 Mbps
+  Total Power: 1284.58 W
+
+
+============================================================
+Episode 66
+  Avg Score: 115.84
+  Total Reward: 13422.90
+  Total Rate: 148.93 Mbps
+  UL Rate: 0.17 Mbps
+  DL Rate: 148.76 Mbps
+  Total Power: 1395.54 W
+
+
+============================================================
+Episode 67
+  Avg Score: 116.01
+  Total Reward: 12695.37
+  Total Rate: 142.78 Mbps
+  UL Rate: 0.08 Mbps
+  DL Rate: 142.70 Mbps
+  Total Power: 1514.11 W
+
+
+============================================================
+Episode 68
+  Avg Score: 116.22
+  Total Reward: 13106.14
+  Total Rate: 145.84 Mbps
+  UL Rate: 0.20 Mbps
+  DL Rate: 145.64 Mbps
+  Total Power: 1342.60 W
+
+
+============================================================
+Episode 69
+  Avg Score: 116.48
+  Total Reward: 13447.95
+  Total Rate: 151.58 Mbps
+  UL Rate: 0.11 Mbps
+  DL Rate: 151.47 Mbps
+  Total Power: 1481.31 W
+
+
+============================================================
+Episode 70
+  Avg Score: 116.56
+  Total Reward: 12192.92
+  Total Rate: 140.32 Mbps
+  UL Rate: 0.14 Mbps
+  DL Rate: 140.18 Mbps
+  Total Power: 1689.04 W
+
+
+============================================================
+Episode 71
+  Avg Score: 116.69
+  Total Reward: 12574.94
+  Total Rate: 142.12 Mbps
+  UL Rate: 0.10 Mbps
+  DL Rate: 142.02 Mbps
+  Total Power: 1541.64 W
+
+
+============================================================
+Episode 72
+  Avg Score: 117.03
+  Total Reward: 14139.00
+  Total Rate: 153.19 Mbps
+  UL Rate: 0.57 Mbps
+  DL Rate: 152.63 Mbps
+  Total Power: 955.52 W
+
+
+============================================================
+Episode 73
+  Avg Score: 117.37
+  Total Reward: 14233.80
+  Total Rate: 158.09 Mbps
+  UL Rate: 0.55 Mbps
+  DL Rate: 157.54 Mbps
+  Total Power: 1274.71 W
+
+
+============================================================
+Episode 74
+  Avg Score: 117.61
+  Total Reward: 13566.75
+  Total Rate: 148.83 Mbps
+  UL Rate: 0.51 Mbps
+  DL Rate: 148.32 Mbps
+  Total Power: 1114.78 W
+
+
+============================================================
+Episode 75
+  Avg Score: 117.83
+  Total Reward: 13392.01
+  Total Rate: 147.36 Mbps
+  UL Rate: 0.50 Mbps
+  DL Rate: 146.85 Mbps
+  Total Power: 1142.45 W
+
+
+============================================================
+Episode 76
+  Avg Score: 118.04
+  Total Reward: 13408.73
+  Total Rate: 149.21 Mbps
+  UL Rate: 0.67 Mbps
+  DL Rate: 148.55 Mbps
+  Total Power: 1237.09 W
+
+
+============================================================
+Episode 77
+  Avg Score: 118.37
+  Total Reward: 14427.81
+  Total Rate: 159.11 Mbps
+  UL Rate: 0.61 Mbps
+  DL Rate: 158.51 Mbps
+  Total Power: 1107.42 W
+
+
+============================================================
+Episode 78
+  Avg Score: 118.71
+  Total Reward: 14509.64
+  Total Rate: 157.18 Mbps
+  UL Rate: 0.67 Mbps
+  DL Rate: 156.51 Mbps
+  Total Power: 888.47 W
+
+
+============================================================
+Episode 79
+  Avg Score: 119.04
+  Total Reward: 14455.27
+  Total Rate: 156.82 Mbps
+  UL Rate: 0.57 Mbps
+  DL Rate: 156.25 Mbps
+  Total Power: 953.07 W
+
+
+============================================================
+Episode 80
+  Avg Score: 119.40
+  Total Reward: 14835.69
+  Total Rate: 166.06 Mbps
+  UL Rate: 0.68 Mbps
+  DL Rate: 165.37 Mbps
+  Total Power: 1325.84 W
+
+
+============================================================
+Episode 81
+  Avg Score: 119.89
+  Total Reward: 15942.22
+  Total Rate: 173.85 Mbps
+  UL Rate: 0.67 Mbps
+  DL Rate: 173.18 Mbps
+  Total Power: 1035.28 W
+
+
+============================================================
+Episode 82
+  Avg Score: 120.22
+  Total Reward: 14770.18
+  Total Rate: 162.14 Mbps
+  UL Rate: 0.63 Mbps
+  DL Rate: 161.51 Mbps
+  Total Power: 1075.56 W
+
+
+============================================================
+Episode 83
+  Avg Score: 120.53
+  Total Reward: 14632.40
+  Total Rate: 160.31 Mbps
+  UL Rate: 0.61 Mbps
+  DL Rate: 159.69 Mbps
+  Total Power: 1049.69 W
+
+
+============================================================
+Episode 84
+  Avg Score: 120.87
+  Total Reward: 14915.92
+  Total Rate: 161.89 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 161.15 Mbps
+  Total Power: 963.91 W
+
+
+============================================================
+Episode 85
+  Avg Score: 121.19
+  Total Reward: 14818.43
+  Total Rate: 162.14 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 161.33 Mbps
+  Total Power: 1059.11 W
+
+
+============================================================
+Episode 86
+  Avg Score: 121.46
+  Total Reward: 14536.12
+  Total Rate: 159.92 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 159.04 Mbps
+  Total Power: 1082.60 W
+
+
+============================================================
+Episode 87
+  Avg Score: 121.87
+  Total Reward: 15756.41
+  Total Rate: 171.09 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 170.26 Mbps
+  Total Power: 909.94 W
+
+
+============================================================
+Episode 88
+  Avg Score: 122.25
+  Total Reward: 15495.28
+  Total Rate: 169.02 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 168.25 Mbps
+  Total Power: 1018.53 W
+
+
+============================================================
+Episode 89
+  Avg Score: 122.59
+  Total Reward: 15309.61
+  Total Rate: 167.67 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 166.77 Mbps
+  Total Power: 1047.42 W
+
+
+============================================================
+Episode 90
+  Avg Score: 122.88
+  Total Reward: 14922.40
+  Total Rate: 165.29 Mbps
+  UL Rate: 0.73 Mbps
+  DL Rate: 164.56 Mbps
+  Total Power: 1211.91 W
+
+
+============================================================
+Episode 91
+  Avg Score: 123.26
+  Total Reward: 15788.53
+  Total Rate: 172.23 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 171.44 Mbps
+  Total Power: 995.43 W
+
+
+============================================================
+Episode 92
+  Avg Score: 123.48
+  Total Reward: 14337.16
+  Total Rate: 157.24 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 156.43 Mbps
+  Total Power: 1028.95 W
+
+
+============================================================
+Episode 93
+  Avg Score: 123.85
+  Total Reward: 15877.45
+  Total Rate: 173.22 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 172.34 Mbps
+  Total Power: 967.59 W
+
+
+============================================================
+Episode 94
+  Avg Score: 124.06
+  Total Reward: 14322.56
+  Total Rate: 158.32 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 157.46 Mbps
+  Total Power: 1178.14 W
+
+
+============================================================
+Episode 95
+  Avg Score: 124.34
+  Total Reward: 15130.62
+  Total Rate: 167.68 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 166.94 Mbps
+  Total Power: 1267.77 W
+
+
+============================================================
+Episode 96
+  Avg Score: 124.66
+  Total Reward: 15496.42
+  Total Rate: 169.77 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 168.98 Mbps
+  Total Power: 1066.93 W
+
+
+============================================================
+Episode 97
+  Avg Score: 124.89
+  Total Reward: 14719.59
+  Total Rate: 161.21 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 160.41 Mbps
+  Total Power: 1056.81 W
+
+
+============================================================
+Episode 98
+  Avg Score: 125.17
+  Total Reward: 15237.49
+  Total Rate: 167.71 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 166.86 Mbps
+  Total Power: 1110.27 W
+
+
+============================================================
+Episode 99
+  Avg Score: 125.46
+  Total Reward: 15447.89
+  Total Rate: 169.06 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 168.26 Mbps
+  Total Power: 1061.58 W
+
+
+============================================================
+Episode 100
+  Avg Score: 128.75
+  Total Reward: 15035.02
+  Total Rate: 165.37 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 164.55 Mbps
+  Total Power: 1092.40 W
+
+
+============================================================
+训练开始时间: 2026-01-05 20:11:16
+环境类型: dude
+UAV数量: 2
+用户数量: 20
+============================================================
+
+✓ 环境创建成功: UAVEnvDUDe
+  观察维度: 3
+  动作维度: 44
+✓ 创建 2 个智能体
+
+开始训练...
+
+============================================================
+Episode 0
+  Avg Score: -83.40
+  Total Reward: -8339.52
+  Total Rate: 112.34 Mbps
+  UL Rate: 0.30 Mbps
+  DL Rate: 112.03 Mbps
+  Total Power: 19408.12 W
+
+
+============================================================
+Episode 1
+  Avg Score: 8.02
+  Total Reward: 9943.75
+  Total Rate: 125.01 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 124.83 Mbps
+  Total Power: 2286.12 W
+
+
+============================================================
+Episode 2
+  Avg Score: 40.35
+  Total Reward: 10501.00
+  Total Rate: 123.79 Mbps
+  UL Rate: 0.20 Mbps
+  DL Rate: 123.60 Mbps
+  Total Power: 1711.67 W
+
+
+============================================================
+Episode 3
+  Avg Score: 56.24
+  Total Reward: 10391.92
+  Total Rate: 125.39 Mbps
+  UL Rate: 0.23 Mbps
+  DL Rate: 125.16 Mbps
+  Total Power: 1947.10 W
+
+
+============================================================
+Episode 4
+  Avg Score: 65.94
+  Total Reward: 10473.12
+  Total Rate: 126.73 Mbps
+  UL Rate: 0.19 Mbps
+  DL Rate: 126.54 Mbps
+  Total Power: 1987.98 W
+
+
+============================================================
+Episode 5
+  Avg Score: 71.62
+  Total Reward: 10001.97
+  Total Rate: 124.23 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 124.06 Mbps
+  Total Power: 2230.63 W
+
+
+============================================================
+Episode 6
+  Avg Score: 76.64
+  Total Reward: 10673.33
+  Total Rate: 127.92 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 127.75 Mbps
+  Total Power: 1902.32 W
+
+
+============================================================
+Episode 7
+  Avg Score: 80.57
+  Total Reward: 10813.29
+  Total Rate: 130.34 Mbps
+  UL Rate: 0.17 Mbps
+  DL Rate: 130.17 Mbps
+  Total Power: 2003.89 W
+
+
+============================================================
+Episode 8
+  Avg Score: 83.63
+  Total Reward: 10804.53
+  Total Rate: 130.97 Mbps
+  UL Rate: 0.20 Mbps
+  DL Rate: 130.78 Mbps
+  Total Power: 2015.21 W
+
+
+============================================================
+Episode 9
+  Avg Score: 85.90
+  Total Reward: 10639.74
+  Total Rate: 129.85 Mbps
+  UL Rate: 0.17 Mbps
+  DL Rate: 129.68 Mbps
+  Total Power: 2132.79 W
+
+
+============================================================
+Episode 10
+  Avg Score: 88.60
+  Total Reward: 11554.60
+  Total Rate: 134.60 Mbps
+  UL Rate: 0.17 Mbps
+  DL Rate: 134.43 Mbps
+  Total Power: 1666.09 W
+
+
+============================================================
+Episode 11
+  Avg Score: 90.74
+  Total Reward: 11424.53
+  Total Rate: 133.75 Mbps
+  UL Rate: 0.16 Mbps
+  DL Rate: 133.59 Mbps
+  Total Power: 1676.33 W
+
+
+============================================================
+Episode 12
+  Avg Score: 93.48
+  Total Reward: 12641.78
+  Total Rate: 145.79 Mbps
+  UL Rate: 0.19 Mbps
+  DL Rate: 145.60 Mbps
+  Total Power: 1632.06 W
+
+
+============================================================
+Episode 13
+  Avg Score: 95.43
+  Total Reward: 12083.50
+  Total Rate: 139.15 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 138.96 Mbps
+  Total Power: 1557.83 W
+
+
+============================================================
+Episode 14
+  Avg Score: 97.63
+  Total Reward: 12838.70
+  Total Rate: 145.10 Mbps
+  UL Rate: 0.23 Mbps
+  DL Rate: 144.87 Mbps
+  Total Power: 1415.30 W
+
+
+============================================================
+Episode 15
+  Avg Score: 99.31
+  Total Reward: 12447.25
+  Total Rate: 142.80 Mbps
+  UL Rate: 0.21 Mbps
+  DL Rate: 142.59 Mbps
+  Total Power: 1554.04 W
+
+
+============================================================
+Episode 16
+  Avg Score: 101.20
+  Total Reward: 13139.09
+  Total Rate: 150.34 Mbps
+  UL Rate: 0.24 Mbps
+  DL Rate: 150.11 Mbps
+  Total Power: 1623.16 W
+
+
+============================================================
+Episode 17
+  Avg Score: 102.66
+  Total Reward: 12762.04
+  Total Rate: 146.39 Mbps
+  UL Rate: 0.19 Mbps
+  DL Rate: 146.21 Mbps
+  Total Power: 1622.76 W
+
+
+============================================================
+Episode 18
+  Avg Score: 103.73
+  Total Reward: 12298.18
+  Total Rate: 141.35 Mbps
+  UL Rate: 0.19 Mbps
+  DL Rate: 141.16 Mbps
+  Total Power: 1563.80 W
+
+
+============================================================
+Episode 19
+  Avg Score: 105.29
+  Total Reward: 13493.18
+  Total Rate: 146.99 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 146.07 Mbps
+  Total Power: 917.55 W
+
+
+============================================================
+Episode 20
+  Avg Score: 106.72
+  Total Reward: 13526.62
+  Total Rate: 149.62 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 148.76 Mbps
+  Total Power: 1167.31 W
+
+
+============================================================
+Episode 21
+  Avg Score: 107.21
+  Total Reward: 11738.98
+  Total Rate: 130.94 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 130.15 Mbps
+  Total Power: 1130.27 W
+
+
+============================================================
+Episode 22
+  Avg Score: 105.62
+  Total Reward: 7085.85
+  Total Rate: 84.91 Mbps
+  UL Rate: 0.30 Mbps
+  DL Rate: 84.61 Mbps
+  Total Power: 1342.10 W
+
+
+============================================================
+Episode 23
+  Avg Score: 105.21
+  Total Reward: 9569.81
+  Total Rate: 113.63 Mbps
+  UL Rate: 0.25 Mbps
+  DL Rate: 113.38 Mbps
+  Total Power: 1604.76 W
+
+
+============================================================
+Episode 24
+  Avg Score: 105.84
+  Total Reward: 12080.97
+  Total Rate: 138.78 Mbps
+  UL Rate: 0.24 Mbps
+  DL Rate: 138.54 Mbps
+  Total Power: 1565.86 W
+
+
+============================================================
+Episode 25
+  Avg Score: 106.90
+  Total Reward: 13343.57
+  Total Rate: 147.42 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 146.53 Mbps
+  Total Power: 1083.23 W
+
+
+============================================================
+Episode 26
+  Avg Score: 107.96
+  Total Reward: 13562.98
+  Total Rate: 150.95 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 150.21 Mbps
+  Total Power: 1212.01 W
+
+
+============================================================
+Episode 27
+  Avg Score: 109.17
+  Total Reward: 14189.91
+  Total Rate: 153.70 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 152.89 Mbps
+  Total Power: 881.27 W
+
+
+============================================================
+Episode 28
+  Avg Score: 110.30
+  Total Reward: 14173.99
+  Total Rate: 156.89 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 156.00 Mbps
+  Total Power: 1173.65 W
+
+
+============================================================
+Episode 29
+  Avg Score: 111.24
+  Total Reward: 13854.89
+  Total Rate: 150.30 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 149.40 Mbps
+  Total Power: 899.60 W
+
+
+============================================================
+Episode 30
+  Avg Score: 112.00
+  Total Reward: 13487.53
+  Total Rate: 154.50 Mbps
+  UL Rate: 0.47 Mbps
+  DL Rate: 154.03 Mbps
+  Total Power: 1535.08 W
+
+
+============================================================
+Episode 31
+  Avg Score: 112.18
+  Total Reward: 11769.20
+  Total Rate: 139.23 Mbps
+  UL Rate: 0.16 Mbps
+  DL Rate: 139.07 Mbps
+  Total Power: 1883.77 W
+
+
+============================================================
+Episode 32
+  Avg Score: 112.37
+  Total Reward: 11834.83
+  Total Rate: 136.65 Mbps
+  UL Rate: 0.20 Mbps
+  DL Rate: 136.45 Mbps
+  Total Power: 1602.82 W
+
+
+============================================================
+Episode 33
+  Avg Score: 112.48
+  Total Reward: 11622.14
+  Total Rate: 133.55 Mbps
+  UL Rate: 0.21 Mbps
+  DL Rate: 133.35 Mbps
+  Total Power: 1517.92 W
+
+
+============================================================
+Episode 34
+  Avg Score: 112.58
+  Total Reward: 11595.85
+  Total Rate: 132.52 Mbps
+  UL Rate: 0.20 Mbps
+  DL Rate: 132.32 Mbps
+  Total Power: 1495.39 W
+
+
+============================================================
+Episode 35
+  Avg Score: 112.96
+  Total Reward: 12643.77
+  Total Rate: 142.99 Mbps
+  UL Rate: 0.26 Mbps
+  DL Rate: 142.74 Mbps
+  Total Power: 1416.94 W
+
+
+============================================================
+Episode 36
+  Avg Score: 113.03
+  Total Reward: 11537.20
+  Total Rate: 135.64 Mbps
+  UL Rate: 0.21 Mbps
+  DL Rate: 135.44 Mbps
+  Total Power: 1832.34 W
+
+
+============================================================
+Episode 37
+  Avg Score: 113.65
+  Total Reward: 13656.84
+  Total Rate: 148.89 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 147.97 Mbps
+  Total Power: 943.85 W
+
+
+============================================================
+Episode 38
+  Avg Score: 114.06
+  Total Reward: 12958.07
+  Total Rate: 142.71 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 141.74 Mbps
+  Total Power: 1034.89 W
+
+
+============================================================
+Episode 39
+  Avg Score: 114.29
+  Total Reward: 12335.72
+  Total Rate: 135.20 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 134.27 Mbps
+  Total Power: 963.83 W
+
+
+============================================================
+Episode 40
+  Avg Score: 114.79
+  Total Reward: 13483.07
+  Total Rate: 146.56 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 145.73 Mbps
+  Total Power: 912.16 W
+
+
+============================================================
+Episode 41
+  Avg Score: 115.29
+  Total Reward: 13571.39
+  Total Rate: 150.64 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 149.64 Mbps
+  Total Power: 1158.64 W
+
+
+============================================================
+Episode 42
+  Avg Score: 115.90
+  Total Reward: 14154.12
+  Total Rate: 156.54 Mbps
+  UL Rate: 1.05 Mbps
+  DL Rate: 155.49 Mbps
+  Total Power: 1123.13 W
+
+
+============================================================
+Episode 43
+  Avg Score: 116.42
+  Total Reward: 13865.07
+  Total Rate: 152.79 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 151.83 Mbps
+  Total Power: 1092.93 W
+
+
+============================================================
+Episode 44
+  Avg Score: 116.93
+  Total Reward: 13938.18
+  Total Rate: 153.35 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 152.42 Mbps
+  Total Power: 1068.67 W
+
+
+============================================================
+Episode 45
+  Avg Score: 117.11
+  Total Reward: 12560.01
+  Total Rate: 143.64 Mbps
+  UL Rate: 0.30 Mbps
+  DL Rate: 143.34 Mbps
+  Total Power: 1538.15 W
+
+
+============================================================
+Episode 46
+  Avg Score: 117.29
+  Total Reward: 12524.11
+  Total Rate: 138.82 Mbps
+  UL Rate: 0.52 Mbps
+  DL Rate: 138.30 Mbps
+  Total Power: 1115.45 W
+
+
+============================================================
+Episode 47
+  Avg Score: 117.76
+  Total Reward: 13992.57
+  Total Rate: 152.73 Mbps
+  UL Rate: 1.03 Mbps
+  DL Rate: 151.70 Mbps
+  Total Power: 941.57 W
+
+
+============================================================
+Episode 48
+  Avg Score: 118.13
+  Total Reward: 13594.88
+  Total Rate: 150.61 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 149.77 Mbps
+  Total Power: 1194.01 W
+
+
+============================================================
+Episode 49
+  Avg Score: 118.47
+  Total Reward: 13502.07
+  Total Rate: 150.56 Mbps
+  UL Rate: 1.14 Mbps
+  DL Rate: 149.41 Mbps
+  Total Power: 1235.07 W
+
+
+============================================================
+Episode 50
+  Avg Score: 118.71
+  Total Reward: 13086.03
+  Total Rate: 146.21 Mbps
+  UL Rate: 1.17 Mbps
+  DL Rate: 145.03 Mbps
+  Total Power: 1138.28 W
+
+
+============================================================
+Episode 51
+  Avg Score: 118.68
+  Total Reward: 11688.85
+  Total Rate: 135.90 Mbps
+  UL Rate: 0.50 Mbps
+  DL Rate: 135.40 Mbps
+  Total Power: 1527.38 W
+
+
+============================================================
+Episode 52
+  Avg Score: 118.70
+  Total Reward: 11990.70
+  Total Rate: 140.11 Mbps
+  UL Rate: 0.35 Mbps
+  DL Rate: 139.75 Mbps
+  Total Power: 1654.86 W
+
+
+============================================================
+Episode 53
+  Avg Score: 119.04
+  Total Reward: 13702.01
+  Total Rate: 151.47 Mbps
+  UL Rate: 1.04 Mbps
+  DL Rate: 150.43 Mbps
+  Total Power: 1075.63 W
+
+
+============================================================
+Episode 54
+  Avg Score: 119.49
+  Total Reward: 14370.69
+  Total Rate: 156.96 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 156.05 Mbps
+  Total Power: 985.37 W
+
+
+============================================================
+Episode 55
+  Avg Score: 119.73
+  Total Reward: 13315.60
+  Total Rate: 146.19 Mbps
+  UL Rate: 1.02 Mbps
+  DL Rate: 145.17 Mbps
+  Total Power: 1035.87 W
+
+
+============================================================
+Episode 56
+  Avg Score: 119.79
+  Total Reward: 12328.06
+  Total Rate: 142.89 Mbps
+  UL Rate: 0.60 Mbps
+  DL Rate: 142.29 Mbps
+  Total Power: 1564.56 W
+
+
+============================================================
+Episode 57
+  Avg Score: 119.78
+  Total Reward: 11916.22
+  Total Rate: 137.80 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 137.62 Mbps
+  Total Power: 1629.94 W
+
+
+============================================================
+Episode 58
+  Avg Score: 119.71
+  Total Reward: 11531.49
+  Total Rate: 132.59 Mbps
+  UL Rate: 0.49 Mbps
+  DL Rate: 132.10 Mbps
+  Total Power: 1422.91 W
+
+
+============================================================
+Episode 59
+  Avg Score: 119.95
+  Total Reward: 13442.70
+  Total Rate: 148.45 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 147.68 Mbps
+  Total Power: 1136.98 W
+
+
+============================================================
+Episode 60
+  Avg Score: 120.22
+  Total Reward: 13640.84
+  Total Rate: 150.53 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 149.65 Mbps
+  Total Power: 1102.09 W
+
+
+============================================================
+Episode 61
+  Avg Score: 120.48
+  Total Reward: 13609.02
+  Total Rate: 151.34 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 150.37 Mbps
+  Total Power: 1156.86 W
+
+
+============================================================
+Episode 62
+  Avg Score: 120.79
+  Total Reward: 13985.85
+  Total Rate: 156.18 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 155.22 Mbps
+  Total Power: 1279.16 W
+
+
+============================================================
+Episode 63
+  Avg Score: 121.03
+  Total Reward: 13642.80
+  Total Rate: 153.02 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 152.07 Mbps
+  Total Power: 1349.34 W
+
+
+============================================================
+Episode 64
+  Avg Score: 120.91
+  Total Reward: 11336.59
+  Total Rate: 130.38 Mbps
+  UL Rate: 0.24 Mbps
+  DL Rate: 130.14 Mbps
+  Total Power: 1547.25 W
+
+
+============================================================
+Episode 65
+  Avg Score: 120.94
+  Total Reward: 12301.60
+  Total Rate: 141.05 Mbps
+  UL Rate: 0.23 Mbps
+  DL Rate: 140.82 Mbps
+  Total Power: 1564.81 W
+
+
+============================================================
+Episode 66
+  Avg Score: 121.22
+  Total Reward: 13912.63
+  Total Rate: 152.50 Mbps
+  UL Rate: 1.16 Mbps
+  DL Rate: 151.34 Mbps
+  Total Power: 1002.28 W
+
+
+============================================================
+Episode 67
+  Avg Score: 121.36
+  Total Reward: 13137.94
+  Total Rate: 146.46 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 145.56 Mbps
+  Total Power: 1199.09 W
+
+
+============================================================
+Episode 68
+  Avg Score: 121.63
+  Total Reward: 13963.31
+  Total Rate: 153.50 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 152.60 Mbps
+  Total Power: 1057.74 W
+
+
+============================================================
+Episode 69
+  Avg Score: 121.86
+  Total Reward: 13761.23
+  Total Rate: 150.81 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 149.91 Mbps
+  Total Power: 1012.74 W
+
+
+============================================================
+Episode 70
+  Avg Score: 121.95
+  Total Reward: 12869.89
+  Total Rate: 143.02 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 142.23 Mbps
+  Total Power: 1191.14 W
+
+
+============================================================
+Episode 71
+  Avg Score: 122.09
+  Total Reward: 13168.96
+  Total Rate: 145.76 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 144.91 Mbps
+  Total Power: 1160.70 W
+
+
+============================================================
+Episode 72
+  Avg Score: 122.30
+  Total Reward: 13717.51
+  Total Rate: 149.13 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 148.23 Mbps
+  Total Power: 936.31 W
+
+
+============================================================
+Episode 73
+  Avg Score: 122.44
+  Total Reward: 13259.23
+  Total Rate: 148.46 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 147.59 Mbps
+  Total Power: 1261.99 W
+
+
+============================================================
+Episode 74
+  Avg Score: 122.55
+  Total Reward: 13103.49
+  Total Rate: 144.25 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 143.31 Mbps
+  Total Power: 1048.42 W
+
+
+============================================================
+Episode 75
+  Avg Score: 122.50
+  Total Reward: 11855.34
+  Total Rate: 135.60 Mbps
+  UL Rate: 0.60 Mbps
+  DL Rate: 135.00 Mbps
+  Total Power: 1429.04 W
+
+
+============================================================
+Episode 76
+  Avg Score: 122.38
+  Total Reward: 11309.68
+  Total Rate: 132.42 Mbps
+  UL Rate: 0.22 Mbps
+  DL Rate: 132.20 Mbps
+  Total Power: 1729.94 W
+
+
+============================================================
+Episode 77
+  Avg Score: 122.35
+  Total Reward: 12036.85
+  Total Rate: 137.28 Mbps
+  UL Rate: 0.20 Mbps
+  DL Rate: 137.07 Mbps
+  Total Power: 1478.13 W
+
+
+============================================================
+Episode 78
+  Avg Score: 122.28
+  Total Reward: 11670.72
+  Total Rate: 131.19 Mbps
+  UL Rate: 0.24 Mbps
+  DL Rate: 130.94 Mbps
+  Total Power: 1270.17 W
+
+
+============================================================
+Episode 79
+  Avg Score: 122.29
+  Total Reward: 12284.22
+  Total Rate: 137.10 Mbps
+  UL Rate: 0.58 Mbps
+  DL Rate: 136.52 Mbps
+  Total Power: 1140.69 W
+
+
+============================================================
+Episode 80
+  Avg Score: 122.37
+  Total Reward: 12897.06
+  Total Rate: 146.03 Mbps
+  UL Rate: 1.08 Mbps
+  DL Rate: 144.95 Mbps
+  Total Power: 1386.53 W
+
+
+============================================================
+Episode 81
+  Avg Score: 122.41
+  Total Reward: 12625.64
+  Total Rate: 142.16 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 141.19 Mbps
+  Total Power: 1272.49 W
+
+
+============================================================
+Episode 82
+  Avg Score: 122.37
+  Total Reward: 11841.31
+  Total Rate: 134.76 Mbps
+  UL Rate: 0.26 Mbps
+  DL Rate: 134.50 Mbps
+  Total Power: 1401.98 W
+
+
+============================================================
+Episode 83
+  Avg Score: 122.35
+  Total Reward: 12083.82
+  Total Rate: 136.62 Mbps
+  UL Rate: 0.46 Mbps
+  DL Rate: 136.16 Mbps
+  Total Power: 1302.81 W
+
+
+============================================================
+Episode 84
+  Avg Score: 122.37
+  Total Reward: 12402.68
+  Total Rate: 138.97 Mbps
+  UL Rate: 0.51 Mbps
+  DL Rate: 138.47 Mbps
+  Total Power: 1215.78 W
+
+
+============================================================
+Episode 85
+  Avg Score: 122.33
+  Total Reward: 11876.58
+  Total Rate: 134.33 Mbps
+  UL Rate: 1.01 Mbps
+  DL Rate: 133.32 Mbps
+  Total Power: 1248.23 W
+
+
+============================================================
+Episode 86
+  Avg Score: 122.42
+  Total Reward: 13024.02
+  Total Rate: 145.58 Mbps
+  UL Rate: 1.36 Mbps
+  DL Rate: 144.22 Mbps
+  Total Power: 1139.41 W
+
+
+============================================================
+Episode 87
+  Avg Score: 122.56
+  Total Reward: 13501.67
+  Total Rate: 147.16 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 146.21 Mbps
+  Total Power: 917.82 W
+
+
+============================================================
+Episode 88
+  Avg Score: 122.70
+  Total Reward: 13473.72
+  Total Rate: 147.40 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 146.56 Mbps
+  Total Power: 1021.52 W
+
+
+============================================================
+Episode 89
+  Avg Score: 122.84
+  Total Reward: 13590.31
+  Total Rate: 149.40 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 148.46 Mbps
+  Total Power: 1052.15 W
+
+
+============================================================
+Episode 90
+  Avg Score: 122.97
+  Total Reward: 13446.46
+  Total Rate: 149.38 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 148.61 Mbps
+  Total Power: 1217.12 W
+
+
+============================================================
+Episode 91
+  Avg Score: 123.16
+  Total Reward: 14035.80
+  Total Rate: 153.91 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 153.05 Mbps
+  Total Power: 1006.47 W
+
+
+============================================================
+Episode 92
+  Avg Score: 123.17
+  Total Reward: 12441.53
+  Total Rate: 137.04 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 136.12 Mbps
+  Total Power: 1032.29 W
+
+
+============================================================
+Episode 93
+  Avg Score: 123.32
+  Total Reward: 13661.07
+  Total Rate: 149.44 Mbps
+  UL Rate: 1.02 Mbps
+  DL Rate: 148.43 Mbps
+  Total Power: 977.32 W
+
+
+============================================================
+Episode 94
+  Avg Score: 123.29
+  Total Reward: 12098.03
+  Total Rate: 135.44 Mbps
+  UL Rate: 1.18 Mbps
+  DL Rate: 134.25 Mbps
+  Total Power: 1216.55 W
+
+
+============================================================
+Episode 95
+  Avg Score: 123.33
+  Total Reward: 12660.63
+  Total Rate: 143.84 Mbps
+  UL Rate: 1.20 Mbps
+  DL Rate: 142.64 Mbps
+  Total Power: 1393.82 W
+
+
+============================================================
+Episode 96
+  Avg Score: 123.29
+  Total Reward: 11962.75
+  Total Rate: 137.49 Mbps
+  UL Rate: 0.29 Mbps
+  DL Rate: 137.20 Mbps
+  Total Power: 1492.70 W
+
+
+============================================================
+Episode 97
+  Avg Score: 123.14
+  Total Reward: 10890.60
+  Total Rate: 126.03 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 125.85 Mbps
+  Total Power: 1547.00 W
+
+
+============================================================
+Episode 98
+  Avg Score: 123.06
+  Total Reward: 11461.08
+  Total Rate: 133.16 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 132.98 Mbps
+  Total Power: 1614.47 W
+
+
+============================================================
+Episode 99
+  Avg Score: 123.01
+  Total Reward: 11803.45
+  Total Rate: 134.68 Mbps
+  UL Rate: 0.19 Mbps
+  DL Rate: 134.48 Mbps
+  Total Power: 1467.26 W
+
+
+============================================================
+Episode 100
+  Avg Score: 124.97
+  Total Reward: 11296.40
+  Total Rate: 130.12 Mbps
+  UL Rate: 0.40 Mbps
+  DL Rate: 129.72 Mbps
+  Total Power: 1452.74 W
+
+
+============================================================
+Episode 101
+  Avg Score: 125.30
+  Total Reward: 13284.28
+  Total Rate: 148.76 Mbps
+  UL Rate: 1.31 Mbps
+  DL Rate: 147.44 Mbps
+  Total Power: 1202.73 W
+
+
+============================================================
+Episode 102
+  Avg Score: 125.53
+  Total Reward: 12801.42
+  Total Rate: 141.90 Mbps
+  UL Rate: 1.16 Mbps
+  DL Rate: 140.74 Mbps
+  Total Power: 1112.98 W
+
+
+============================================================
+Episode 103
+  Avg Score: 125.93
+  Total Reward: 14351.50
+  Total Rate: 155.07 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 154.15 Mbps
+  Total Power: 831.08 W
+
+
+============================================================
+Episode 104
+  Avg Score: 126.23
+  Total Reward: 13461.37
+  Total Rate: 148.61 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 147.68 Mbps
+  Total Power: 1140.09 W
+
+
+============================================================
+Episode 105
+  Avg Score: 126.54
+  Total Reward: 13071.25
+  Total Rate: 143.59 Mbps
+  UL Rate: 1.08 Mbps
+  DL Rate: 142.50 Mbps
+  Total Power: 1065.55 W
+
+
+============================================================
+Episode 106
+  Avg Score: 126.79
+  Total Reward: 13224.99
+  Total Rate: 143.86 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 142.99 Mbps
+  Total Power: 956.43 W
+
+
+============================================================
+Episode 107
+  Avg Score: 127.08
+  Total Reward: 13756.07
+  Total Rate: 151.01 Mbps
+  UL Rate: 1.06 Mbps
+  DL Rate: 149.95 Mbps
+  Total Power: 1052.60 W
+
+
+============================================================
+Episode 108
+  Avg Score: 127.34
+  Total Reward: 13361.14
+  Total Rate: 146.00 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 145.09 Mbps
+  Total Power: 988.89 W
+
+
+============================================================
+Episode 109
+  Avg Score: 127.66
+  Total Reward: 13789.51
+  Total Rate: 150.96 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 150.11 Mbps
+  Total Power: 1018.52 W
+
+
+============================================================
+Episode 110
+  Avg Score: 127.84
+  Total Reward: 13367.85
+  Total Rate: 148.69 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 147.81 Mbps
+  Total Power: 1244.09 W
+
+
+============================================================
+Episode 111
+  Avg Score: 128.11
+  Total Reward: 14112.86
+  Total Rate: 154.39 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 153.55 Mbps
+  Total Power: 1045.71 W
+
+
+============================================================
+Episode 112
+  Avg Score: 128.19
+  Total Reward: 13457.08
+  Total Rate: 147.46 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 146.59 Mbps
+  Total Power: 1029.34 W
+
+
+============================================================
+Episode 113
+  Avg Score: 128.22
+  Total Reward: 12459.19
+  Total Rate: 139.50 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 138.53 Mbps
+  Total Power: 1257.06 W
+
+
+============================================================
+Episode 114
+  Avg Score: 128.27
+  Total Reward: 13249.44
+  Total Rate: 145.28 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 144.32 Mbps
+  Total Power: 993.79 W
+
+
+============================================================
+Episode 115
+  Avg Score: 128.31
+  Total Reward: 12932.60
+  Total Rate: 142.14 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 141.26 Mbps
+  Total Power: 1041.45 W
+
+
+============================================================
+Episode 116
+  Avg Score: 128.28
+  Total Reward: 12803.91
+  Total Rate: 141.08 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 140.11 Mbps
+  Total Power: 1066.56 W
+
+
+============================================================
+Episode 117
+  Avg Score: 128.26
+  Total Reward: 12526.20
+  Total Rate: 139.33 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 138.45 Mbps
+  Total Power: 1185.36 W
+
+
+============================================================
+Episode 118
+  Avg Score: 128.22
+  Total Reward: 11936.59
+  Total Rate: 135.03 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 134.12 Mbps
+  Total Power: 1336.36 W
+
+
+============================================================
+Episode 119
+  Avg Score: 128.17
+  Total Reward: 13029.71
+  Total Rate: 144.39 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 143.44 Mbps
+  Total Power: 1190.65 W
+
+
+============================================================
+Episode 120
+  Avg Score: 128.28
+  Total Reward: 14600.86
+  Total Rate: 158.58 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 157.74 Mbps
+  Total Power: 946.44 W
+
+
+============================================================
+Episode 121
+  Avg Score: 128.38
+  Total Reward: 12690.58
+  Total Rate: 142.33 Mbps
+  UL Rate: 1.15 Mbps
+  DL Rate: 141.18 Mbps
+  Total Power: 1167.94 W
+
+
+============================================================
+Episode 122
+  Avg Score: 129.07
+  Total Reward: 14010.43
+  Total Rate: 154.35 Mbps
+  UL Rate: 1.02 Mbps
+  DL Rate: 153.33 Mbps
+  Total Power: 1093.59 W
+
+
+============================================================
+Episode 123
+  Avg Score: 129.48
+  Total Reward: 13684.55
+  Total Rate: 152.52 Mbps
+  UL Rate: 1.12 Mbps
+  DL Rate: 151.40 Mbps
+  Total Power: 1110.08 W
+
+
+============================================================
+Episode 124
+  Avg Score: 129.44
+  Total Reward: 11692.92
+  Total Rate: 136.29 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 135.53 Mbps
+  Total Power: 1549.77 W
+
+
+============================================================
+Episode 125
+  Avg Score: 129.35
+  Total Reward: 12405.77
+  Total Rate: 142.03 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 141.21 Mbps
+  Total Power: 1388.47 W
+
+
+============================================================
+Episode 126
+  Avg Score: 129.31
+  Total Reward: 13208.14
+  Total Rate: 146.51 Mbps
+  UL Rate: 1.30 Mbps
+  DL Rate: 145.21 Mbps
+  Total Power: 1032.67 W
+
+
+============================================================
+Episode 127
+  Avg Score: 129.17
+  Total Reward: 12742.26
+  Total Rate: 139.29 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 138.42 Mbps
+  Total Power: 994.25 W
+
+
+============================================================
+Episode 128
+  Avg Score: 129.05
+  Total Reward: 12980.54
+  Total Rate: 143.17 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 142.24 Mbps
+  Total Power: 1094.54 W
+
+
+============================================================
+Episode 129
+  Avg Score: 129.05
+  Total Reward: 13842.94
+  Total Rate: 153.60 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 152.64 Mbps
+  Total Power: 1174.36 W
+
+
+============================================================
+Episode 130
+  Avg Score: 129.02
+  Total Reward: 13226.85
+  Total Rate: 146.22 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 145.43 Mbps
+  Total Power: 1116.25 W
+
+
+============================================================
+Episode 131
+  Avg Score: 129.20
+  Total Reward: 13539.02
+  Total Rate: 148.69 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 147.84 Mbps
+  Total Power: 1063.44 W
+
+
+============================================================
+Episode 132
+  Avg Score: 129.39
+  Total Reward: 13758.06
+  Total Rate: 153.04 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 152.06 Mbps
+  Total Power: 1205.17 W
+
+
+============================================================
+Episode 133
+  Avg Score: 129.40
+  Total Reward: 11732.06
+  Total Rate: 133.11 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 132.28 Mbps
+  Total Power: 1304.53 W
+
+
+============================================================
+Episode 134
+  Avg Score: 129.49
+  Total Reward: 12521.31
+  Total Rate: 142.93 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 142.03 Mbps
+  Total Power: 1420.12 W
+
+
+============================================================
+Episode 135
+  Avg Score: 129.43
+  Total Reward: 11971.10
+  Total Rate: 136.24 Mbps
+  UL Rate: 0.36 Mbps
+  DL Rate: 135.88 Mbps
+  Total Power: 1389.59 W
+
+
+============================================================
+Episode 136
+  Avg Score: 129.56
+  Total Reward: 12888.95
+  Total Rate: 142.99 Mbps
+  UL Rate: 0.64 Mbps
+  DL Rate: 142.36 Mbps
+  Total Power: 1142.57 W
+
+
+============================================================
+Episode 137
+  Avg Score: 129.35
+  Total Reward: 11561.32
+  Total Rate: 131.56 Mbps
+  UL Rate: 0.47 Mbps
+  DL Rate: 131.08 Mbps
+  Total Power: 1323.96 W
+
+
+============================================================
+Episode 138
+  Avg Score: 129.40
+  Total Reward: 13385.18
+  Total Rate: 149.38 Mbps
+  UL Rate: 1.11 Mbps
+  DL Rate: 148.27 Mbps
+  Total Power: 1225.64 W
+
+
+============================================================
+Episode 139
+  Avg Score: 129.53
+  Total Reward: 13702.17
+  Total Rate: 151.12 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 150.12 Mbps
+  Total Power: 1100.45 W
+
+
+============================================================
+Episode 140
+  Avg Score: 129.58
+  Total Reward: 13978.44
+  Total Rate: 153.26 Mbps
+  UL Rate: 1.04 Mbps
+  DL Rate: 152.21 Mbps
+  Total Power: 1039.26 W
+
+
+============================================================
+Episode 141
+  Avg Score: 129.57
+  Total Reward: 13471.30
+  Total Rate: 148.48 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 147.52 Mbps
+  Total Power: 1112.45 W
+
+
+============================================================
+Episode 142
+  Avg Score: 129.52
+  Total Reward: 13621.49
+  Total Rate: 151.13 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 150.26 Mbps
+  Total Power: 1205.29 W
+
+
+============================================================
+Episode 143
+  Avg Score: 129.41
+  Total Reward: 12734.49
+  Total Rate: 140.58 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 139.66 Mbps
+  Total Power: 1110.23 W
+
+
+============================================================
+Episode 144
+  Avg Score: 129.33
+  Total Reward: 13208.41
+  Total Rate: 146.18 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 145.28 Mbps
+  Total Power: 1173.56 W
+
+
+============================================================
+Episode 145
+  Avg Score: 129.39
+  Total Reward: 13147.42
+  Total Rate: 146.94 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 145.97 Mbps
+  Total Power: 1245.79 W
+
+
+============================================================
+Episode 146
+  Avg Score: 129.50
+  Total Reward: 13651.59
+  Total Rate: 150.24 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 149.38 Mbps
+  Total Power: 1120.25 W
+
+
+============================================================
+Episode 147
+  Avg Score: 129.48
+  Total Reward: 13801.50
+  Total Rate: 151.28 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 150.40 Mbps
+  Total Power: 1034.18 W
+
+
+============================================================
+Episode 148
+  Avg Score: 129.45
+  Total Reward: 13273.52
+  Total Rate: 145.45 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 144.63 Mbps
+  Total Power: 1045.59 W
+
+
+============================================================
+Episode 149
+  Avg Score: 129.45
+  Total Reward: 13449.83
+  Total Rate: 146.34 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 145.40 Mbps
+  Total Power: 918.51 W
+
+
+============================================================
+Episode 150
+  Avg Score: 129.49
+  Total Reward: 13552.76
+  Total Rate: 148.93 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 148.06 Mbps
+  Total Power: 1063.74 W
+
+
+============================================================
+Episode 151
+  Avg Score: 129.60
+  Total Reward: 12785.38
+  Total Rate: 140.43 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 139.49 Mbps
+  Total Power: 1029.54 W
+
+
+============================================================
+Episode 152
+  Avg Score: 129.74
+  Total Reward: 13401.67
+  Total Rate: 148.68 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 147.88 Mbps
+  Total Power: 1185.01 W
+
+
+============================================================
+Episode 153
+  Avg Score: 129.66
+  Total Reward: 12886.04
+  Total Rate: 143.40 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 142.64 Mbps
+  Total Power: 1182.65 W
+
+
+============================================================
+Episode 154
+  Avg Score: 129.49
+  Total Reward: 12645.22
+  Total Rate: 141.86 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 140.89 Mbps
+  Total Power: 1234.12 W
+
+
+============================================================
+Episode 155
+  Avg Score: 129.49
+  Total Reward: 13262.23
+  Total Rate: 148.00 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 147.19 Mbps
+  Total Power: 1233.77 W
+
+
+============================================================
+Episode 156
+  Avg Score: 129.54
+  Total Reward: 12862.25
+  Total Rate: 142.22 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 141.27 Mbps
+  Total Power: 1134.18 W
+
+
+============================================================
+Episode 157
+  Avg Score: 129.61
+  Total Reward: 12667.28
+  Total Rate: 140.30 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 139.38 Mbps
+  Total Power: 1106.06 W
+
+
+============================================================
+Episode 158
+  Avg Score: 129.77
+  Total Reward: 13090.84
+  Total Rate: 142.14 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 141.28 Mbps
+  Total Power: 889.53 W
+
+
+============================================================
+Episode 159
+  Avg Score: 129.87
+  Total Reward: 14397.47
+  Total Rate: 158.40 Mbps
+  UL Rate: 1.15 Mbps
+  DL Rate: 157.25 Mbps
+  Total Power: 1066.21 W
+
+
+============================================================
+Episode 160
+  Avg Score: 129.77
+  Total Reward: 12727.25
+  Total Rate: 139.47 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 138.52 Mbps
+  Total Power: 980.77 W
+
+
+============================================================
+Episode 161
+  Avg Score: 129.74
+  Total Reward: 13242.03
+  Total Rate: 146.33 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 145.34 Mbps
+  Total Power: 1109.06 W
+
+
+============================================================
+Episode 162
+  Avg Score: 129.70
+  Total Reward: 13579.41
+  Total Rate: 149.70 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 148.80 Mbps
+  Total Power: 1100.02 W
+
+
+============================================================
+Episode 163
+  Avg Score: 129.65
+  Total Reward: 13143.47
+  Total Rate: 146.16 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 145.22 Mbps
+  Total Power: 1192.57 W
+
+
+============================================================
+Episode 164
+  Avg Score: 129.82
+  Total Reward: 13098.50
+  Total Rate: 144.48 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 143.54 Mbps
+  Total Power: 1053.23 W
+
+
+============================================================
+Episode 165
+  Avg Score: 129.85
+  Total Reward: 12585.71
+  Total Rate: 138.90 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 137.90 Mbps
+  Total Power: 1072.89 W
+
+
+============================================================
+Episode 166
+  Avg Score: 129.84
+  Total Reward: 13796.74
+  Total Rate: 148.68 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 147.69 Mbps
+  Total Power: 807.67 W
+
+
+============================================================
+Episode 167
+  Avg Score: 129.90
+  Total Reward: 13754.59
+  Total Rate: 149.43 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 148.55 Mbps
+  Total Power: 905.58 W
+
+
+============================================================
+Episode 168
+  Avg Score: 129.85
+  Total Reward: 13452.45
+  Total Rate: 148.73 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 147.85 Mbps
+  Total Power: 1135.28 W
+
+
+============================================================
+Episode 169
+  Avg Score: 129.83
+  Total Reward: 13583.50
+  Total Rate: 149.91 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 148.98 Mbps
+  Total Power: 1124.03 W
+
+
+============================================================
+Episode 170
+  Avg Score: 129.87
+  Total Reward: 13231.26
+  Total Rate: 145.80 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 144.82 Mbps
+  Total Power: 1092.16 W
+
+
+============================================================
+Episode 171
+  Avg Score: 129.86
+  Total Reward: 13128.79
+  Total Rate: 144.42 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 143.55 Mbps
+  Total Power: 1067.67 W
+
+
+============================================================
+Episode 172
+  Avg Score: 129.85
+  Total Reward: 13583.74
+  Total Rate: 149.72 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 148.79 Mbps
+  Total Power: 1122.68 W
+
+
+============================================================
+Episode 173
+  Avg Score: 129.83
+  Total Reward: 13002.37
+  Total Rate: 144.09 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 143.30 Mbps
+  Total Power: 1182.21 W
+
+
+============================================================
+Episode 174
+  Avg Score: 129.88
+  Total Reward: 13612.43
+  Total Rate: 150.36 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 149.40 Mbps
+  Total Power: 1135.73 W
+
+
+============================================================
+Episode 175
+  Avg Score: 130.08
+  Total Reward: 13859.12
+  Total Rate: 153.40 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 152.56 Mbps
+  Total Power: 1159.72 W
+
+
+============================================================
+Episode 176
+  Avg Score: 130.37
+  Total Reward: 14257.35
+  Total Rate: 156.06 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 155.21 Mbps
+  Total Power: 1023.71 W
+
+
+============================================================
+Episode 177
+  Avg Score: 130.48
+  Total Reward: 13139.21
+  Total Rate: 144.27 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 143.38 Mbps
+  Total Power: 1027.78 W
+
+
+============================================================
+Episode 178
+  Avg Score: 130.62
+  Total Reward: 13014.59
+  Total Rate: 146.76 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 145.93 Mbps
+  Total Power: 1367.97 W
+
+
+============================================================
+Episode 179
+  Avg Score: 130.80
+  Total Reward: 14126.18
+  Total Rate: 157.22 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 156.47 Mbps
+  Total Power: 1240.01 W
+
+
+============================================================
+Episode 180
+  Avg Score: 130.89
+  Total Reward: 13764.65
+  Total Rate: 150.08 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 149.16 Mbps
+  Total Power: 956.81 W
+
+
+============================================================
+Episode 181
+  Avg Score: 131.03
+  Total Reward: 14056.60
+  Total Rate: 157.28 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 156.40 Mbps
+  Total Power: 1324.82 W
+
+
+============================================================
+Episode 182
+  Avg Score: 131.24
+  Total Reward: 13941.16
+  Total Rate: 153.18 Mbps
+  UL Rate: 1.05 Mbps
+  DL Rate: 152.13 Mbps
+  Total Power: 1039.03 W
+
+
+============================================================
+Episode 183
+  Avg Score: 131.46
+  Total Reward: 14320.05
+  Total Rate: 157.33 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 156.38 Mbps
+  Total Power: 1090.07 W
+
+
+============================================================
+Episode 184
+  Avg Score: 131.60
+  Total Reward: 13729.21
+  Total Rate: 150.04 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 149.05 Mbps
+  Total Power: 996.10 W
+
+
+============================================================
+Episode 185
+  Avg Score: 131.75
+  Total Reward: 13388.57
+  Total Rate: 149.47 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 148.50 Mbps
+  Total Power: 1261.33 W
+
+
+============================================================
+Episode 186
+  Avg Score: 131.84
+  Total Reward: 13985.05
+  Total Rate: 153.94 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 153.11 Mbps
+  Total Power: 1105.58 W
+
+
+============================================================
+Episode 187
+  Avg Score: 131.91
+  Total Reward: 14130.70
+  Total Rate: 155.24 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 154.36 Mbps
+  Total Power: 1053.23 W
+
+
+============================================================
+Episode 188
+  Avg Score: 131.92
+  Total Reward: 13584.08
+  Total Rate: 151.99 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 151.05 Mbps
+  Total Power: 1304.84 W
+
+
+============================================================
+Episode 189
+  Avg Score: 131.87
+  Total Reward: 13161.69
+  Total Rate: 143.13 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 142.21 Mbps
+  Total Power: 912.97 W
+
+
+============================================================
+Episode 190
+  Avg Score: 131.81
+  Total Reward: 12785.15
+  Total Rate: 143.47 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 142.51 Mbps
+  Total Power: 1275.35 W
+
+
+============================================================
+Episode 191
+  Avg Score: 131.78
+  Total Reward: 13702.13
+  Total Rate: 149.67 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 148.76 Mbps
+  Total Power: 995.37 W
+
+
+============================================================
+Episode 192
+  Avg Score: 131.82
+  Total Reward: 12909.75
+  Total Rate: 141.62 Mbps
+  UL Rate: 1.06 Mbps
+  DL Rate: 140.56 Mbps
+  Total Power: 977.59 W
+
+
+============================================================
+Episode 193
+  Avg Score: 131.86
+  Total Reward: 14002.39
+  Total Rate: 153.42 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 152.55 Mbps
+  Total Power: 1077.90 W
+
+
+============================================================
+Episode 194
+  Avg Score: 132.04
+  Total Reward: 13920.71
+  Total Rate: 154.13 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 153.12 Mbps
+  Total Power: 1129.19 W
+
+
+============================================================
+Episode 195
+  Avg Score: 132.08
+  Total Reward: 13047.07
+  Total Rate: 144.34 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 143.43 Mbps
+  Total Power: 1134.03 W
+
+
+============================================================
+Episode 196
+  Avg Score: 132.24
+  Total Reward: 13550.54
+  Total Rate: 149.19 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 148.35 Mbps
+  Total Power: 1112.24 W
+
+
+============================================================
+Episode 197
+  Avg Score: 132.54
+  Total Reward: 13967.74
+  Total Rate: 151.35 Mbps
+  UL Rate: 0.69 Mbps
+  DL Rate: 150.66 Mbps
+  Total Power: 939.71 W
+
+
+============================================================
+Episode 198
+  Avg Score: 132.89
+  Total Reward: 14952.11
+  Total Rate: 164.72 Mbps
+  UL Rate: 1.05 Mbps
+  DL Rate: 163.68 Mbps
+  Total Power: 1099.26 W
+
+
+============================================================
+Episode 199
+  Avg Score: 133.12
+  Total Reward: 14064.36
+  Total Rate: 153.33 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 152.46 Mbps
+  Total Power: 994.09 W
+
+
+============================================================
+Episode 200
+  Avg Score: 133.47
+  Total Reward: 14796.17
+  Total Rate: 160.99 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 160.13 Mbps
+  Total Power: 969.24 W
+
+
+============================================================
+Episode 201
+  Avg Score: 133.54
+  Total Reward: 14020.09
+  Total Rate: 153.68 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 152.79 Mbps
+  Total Power: 1040.84 W
+
+
+============================================================
+Episode 202
+  Avg Score: 133.64
+  Total Reward: 13729.37
+  Total Rate: 150.45 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 149.62 Mbps
+  Total Power: 1016.03 W
+
+
+============================================================
+Episode 203
+  Avg Score: 133.62
+  Total Reward: 14149.70
+  Total Rate: 154.15 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 153.28 Mbps
+  Total Power: 982.02 W
+
+
+============================================================
+Episode 204
+  Avg Score: 133.67
+  Total Reward: 14050.18
+  Total Rate: 155.56 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 154.68 Mbps
+  Total Power: 1157.65 W
+
+
+============================================================
+Episode 205
+  Avg Score: 133.74
+  Total Reward: 13737.46
+  Total Rate: 150.09 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 149.20 Mbps
+  Total Power: 982.22 W
+
+
+============================================================
+Episode 206
+  Avg Score: 133.82
+  Total Reward: 13970.54
+  Total Rate: 154.40 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 153.45 Mbps
+  Total Power: 1148.33 W
+
+
+============================================================
+Episode 207
+  Avg Score: 133.84
+  Total Reward: 14022.60
+  Total Rate: 152.96 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 152.06 Mbps
+  Total Power: 1000.25 W
+
+
+============================================================
+Episode 208
+  Avg Score: 133.85
+  Total Reward: 13429.24
+  Total Rate: 149.03 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 148.14 Mbps
+  Total Power: 1202.54 W
+
+
+============================================================
+Episode 209
+  Avg Score: 133.90
+  Total Reward: 14265.83
+  Total Rate: 154.77 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 153.88 Mbps
+  Total Power: 919.71 W
+
+
+============================================================
+Episode 210
+  Avg Score: 133.95
+  Total Reward: 13943.62
+  Total Rate: 152.58 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 151.59 Mbps
+  Total Power: 975.90 W
+
+
+============================================================
+Episode 211
+  Avg Score: 133.95
+  Total Reward: 14065.91
+  Total Rate: 154.06 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 153.22 Mbps
+  Total Power: 1046.88 W
+
+
+============================================================
+Episode 212
+  Avg Score: 134.08
+  Total Reward: 14795.48
+  Total Rate: 161.31 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 160.42 Mbps
+  Total Power: 985.80 W
+
+
+============================================================
+Episode 213
+  Avg Score: 134.30
+  Total Reward: 14608.59
+  Total Rate: 158.02 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 157.05 Mbps
+  Total Power: 859.56 W
+
+
+============================================================
+Episode 214
+  Avg Score: 134.40
+  Total Reward: 14317.20
+  Total Rate: 155.19 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 154.39 Mbps
+  Total Power: 929.08 W
+
+
+============================================================
+Episode 215
+  Avg Score: 134.56
+  Total Reward: 14509.07
+  Total Rate: 158.49 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 157.56 Mbps
+  Total Power: 1016.08 W
+
+
+============================================================
+Episode 216
+  Avg Score: 134.71
+  Total Reward: 14272.47
+  Total Rate: 157.29 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 156.45 Mbps
+  Total Power: 1174.21 W
+
+
+============================================================
+Episode 217
+  Avg Score: 134.84
+  Total Reward: 13871.84
+  Total Rate: 153.14 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 152.22 Mbps
+  Total Power: 1126.03 W
+
+
+============================================================
+Episode 218
+  Avg Score: 135.06
+  Total Reward: 14083.95
+  Total Rate: 154.45 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 153.50 Mbps
+  Total Power: 1055.14 W
+
+
+============================================================
+Episode 219
+  Avg Score: 135.20
+  Total Reward: 14447.74
+  Total Rate: 158.25 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 157.32 Mbps
+  Total Power: 1071.81 W
+
+
+============================================================
+Episode 220
+  Avg Score: 135.12
+  Total Reward: 13817.67
+  Total Rate: 153.82 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 152.93 Mbps
+  Total Power: 1250.38 W
+
+
+============================================================
+Episode 221
+  Avg Score: 135.20
+  Total Reward: 13442.55
+  Total Rate: 149.10 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 148.17 Mbps
+  Total Power: 1165.73 W
+
+
+============================================================
+Episode 222
+  Avg Score: 135.25
+  Total Reward: 14546.20
+  Total Rate: 159.85 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 158.93 Mbps
+  Total Power: 1106.38 W
+
+
+============================================================
+Episode 223
+  Avg Score: 135.34
+  Total Reward: 14528.08
+  Total Rate: 159.50 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 158.52 Mbps
+  Total Power: 1113.68 W
+
+
+============================================================
+Episode 224
+  Avg Score: 135.51
+  Total Reward: 13490.43
+  Total Rate: 150.03 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 149.09 Mbps
+  Total Power: 1186.49 W
+
+
+============================================================
+Episode 225
+  Avg Score: 135.63
+  Total Reward: 13582.87
+  Total Rate: 150.23 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 149.35 Mbps
+  Total Power: 1144.29 W
+
+
+============================================================
+Episode 226
+  Avg Score: 135.68
+  Total Reward: 13688.62
+  Total Rate: 150.98 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 150.14 Mbps
+  Total Power: 1092.19 W
+
+
+============================================================
+Episode 227
+  Avg Score: 135.85
+  Total Reward: 14388.38
+  Total Rate: 155.99 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 155.05 Mbps
+  Total Power: 910.29 W
+
+
+============================================================
+Episode 228
+  Avg Score: 135.89
+  Total Reward: 13457.35
+  Total Rate: 150.39 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 149.40 Mbps
+  Total Power: 1267.23 W
+
+
+============================================================
+Episode 229
+  Avg Score: 135.94
+  Total Reward: 14312.51
+  Total Rate: 157.24 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 156.39 Mbps
+  Total Power: 1061.39 W
+
+
+============================================================
+Episode 230
+  Avg Score: 136.05
+  Total Reward: 14295.90
+  Total Rate: 157.56 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 156.67 Mbps
+  Total Power: 1120.07 W
+
+
+============================================================
+Episode 231
+  Avg Score: 136.11
+  Total Reward: 14143.13
+  Total Rate: 156.31 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 155.31 Mbps
+  Total Power: 1146.13 W
+
+
+============================================================
+Episode 232
+  Avg Score: 136.11
+  Total Reward: 13832.66
+  Total Rate: 153.08 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 152.22 Mbps
+  Total Power: 1187.94 W
+
+
+============================================================
+Episode 233
+  Avg Score: 136.29
+  Total Reward: 13478.87
+  Total Rate: 148.55 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 147.67 Mbps
+  Total Power: 1107.41 W
+
+
+============================================================
+Episode 234
+  Avg Score: 136.43
+  Total Reward: 13878.49
+  Total Rate: 154.95 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 154.10 Mbps
+  Total Power: 1291.16 W
+
+
+============================================================
+Episode 235
+  Avg Score: 136.61
+  Total Reward: 13855.18
+  Total Rate: 151.79 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 151.01 Mbps
+  Total Power: 1058.54 W
+
+
+============================================================
+Episode 236
+  Avg Score: 136.68
+  Total Reward: 13522.69
+  Total Rate: 149.75 Mbps
+  UL Rate: 0.73 Mbps
+  DL Rate: 149.02 Mbps
+  Total Power: 1192.90 W
+
+
+============================================================
+Episode 237
+  Avg Score: 136.95
+  Total Reward: 14341.06
+  Total Rate: 157.65 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 156.79 Mbps
+  Total Power: 1099.61 W
+
+
+============================================================
+Episode 238
+  Avg Score: 137.04
+  Total Reward: 14203.68
+  Total Rate: 157.18 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 156.29 Mbps
+  Total Power: 1192.30 W
+
+
+============================================================
+Episode 239
+  Avg Score: 137.12
+  Total Reward: 14533.20
+  Total Rate: 158.13 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 157.30 Mbps
+  Total Power: 987.63 W
+
+
+============================================================
+Episode 240
+  Avg Score: 137.14
+  Total Reward: 14141.59
+  Total Rate: 156.16 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 155.39 Mbps
+  Total Power: 1137.80 W
+
+
+============================================================
+Episode 241
+  Avg Score: 137.17
+  Total Reward: 13819.15
+  Total Rate: 153.96 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 153.07 Mbps
+  Total Power: 1239.34 W
+
+
+============================================================
+Episode 242
+  Avg Score: 137.20
+  Total Reward: 13944.08
+  Total Rate: 151.77 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 150.83 Mbps
+  Total Power: 939.19 W
+
+
+============================================================
+Episode 243
+  Avg Score: 137.37
+  Total Reward: 14449.53
+  Total Rate: 157.70 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 156.72 Mbps
+  Total Power: 987.94 W
+
+
+============================================================
+Episode 244
+  Avg Score: 137.43
+  Total Reward: 13794.48
+  Total Rate: 152.57 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 151.67 Mbps
+  Total Power: 1159.56 W
+
+
+============================================================
+Episode 245
+  Avg Score: 137.51
+  Total Reward: 13955.27
+  Total Rate: 153.96 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 153.04 Mbps
+  Total Power: 1138.94 W
+
+
+============================================================
+Episode 246
+  Avg Score: 137.51
+  Total Reward: 13602.80
+  Total Rate: 152.13 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 151.17 Mbps
+  Total Power: 1314.75 W
+
+
+============================================================
+Episode 247
+  Avg Score: 137.56
+  Total Reward: 14272.39
+  Total Rate: 158.38 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 157.40 Mbps
+  Total Power: 1198.99 W
+
+
+============================================================
+Episode 248
+  Avg Score: 137.64
+  Total Reward: 14109.45
+  Total Rate: 154.64 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 153.77 Mbps
+  Total Power: 1051.81 W
+
+
+============================================================
+Episode 249
+  Avg Score: 137.73
+  Total Reward: 14397.48
+  Total Rate: 157.17 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 156.32 Mbps
+  Total Power: 1038.88 W
+
+
+============================================================
+Episode 250
+  Avg Score: 137.79
+  Total Reward: 14141.83
+  Total Rate: 154.56 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 153.68 Mbps
+  Total Power: 1011.64 W
+
+
+============================================================
+Episode 251
+  Avg Score: 137.89
+  Total Reward: 13798.65
+  Total Rate: 152.00 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 151.05 Mbps
+  Total Power: 1116.46 W
+
+
+============================================================
+Episode 252
+  Avg Score: 137.91
+  Total Reward: 13541.36
+  Total Rate: 150.96 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 150.08 Mbps
+  Total Power: 1222.93 W
+
+
+============================================================
+Episode 253
+  Avg Score: 138.04
+  Total Reward: 14191.63
+  Total Rate: 154.84 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 153.96 Mbps
+  Total Power: 993.68 W
+
+
+============================================================
+Episode 254
+  Avg Score: 138.29
+  Total Reward: 15167.33
+  Total Rate: 167.06 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 166.25 Mbps
+  Total Power: 1126.02 W
+
+
+============================================================
+Episode 255
+  Avg Score: 138.39
+  Total Reward: 14213.20
+  Total Rate: 157.87 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 156.89 Mbps
+  Total Power: 1206.30 W
+
+
+============================================================
+Episode 256
+  Avg Score: 138.50
+  Total Reward: 13979.14
+  Total Rate: 152.44 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 151.49 Mbps
+  Total Power: 984.51 W
+
+
+============================================================
+Episode 257
+  Avg Score: 138.66
+  Total Reward: 14294.69
+  Total Rate: 160.25 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 159.40 Mbps
+  Total Power: 1408.33 W
+
+
+============================================================
+Episode 258
+  Avg Score: 138.76
+  Total Reward: 14091.76
+  Total Rate: 153.61 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 152.73 Mbps
+  Total Power: 973.80 W
+
+
+============================================================
+Episode 259
+  Avg Score: 138.74
+  Total Reward: 14168.70
+  Total Rate: 156.63 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 155.82 Mbps
+  Total Power: 1169.91 W
+
+
+============================================================
+Episode 260
+  Avg Score: 138.89
+  Total Reward: 14289.86
+  Total Rate: 157.31 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 156.53 Mbps
+  Total Power: 1107.80 W
+
+
+============================================================
+Episode 261
+  Avg Score: 139.01
+  Total Reward: 14372.07
+  Total Rate: 157.01 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 156.12 Mbps
+  Total Power: 1032.52 W
+
+
+============================================================
+Episode 262
+  Avg Score: 139.08
+  Total Reward: 14307.84
+  Total Rate: 156.07 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 155.20 Mbps
+  Total Power: 986.88 W
+
+
+============================================================
+Episode 263
+  Avg Score: 139.21
+  Total Reward: 14466.76
+  Total Rate: 156.98 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 156.18 Mbps
+  Total Power: 958.58 W
+
+
+============================================================
+Episode 264
+  Avg Score: 139.32
+  Total Reward: 14149.93
+  Total Rate: 152.94 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 152.11 Mbps
+  Total Power: 885.40 W
+
+
+============================================================
+Episode 265
+  Avg Score: 139.49
+  Total Reward: 14345.35
+  Total Rate: 158.48 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 157.65 Mbps
+  Total Power: 1179.20 W
+
+
+============================================================
+Episode 266
+  Avg Score: 139.53
+  Total Reward: 14113.51
+  Total Rate: 156.85 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 155.94 Mbps
+  Total Power: 1239.59 W
+
+
+============================================================
+Episode 267
+  Avg Score: 139.53
+  Total Reward: 13844.89
+  Total Rate: 152.59 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 151.72 Mbps
+  Total Power: 1132.39 W
+
+
+============================================================
+Episode 268
+  Avg Score: 139.56
+  Total Reward: 13721.88
+  Total Rate: 149.73 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 148.88 Mbps
+  Total Power: 995.13 W
+
+
+============================================================
+Episode 269
+  Avg Score: 139.55
+  Total Reward: 13499.34
+  Total Rate: 150.57 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 149.76 Mbps
+  Total Power: 1237.21 W
+
+
+============================================================
+Episode 270
+  Avg Score: 139.65
+  Total Reward: 14195.52
+  Total Rate: 154.51 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 153.66 Mbps
+  Total Power: 974.76 W
+
+
+============================================================
+Episode 271
+  Avg Score: 139.73
+  Total Reward: 13894.86
+  Total Rate: 154.08 Mbps
+  UL Rate: 0.73 Mbps
+  DL Rate: 153.35 Mbps
+  Total Power: 1249.58 W
+
+
+============================================================
+Episode 272
+  Avg Score: 139.81
+  Total Reward: 14413.31
+  Total Rate: 157.10 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 156.26 Mbps
+  Total Power: 969.99 W
+
+
+============================================================
+Episode 273
+  Avg Score: 139.93
+  Total Reward: 14220.96
+  Total Rate: 157.01 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 156.20 Mbps
+  Total Power: 1137.68 W
+
+
+============================================================
+Episode 274
+  Avg Score: 139.94
+  Total Reward: 13678.55
+  Total Rate: 150.86 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 149.98 Mbps
+  Total Power: 1105.61 W
+
+
+============================================================
+Episode 275
+  Avg Score: 139.95
+  Total Reward: 13984.45
+  Total Rate: 150.82 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 149.95 Mbps
+  Total Power: 853.64 W
+
+
+============================================================
+Episode 276
+  Avg Score: 139.90
+  Total Reward: 13772.82
+  Total Rate: 149.57 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 148.67 Mbps
+  Total Power: 898.79 W
+
+
+============================================================
+Episode 277
+  Avg Score: 140.01
+  Total Reward: 14230.51
+  Total Rate: 157.55 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 156.66 Mbps
+  Total Power: 1180.31 W
+
+
+============================================================
+Episode 278
+  Avg Score: 140.13
+  Total Reward: 14250.26
+  Total Rate: 154.99 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 154.15 Mbps
+  Total Power: 962.67 W
+
+
+============================================================
+Episode 279
+  Avg Score: 140.19
+  Total Reward: 14634.75
+  Total Rate: 158.96 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 157.97 Mbps
+  Total Power: 942.92 W
+
+
+============================================================
+Episode 280
+  Avg Score: 140.17
+  Total Reward: 13618.85
+  Total Rate: 150.50 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 149.61 Mbps
+  Total Power: 1103.60 W
+
+
+============================================================
+Episode 281
+  Avg Score: 140.17
+  Total Reward: 14076.32
+  Total Rate: 158.05 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 157.10 Mbps
+  Total Power: 1362.34 W
+
+
+============================================================
+Episode 282
+  Avg Score: 140.23
+  Total Reward: 14553.42
+  Total Rate: 158.71 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 157.86 Mbps
+  Total Power: 998.04 W
+
+
+============================================================
+Episode 283
+  Avg Score: 140.29
+  Total Reward: 14858.07
+  Total Rate: 161.85 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 161.04 Mbps
+  Total Power: 947.08 W
+
+
+============================================================
+Episode 284
+  Avg Score: 140.40
+  Total Reward: 14816.29
+  Total Rate: 162.57 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 161.64 Mbps
+  Total Power: 1090.90 W
+
+
+============================================================
+Episode 285
+  Avg Score: 140.48
+  Total Reward: 14225.47
+  Total Rate: 156.66 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 155.81 Mbps
+  Total Power: 1089.25 W
+
+
+============================================================
+Episode 286
+  Avg Score: 140.49
+  Total Reward: 14082.48
+  Total Rate: 154.46 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 153.70 Mbps
+  Total Power: 1075.66 W
+
+
+============================================================
+Episode 287
+  Avg Score: 140.53
+  Total Reward: 14573.07
+  Total Rate: 158.13 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 157.35 Mbps
+  Total Power: 893.08 W
+
+
+============================================================
+Episode 288
+  Avg Score: 140.65
+  Total Reward: 14777.09
+  Total Rate: 161.66 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 160.81 Mbps
+  Total Power: 1046.56 W
+
+
+============================================================
+Episode 289
+  Avg Score: 140.72
+  Total Reward: 13781.97
+  Total Rate: 150.37 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 149.54 Mbps
+  Total Power: 986.32 W
+
+
+============================================================
+Episode 290
+  Avg Score: 140.88
+  Total Reward: 14400.52
+  Total Rate: 158.82 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 158.00 Mbps
+  Total Power: 1124.85 W
+
+
+============================================================
+Episode 291
+  Avg Score: 140.92
+  Total Reward: 14140.09
+  Total Rate: 155.42 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 154.47 Mbps
+  Total Power: 1074.96 W
+
+
+============================================================
+Episode 292
+  Avg Score: 141.04
+  Total Reward: 14073.23
+  Total Rate: 157.07 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 156.23 Mbps
+  Total Power: 1284.38 W
+
+
+============================================================
+Episode 293
+  Avg Score: 141.10
+  Total Reward: 14634.79
+  Total Rate: 159.35 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 158.39 Mbps
+  Total Power: 947.69 W
+
+
+============================================================
+Episode 294
+  Avg Score: 141.10
+  Total Reward: 13885.78
+  Total Rate: 153.41 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 152.57 Mbps
+  Total Power: 1156.29 W
+
+
+============================================================
+Episode 295
+  Avg Score: 141.17
+  Total Reward: 13818.58
+  Total Rate: 149.40 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 148.65 Mbps
+  Total Power: 885.60 W
+
+
+============================================================
+Episode 296
+  Avg Score: 141.15
+  Total Reward: 13276.33
+  Total Rate: 147.00 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 146.11 Mbps
+  Total Power: 1174.93 W
+
+
+============================================================
+Episode 297
+  Avg Score: 141.17
+  Total Reward: 14239.36
+  Total Rate: 154.79 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 153.88 Mbps
+  Total Power: 962.00 W
+
+
+============================================================
+Episode 298
+  Avg Score: 141.09
+  Total Reward: 14163.43
+  Total Rate: 156.39 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 155.42 Mbps
+  Total Power: 1141.31 W
+
+
+============================================================
+Episode 299
+  Avg Score: 141.07
+  Total Reward: 13835.76
+  Total Rate: 150.49 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 149.53 Mbps
+  Total Power: 935.42 W
+
+
+============================================================
+Episode 300
+  Avg Score: 140.97
+  Total Reward: 13750.24
+  Total Rate: 150.59 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 149.73 Mbps
+  Total Power: 1035.63 W
+
+
+============================================================
+Episode 301
+  Avg Score: 140.92
+  Total Reward: 13503.89
+  Total Rate: 150.47 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 149.53 Mbps
+  Total Power: 1241.86 W
+
+
+============================================================
+Episode 302
+  Avg Score: 140.89
+  Total Reward: 13449.80
+  Total Rate: 148.30 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 147.52 Mbps
+  Total Power: 1133.38 W
+
+
+============================================================
+Episode 303
+  Avg Score: 140.91
+  Total Reward: 14354.30
+  Total Rate: 157.91 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 157.00 Mbps
+  Total Power: 1124.19 W
+
+
+============================================================
+Episode 304
+  Avg Score: 140.85
+  Total Reward: 13428.16
+  Total Rate: 146.73 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 145.83 Mbps
+  Total Power: 995.51 W
+
+
+============================================================
+Episode 305
+  Avg Score: 140.85
+  Total Reward: 13814.05
+  Total Rate: 153.59 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 152.84 Mbps
+  Total Power: 1302.95 W
+
+
+============================================================
+Episode 306
+  Avg Score: 140.84
+  Total Reward: 13855.69
+  Total Rate: 151.94 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 151.14 Mbps
+  Total Power: 1110.45 W
+
+
+============================================================
+Episode 307
+  Avg Score: 140.79
+  Total Reward: 13512.25
+  Total Rate: 148.80 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 147.98 Mbps
+  Total Power: 1104.88 W
+
+
+============================================================
+Episode 308
+  Avg Score: 140.85
+  Total Reward: 13981.00
+  Total Rate: 153.42 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 152.56 Mbps
+  Total Power: 1065.87 W
+
+
+============================================================
+Episode 309
+  Avg Score: 140.80
+  Total Reward: 13820.38
+  Total Rate: 151.48 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 150.65 Mbps
+  Total Power: 1060.10 W
+
+
+============================================================
+Episode 310
+  Avg Score: 140.80
+  Total Reward: 13917.72
+  Total Rate: 153.68 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 152.75 Mbps
+  Total Power: 1141.69 W
+
+
+============================================================
+Episode 311
+  Avg Score: 140.82
+  Total Reward: 14286.41
+  Total Rate: 156.41 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 155.54 Mbps
+  Total Power: 1058.64 W
+
+
+============================================================
+Episode 312
+  Avg Score: 140.67
+  Total Reward: 13249.02
+  Total Rate: 147.85 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 147.00 Mbps
+  Total Power: 1254.58 W
+
+
+============================================================
+Episode 313
+  Avg Score: 140.63
+  Total Reward: 14206.20
+  Total Rate: 157.36 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 156.43 Mbps
+  Total Power: 1211.46 W
+
+
+============================================================
+Episode 314
+  Avg Score: 140.52
+  Total Reward: 13301.62
+  Total Rate: 146.88 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 146.05 Mbps
+  Total Power: 1136.04 W
+
+
+============================================================
+Episode 315
+  Avg Score: 140.48
+  Total Reward: 14103.19
+  Total Rate: 154.41 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 153.50 Mbps
+  Total Power: 1066.16 W
+
+
+============================================================
+Episode 316
+  Avg Score: 140.39
+  Total Reward: 13366.05
+  Total Rate: 146.39 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 145.45 Mbps
+  Total Power: 1032.58 W
+
+
+============================================================
+Episode 317
+  Avg Score: 140.38
+  Total Reward: 13692.78
+  Total Rate: 148.18 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 147.29 Mbps
+  Total Power: 907.95 W
+
+
+============================================================
+Episode 318
+  Avg Score: 140.39
+  Total Reward: 14217.93
+  Total Rate: 153.52 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 152.67 Mbps
+  Total Power: 905.98 W
+
+
+============================================================
+Episode 319
+  Avg Score: 140.29
+  Total Reward: 13490.56
+  Total Rate: 151.26 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 150.29 Mbps
+  Total Power: 1322.21 W
+
+
+============================================================
+Episode 320
+  Avg Score: 140.31
+  Total Reward: 14009.22
+  Total Rate: 153.38 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 152.53 Mbps
+  Total Power: 1051.14 W
+
+
+============================================================
+Episode 321
+  Avg Score: 140.31
+  Total Reward: 13369.89
+  Total Rate: 146.69 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 145.80 Mbps
+  Total Power: 1037.94 W
+
+
+============================================================
+Episode 322
+  Avg Score: 140.17
+  Total Reward: 13234.58
+  Total Rate: 146.45 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 145.55 Mbps
+  Total Power: 1138.49 W
+
+
+============================================================
+Episode 323
+  Avg Score: 140.06
+  Total Reward: 13427.88
+  Total Rate: 147.77 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 146.89 Mbps
+  Total Power: 1074.66 W
+
+
+============================================================
+Episode 324
+  Avg Score: 140.04
+  Total Reward: 13263.97
+  Total Rate: 148.89 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 148.03 Mbps
+  Total Power: 1350.05 W
+
+
+============================================================
+Episode 325
+  Avg Score: 140.01
+  Total Reward: 13303.06
+  Total Rate: 147.39 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 146.51 Mbps
+  Total Power: 1166.75 W
+
+
+============================================================
+Episode 326
+  Avg Score: 139.97
+  Total Reward: 13219.97
+  Total Rate: 144.61 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 143.82 Mbps
+  Total Power: 1046.63 W
+
+
+============================================================
+Episode 327
+  Avg Score: 139.86
+  Total Reward: 13343.05
+  Total Rate: 146.96 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 146.03 Mbps
+  Total Power: 1136.80 W
+
+
+============================================================
+Episode 328
+  Avg Score: 139.87
+  Total Reward: 13511.85
+  Total Rate: 148.33 Mbps
+  UL Rate: 1.06 Mbps
+  DL Rate: 147.27 Mbps
+  Total Power: 1043.40 W
+
+
+============================================================
+Episode 329
+  Avg Score: 139.82
+  Total Reward: 13834.02
+  Total Rate: 150.73 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 149.84 Mbps
+  Total Power: 985.84 W
+
+
+============================================================
+Episode 330
+  Avg Score: 139.79
+  Total Reward: 13970.41
+  Total Rate: 154.62 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 153.72 Mbps
+  Total Power: 1188.18 W
+
+
+============================================================
+Episode 331
+  Avg Score: 139.78
+  Total Reward: 14047.29
+  Total Rate: 152.78 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 151.94 Mbps
+  Total Power: 993.71 W
+
+
+============================================================
+Episode 332
+  Avg Score: 139.71
+  Total Reward: 13181.70
+  Total Rate: 145.10 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 144.26 Mbps
+  Total Power: 1081.71 W
+
+
+============================================================
+Episode 333
+  Avg Score: 139.75
+  Total Reward: 13845.85
+  Total Rate: 152.51 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 151.71 Mbps
+  Total Power: 1150.94 W
+
+
+============================================================
+Episode 334
+  Avg Score: 139.64
+  Total Reward: 12835.54
+  Total Rate: 142.31 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 141.49 Mbps
+  Total Power: 1138.20 W
+
+
+============================================================
+Episode 335
+  Avg Score: 139.59
+  Total Reward: 13293.22
+  Total Rate: 148.31 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 147.38 Mbps
+  Total Power: 1260.28 W
+
+
+============================================================
+Episode 336
+  Avg Score: 139.58
+  Total Reward: 13469.04
+  Total Rate: 151.36 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 150.39 Mbps
+  Total Power: 1345.29 W
+
+
+============================================================
+Episode 337
+  Avg Score: 139.53
+  Total Reward: 13766.10
+  Total Rate: 150.81 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 149.93 Mbps
+  Total Power: 1048.29 W
+
+
+============================================================
+Episode 338
+  Avg Score: 139.51
+  Total Reward: 14073.10
+  Total Rate: 153.15 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 152.17 Mbps
+  Total Power: 958.97 W
+
+
+============================================================
+Episode 339
+  Avg Score: 139.45
+  Total Reward: 13907.41
+  Total Rate: 150.80 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 149.91 Mbps
+  Total Power: 922.60 W
+
+
+============================================================
+Episode 340
+  Avg Score: 139.34
+  Total Reward: 13068.63
+  Total Rate: 145.66 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 144.72 Mbps
+  Total Power: 1211.00 W
+
+
+============================================================
+Episode 341
+  Avg Score: 139.36
+  Total Reward: 14025.11
+  Total Rate: 155.70 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 154.82 Mbps
+  Total Power: 1258.30 W
+
+
+============================================================
+Episode 342
+  Avg Score: 139.30
+  Total Reward: 13342.86
+  Total Rate: 147.80 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 146.90 Mbps
+  Total Power: 1198.23 W
+
+
+============================================================
+Episode 343
+  Avg Score: 139.20
+  Total Reward: 13437.11
+  Total Rate: 146.41 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 145.54 Mbps
+  Total Power: 963.04 W
+
+
+============================================================
+Episode 344
+  Avg Score: 139.19
+  Total Reward: 13662.50
+  Total Rate: 149.33 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 148.50 Mbps
+  Total Power: 1000.59 W
+
+
+============================================================
+Episode 345
+  Avg Score: 139.20
+  Total Reward: 14048.99
+  Total Rate: 155.82 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 154.92 Mbps
+  Total Power: 1215.74 W
+
+
+============================================================
+Episode 346
+  Avg Score: 139.17
+  Total Reward: 13321.93
+  Total Rate: 146.68 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 145.77 Mbps
+  Total Power: 1098.54 W
+
+
+============================================================
+Episode 347
+  Avg Score: 139.10
+  Total Reward: 13586.85
+  Total Rate: 148.50 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 147.57 Mbps
+  Total Power: 1004.75 W
+
+
+============================================================
+Episode 348
+  Avg Score: 138.99
+  Total Reward: 13035.53
+  Total Rate: 143.50 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 142.67 Mbps
+  Total Power: 1077.13 W
+
+
+============================================================
+Episode 349
+  Avg Score: 138.95
+  Total Reward: 13994.72
+  Total Rate: 154.38 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 153.48 Mbps
+  Total Power: 1116.20 W
+
+
+============================================================
+Episode 350
+  Avg Score: 138.85
+  Total Reward: 13103.81
+  Total Rate: 143.06 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 142.11 Mbps
+  Total Power: 979.71 W
+
+
+============================================================
+Episode 351
+  Avg Score: 138.79
+  Total Reward: 13225.77
+  Total Rate: 145.47 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 144.64 Mbps
+  Total Power: 1079.30 W
+
+
+============================================================
+Episode 352
+  Avg Score: 138.78
+  Total Reward: 13404.98
+  Total Rate: 147.05 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 146.08 Mbps
+  Total Power: 1037.97 W
+
+
+============================================================
+Episode 353
+  Avg Score: 138.75
+  Total Reward: 13928.03
+  Total Rate: 152.47 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 151.65 Mbps
+  Total Power: 1026.26 W
+
+
+============================================================
+Episode 354
+  Avg Score: 138.61
+  Total Reward: 13725.35
+  Total Rate: 152.39 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 151.39 Mbps
+  Total Power: 1212.98 W
+
+
+============================================================
+Episode 355
+  Avg Score: 138.54
+  Total Reward: 13524.46
+  Total Rate: 149.96 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 149.07 Mbps
+  Total Power: 1161.80 W
+
+
+============================================================
+Episode 356
+  Avg Score: 138.47
+  Total Reward: 13274.29
+  Total Rate: 146.10 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 145.24 Mbps
+  Total Power: 1081.95 W
+
+
+============================================================
+Episode 357
+  Avg Score: 138.33
+  Total Reward: 12926.45
+  Total Rate: 143.66 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 142.77 Mbps
+  Total Power: 1178.31 W
+
+
+============================================================
+Episode 358
+  Avg Score: 138.24
+  Total Reward: 13216.25
+  Total Rate: 146.87 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 145.93 Mbps
+  Total Power: 1205.68 W
+
+
+============================================================
+Episode 359
+  Avg Score: 138.14
+  Total Reward: 13144.07
+  Total Rate: 144.44 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 143.63 Mbps
+  Total Power: 1076.72 W
+
+
+============================================================
+Episode 360
+  Avg Score: 138.05
+  Total Reward: 13382.81
+  Total Rate: 148.10 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 147.19 Mbps
+  Total Power: 1152.79 W
+
+
+============================================================
+Episode 361
+  Avg Score: 137.98
+  Total Reward: 13671.92
+  Total Rate: 152.49 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 151.67 Mbps
+  Total Power: 1283.44 W
+
+
+============================================================
+Episode 362
+  Avg Score: 137.93
+  Total Reward: 13750.64
+  Total Rate: 149.70 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 148.82 Mbps
+  Total Power: 971.48 W
+
+
+============================================================
+Episode 363
+  Avg Score: 137.90
+  Total Reward: 14245.91
+  Total Rate: 157.14 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 156.32 Mbps
+  Total Power: 1159.38 W
+
+
+============================================================
+Episode 364
+  Avg Score: 137.82
+  Total Reward: 13356.18
+  Total Rate: 146.41 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 145.49 Mbps
+  Total Power: 1044.82 W
+
+
+============================================================
+Episode 365
+  Avg Score: 137.77
+  Total Reward: 13757.84
+  Total Rate: 149.23 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 148.47 Mbps
+  Total Power: 962.86 W
+
+
+============================================================
+Episode 366
+  Avg Score: 137.73
+  Total Reward: 13726.59
+  Total Rate: 150.89 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 149.89 Mbps
+  Total Power: 1107.14 W
+
+
+============================================================
+Episode 367
+  Avg Score: 137.70
+  Total Reward: 13569.73
+  Total Rate: 149.31 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 148.41 Mbps
+  Total Power: 1126.87 W
+
+
+============================================================
+Episode 368
+  Avg Score: 137.71
+  Total Reward: 13809.37
+  Total Rate: 151.28 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 150.34 Mbps
+  Total Power: 1041.04 W
+
+
+============================================================
+Episode 369
+  Avg Score: 137.69
+  Total Reward: 13324.13
+  Total Rate: 146.67 Mbps
+  UL Rate: 1.05 Mbps
+  DL Rate: 145.62 Mbps
+  Total Power: 1062.34 W
+
+
+============================================================
+Episode 370
+  Avg Score: 137.61
+  Total Reward: 13356.90
+  Total Rate: 146.64 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 145.66 Mbps
+  Total Power: 1023.61 W
+
+
+============================================================
+Episode 371
+  Avg Score: 137.52
+  Total Reward: 13000.03
+  Total Rate: 145.40 Mbps
+  UL Rate: 1.06 Mbps
+  DL Rate: 144.34 Mbps
+  Total Power: 1253.91 W
+
+
+============================================================
+Episode 372
+  Avg Score: 137.36
+  Total Reward: 12881.79
+  Total Rate: 142.63 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 141.74 Mbps
+  Total Power: 1137.00 W
+
+
+============================================================
+Episode 373
+  Avg Score: 137.36
+  Total Reward: 14132.17
+  Total Rate: 154.68 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 153.73 Mbps
+  Total Power: 1046.69 W
+
+
+============================================================
+Episode 374
+  Avg Score: 137.37
+  Total Reward: 13792.57
+  Total Rate: 151.01 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 150.24 Mbps
+  Total Power: 1057.33 W
+
+
+============================================================
+Episode 375
+  Avg Score: 137.35
+  Total Reward: 13805.83
+  Total Rate: 152.24 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 151.38 Mbps
+  Total Power: 1117.31 W
+
+
+============================================================
+Episode 376
+  Avg Score: 137.34
+  Total Reward: 13691.45
+  Total Rate: 150.75 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 149.86 Mbps
+  Total Power: 1133.49 W
+
+
+============================================================
+Episode 377
+  Avg Score: 137.37
+  Total Reward: 14512.79
+  Total Rate: 159.24 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 158.30 Mbps
+  Total Power: 1069.58 W
+
+
+============================================================
+Episode 378
+  Avg Score: 137.33
+  Total Reward: 13893.88
+  Total Rate: 150.91 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 150.05 Mbps
+  Total Power: 947.72 W
+
+
+============================================================
+Episode 379
+  Avg Score: 137.32
+  Total Reward: 14475.98
+  Total Rate: 157.88 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 156.93 Mbps
+  Total Power: 979.80 W
+
+
+============================================================
+Episode 380
+  Avg Score: 137.32
+  Total Reward: 13648.14
+  Total Rate: 152.70 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 151.78 Mbps
+  Total Power: 1324.53 W
+
+
+============================================================
+Episode 381
+  Avg Score: 137.28
+  Total Reward: 13652.13
+  Total Rate: 148.89 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 147.99 Mbps
+  Total Power: 983.37 W
+
+
+============================================================
+Episode 382
+  Avg Score: 137.16
+  Total Reward: 13403.21
+  Total Rate: 147.75 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 146.87 Mbps
+  Total Power: 1118.09 W
+
+
+============================================================
+Episode 383
+  Avg Score: 137.03
+  Total Reward: 13572.89
+  Total Rate: 147.40 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 146.49 Mbps
+  Total Power: 923.46 W
+
+
+============================================================
+Episode 384
+  Avg Score: 136.94
+  Total Reward: 13890.29
+  Total Rate: 155.00 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 154.12 Mbps
+  Total Power: 1268.68 W
+
+
+============================================================
+Episode 385
+  Avg Score: 136.93
+  Total Reward: 14103.72
+  Total Rate: 154.40 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 153.47 Mbps
+  Total Power: 1062.69 W
+
+
+============================================================
+Episode 386
+  Avg Score: 136.87
+  Total Reward: 13526.02
+  Total Rate: 149.15 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 148.20 Mbps
+  Total Power: 1144.47 W
+
+
+============================================================
+Episode 387
+  Avg Score: 136.76
+  Total Reward: 13415.36
+  Total Rate: 148.09 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 147.13 Mbps
+  Total Power: 1117.31 W
+
+
+============================================================
+Episode 388
+  Avg Score: 136.70
+  Total Reward: 14204.79
+  Total Rate: 156.66 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 155.73 Mbps
+  Total Power: 1162.97 W
+
+
+============================================================
+Episode 389
+  Avg Score: 136.78
+  Total Reward: 14525.49
+  Total Rate: 159.90 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 158.96 Mbps
+  Total Power: 1117.62 W
+
+
+============================================================
+Episode 390
+  Avg Score: 136.68
+  Total Reward: 13423.78
+  Total Rate: 149.30 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 148.41 Mbps
+  Total Power: 1225.41 W
+
+
+============================================================
+Episode 391
+  Avg Score: 136.60
+  Total Reward: 13356.53
+  Total Rate: 149.07 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 148.17 Mbps
+  Total Power: 1284.39 W
+
+
+============================================================
+Episode 392
+  Avg Score: 136.51
+  Total Reward: 13191.37
+  Total Rate: 147.27 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 146.36 Mbps
+  Total Power: 1280.20 W
+
+
+============================================================
+Episode 393
+  Avg Score: 136.46
+  Total Reward: 14169.12
+  Total Rate: 154.66 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 153.77 Mbps
+  Total Power: 1005.37 W
+
+
+============================================================
+Episode 394
+  Avg Score: 136.46
+  Total Reward: 13814.98
+  Total Rate: 153.07 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 152.18 Mbps
+  Total Power: 1176.31 W
+
+
+============================================================
+Episode 395
+  Avg Score: 136.43
+  Total Reward: 13527.37
+  Total Rate: 150.40 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 149.53 Mbps
+  Total Power: 1232.26 W
+
+
+============================================================
+Episode 396
+  Avg Score: 136.51
+  Total Reward: 14119.72
+  Total Rate: 156.26 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 155.46 Mbps
+  Total Power: 1216.47 W
+
+
+============================================================
+Episode 397
+  Avg Score: 136.54
+  Total Reward: 14470.02
+  Total Rate: 158.07 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 157.15 Mbps
+  Total Power: 1023.54 W
+
+
+============================================================
+Episode 398
+  Avg Score: 136.47
+  Total Reward: 13457.99
+  Total Rate: 148.70 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 147.80 Mbps
+  Total Power: 1125.25 W
+
+
+============================================================
+Episode 399
+  Avg Score: 136.46
+  Total Reward: 13799.57
+  Total Rate: 154.87 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 153.97 Mbps
+  Total Power: 1340.83 W
+
+
+============================================================
+Episode 400
+  Avg Score: 136.48
+  Total Reward: 13925.45
+  Total Rate: 151.95 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 151.18 Mbps
+  Total Power: 980.65 W
+
+
+============================================================
+Episode 401
+  Avg Score: 136.47
+  Total Reward: 13461.52
+  Total Rate: 147.55 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 146.58 Mbps
+  Total Power: 1048.47 W
+
+
+============================================================
+Episode 402
+  Avg Score: 136.58
+  Total Reward: 14541.45
+  Total Rate: 158.10 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 157.29 Mbps
+  Total Power: 993.27 W
+
+
+============================================================
+Episode 403
+  Avg Score: 136.52
+  Total Reward: 13756.19
+  Total Rate: 150.89 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 149.98 Mbps
+  Total Power: 1031.79 W
+
+
+============================================================
+Episode 404
+  Avg Score: 136.56
+  Total Reward: 13742.77
+  Total Rate: 150.18 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 149.34 Mbps
+  Total Power: 1043.75 W
+
+
+============================================================
+Episode 405
+  Avg Score: 136.50
+  Total Reward: 13206.60
+  Total Rate: 146.12 Mbps
+  UL Rate: 0.72 Mbps
+  DL Rate: 145.40 Mbps
+  Total Power: 1196.22 W
+
+
+============================================================
+Episode 406
+  Avg Score: 136.49
+  Total Reward: 13760.60
+  Total Rate: 149.56 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 148.77 Mbps
+  Total Power: 960.88 W
+
+
+============================================================
+Episode 407
+  Avg Score: 136.49
+  Total Reward: 13550.75
+  Total Rate: 148.65 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 147.80 Mbps
+  Total Power: 1079.56 W
+
+
+============================================================
+Episode 408
+  Avg Score: 136.44
+  Total Reward: 13495.41
+  Total Rate: 148.68 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 147.87 Mbps
+  Total Power: 1114.72 W
+
+
+============================================================
+Episode 409
+  Avg Score: 136.41
+  Total Reward: 13492.72
+  Total Rate: 149.07 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 148.19 Mbps
+  Total Power: 1165.63 W
+
+
+============================================================
+Episode 410
+  Avg Score: 136.34
+  Total Reward: 13245.56
+  Total Rate: 144.44 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 143.55 Mbps
+  Total Power: 990.91 W
+
+
+============================================================
+Episode 411
+  Avg Score: 136.28
+  Total Reward: 13694.25
+  Total Rate: 152.54 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 151.62 Mbps
+  Total Power: 1253.82 W
+
+
+============================================================
+Episode 412
+  Avg Score: 136.30
+  Total Reward: 13427.40
+  Total Rate: 147.18 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 146.31 Mbps
+  Total Power: 1023.58 W
+
+
+============================================================
+Episode 413
+  Avg Score: 136.21
+  Total Reward: 13308.79
+  Total Rate: 148.86 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 148.04 Mbps
+  Total Power: 1283.79 W
+
+
+============================================================
+Episode 414
+  Avg Score: 136.25
+  Total Reward: 13654.81
+  Total Rate: 148.24 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 147.27 Mbps
+  Total Power: 935.51 W
+
+
+============================================================
+Episode 415
+  Avg Score: 136.19
+  Total Reward: 13588.79
+  Total Rate: 151.06 Mbps
+  UL Rate: 1.04 Mbps
+  DL Rate: 150.02 Mbps
+  Total Power: 1251.78 W
+
+
+============================================================
+Episode 416
+  Avg Score: 136.21
+  Total Reward: 13553.77
+  Total Rate: 150.99 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 150.21 Mbps
+  Total Power: 1259.82 W
+
+
+============================================================
+Episode 417
+  Avg Score: 136.20
+  Total Reward: 13526.24
+  Total Rate: 149.08 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 148.17 Mbps
+  Total Power: 1112.54 W
+
+
+============================================================
+Episode 418
+  Avg Score: 136.11
+  Total Reward: 13346.45
+  Total Rate: 146.81 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 145.86 Mbps
+  Total Power: 1069.42 W
+
+
+============================================================
+Episode 419
+  Avg Score: 136.14
+  Total Reward: 13797.33
+  Total Rate: 150.82 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 149.91 Mbps
+  Total Power: 1011.07 W
+
+
+============================================================
+Episode 420
+  Avg Score: 136.12
+  Total Reward: 13846.17
+  Total Rate: 155.18 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 154.27 Mbps
+  Total Power: 1342.25 W
+
+
+============================================================
+Episode 421
+  Avg Score: 136.14
+  Total Reward: 13491.95
+  Total Rate: 150.52 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 149.61 Mbps
+  Total Power: 1294.45 W
+
+
+============================================================
+Episode 422
+  Avg Score: 136.20
+  Total Reward: 13923.98
+  Total Rate: 151.47 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 150.53 Mbps
+  Total Power: 955.05 W
+
+
+============================================================
+Episode 423
+  Avg Score: 136.27
+  Total Reward: 14044.41
+  Total Rate: 153.67 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 152.71 Mbps
+  Total Power: 1071.16 W
+
+
+============================================================
+Episode 424
+  Avg Score: 136.31
+  Total Reward: 13685.89
+  Total Rate: 151.60 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 150.63 Mbps
+  Total Power: 1159.92 W
+
+
+============================================================
+Episode 425
+  Avg Score: 136.40
+  Total Reward: 14264.09
+  Total Rate: 155.95 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 155.02 Mbps
+  Total Power: 1042.54 W
+
+
+============================================================
+Episode 426
+  Avg Score: 136.49
+  Total Reward: 14111.28
+  Total Rate: 154.69 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 153.78 Mbps
+  Total Power: 1057.21 W
+
+
+============================================================
+Episode 427
+  Avg Score: 136.50
+  Total Reward: 13437.46
+  Total Rate: 147.20 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 146.29 Mbps
+  Total Power: 1022.59 W
+
+
+============================================================
+Episode 428
+  Avg Score: 136.55
+  Total Reward: 14014.26
+  Total Rate: 154.16 Mbps
+  UL Rate: 1.01 Mbps
+  DL Rate: 153.15 Mbps
+  Total Power: 1070.64 W
+
+
+============================================================
+Episode 429
+  Avg Score: 136.52
+  Total Reward: 13507.18
+  Total Rate: 149.79 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 148.83 Mbps
+  Total Power: 1178.34 W
+
+
+============================================================
+Episode 430
+  Avg Score: 136.46
+  Total Reward: 13364.46
+  Total Rate: 146.91 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 145.99 Mbps
+  Total Power: 1068.59 W
+
+
+============================================================
+Episode 431
+  Avg Score: 136.36
+  Total Reward: 13081.77
+  Total Rate: 145.46 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 144.67 Mbps
+  Total Power: 1224.14 W
+
+
+============================================================
+Episode 432
+  Avg Score: 136.40
+  Total Reward: 13556.98
+  Total Rate: 149.66 Mbps
+  UL Rate: 1.01 Mbps
+  DL Rate: 148.65 Mbps
+  Total Power: 1146.22 W
+
+
+============================================================
+Episode 433
+  Avg Score: 136.33
+  Total Reward: 13154.10
+  Total Rate: 146.04 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 145.04 Mbps
+  Total Power: 1189.87 W
+
+
+============================================================
+Episode 434
+  Avg Score: 136.47
+  Total Reward: 14213.70
+  Total Rate: 154.54 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 153.62 Mbps
+  Total Power: 927.60 W
+
+
+============================================================
+Episode 435
+  Avg Score: 136.56
+  Total Reward: 14154.13
+  Total Rate: 155.30 Mbps
+  UL Rate: 1.03 Mbps
+  DL Rate: 154.27 Mbps
+  Total Power: 1089.06 W
+
+
+============================================================
+Episode 436
+  Avg Score: 136.57
+  Total Reward: 13627.72
+  Total Rate: 150.09 Mbps
+  UL Rate: 1.02 Mbps
+  DL Rate: 149.07 Mbps
+  Total Power: 1118.54 W
+
+
+============================================================
+Episode 437
+  Avg Score: 136.53
+  Total Reward: 13396.81
+  Total Rate: 147.88 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 147.00 Mbps
+  Total Power: 1143.32 W
+
+
+============================================================
+Episode 438
+  Avg Score: 136.48
+  Total Reward: 13482.22
+  Total Rate: 146.83 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 145.83 Mbps
+  Total Power: 922.22 W
+
+
+============================================================
+Episode 439
+  Avg Score: 136.47
+  Total Reward: 13850.46
+  Total Rate: 152.60 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 151.64 Mbps
+  Total Power: 1097.91 W
+
+
+============================================================
+Episode 440
+  Avg Score: 136.57
+  Total Reward: 14042.18
+  Total Rate: 153.71 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 152.89 Mbps
+  Total Power: 1039.24 W
+
+
+============================================================
+Episode 441
+  Avg Score: 136.50
+  Total Reward: 13351.66
+  Total Rate: 145.97 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 145.14 Mbps
+  Total Power: 973.31 W
+
+
+============================================================
+Episode 442
+  Avg Score: 136.55
+  Total Reward: 13874.50
+  Total Rate: 150.84 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 149.94 Mbps
+  Total Power: 977.99 W
+
+
+============================================================
+Episode 443
+  Avg Score: 136.60
+  Total Reward: 13908.27
+  Total Rate: 154.28 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 153.32 Mbps
+  Total Power: 1210.24 W
+
+
+============================================================
+Episode 444
+  Avg Score: 136.66
+  Total Reward: 14237.27
+  Total Rate: 156.05 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 155.05 Mbps
+  Total Power: 1018.91 W
+
+
+============================================================
+Episode 445
+  Avg Score: 136.56
+  Total Reward: 13115.57
+  Total Rate: 146.27 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 145.37 Mbps
+  Total Power: 1198.14 W
+
+
+============================================================
+Episode 446
+  Avg Score: 136.60
+  Total Reward: 13643.48
+  Total Rate: 149.58 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 148.66 Mbps
+  Total Power: 1030.13 W
+
+
+============================================================
+Episode 447
+  Avg Score: 136.64
+  Total Reward: 14068.19
+  Total Rate: 153.74 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 152.75 Mbps
+  Total Power: 1022.50 W
+
+
+============================================================
+Episode 448
+  Avg Score: 136.72
+  Total Reward: 13801.72
+  Total Rate: 153.47 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 152.66 Mbps
+  Total Power: 1229.16 W
+
+
+============================================================
+Episode 449
+  Avg Score: 136.69
+  Total Reward: 13683.18
+  Total Rate: 149.50 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 148.54 Mbps
+  Total Power: 983.59 W
+
+
+============================================================
+Episode 450
+  Avg Score: 136.71
+  Total Reward: 13337.31
+  Total Rate: 146.33 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 145.40 Mbps
+  Total Power: 1049.26 W
+
+
+============================================================
+Episode 451
+  Avg Score: 136.77
+  Total Reward: 13777.52
+  Total Rate: 151.08 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 150.17 Mbps
+  Total Power: 1081.37 W
+
+
+============================================================
+Episode 452
+  Avg Score: 136.76
+  Total Reward: 13306.69
+  Total Rate: 149.17 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 148.30 Mbps
+  Total Power: 1324.90 W
+
+
+============================================================
+Episode 453
+  Avg Score: 136.71
+  Total Reward: 13485.63
+  Total Rate: 147.81 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 147.02 Mbps
+  Total Power: 1044.85 W
+
+
+============================================================
+Episode 454
+  Avg Score: 136.73
+  Total Reward: 13893.29
+  Total Rate: 149.89 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 148.97 Mbps
+  Total Power: 827.49 W
+
+
+============================================================
+Episode 455
+  Avg Score: 136.64
+  Total Reward: 12623.58
+  Total Rate: 141.36 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 140.45 Mbps
+  Total Power: 1265.60 W
+
+
+============================================================
+Episode 456
+  Avg Score: 136.73
+  Total Reward: 14179.87
+  Total Rate: 155.62 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 154.82 Mbps
+  Total Power: 1062.11 W
+
+
+============================================================
+Episode 457
+  Avg Score: 136.89
+  Total Reward: 14542.61
+  Total Rate: 157.72 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 156.87 Mbps
+  Total Power: 911.61 W
+
+
+============================================================
+Episode 458
+  Avg Score: 137.01
+  Total Reward: 14424.99
+  Total Rate: 157.26 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 156.29 Mbps
+  Total Power: 994.32 W
+
+
+============================================================
+Episode 459
+  Avg Score: 137.06
+  Total Reward: 13610.20
+  Total Rate: 149.88 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 148.92 Mbps
+  Total Power: 1097.57 W
+
+
+============================================================
+Episode 460
+  Avg Score: 137.14
+  Total Reward: 14224.69
+  Total Rate: 157.56 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 156.63 Mbps
+  Total Power: 1190.72 W
+
+
+============================================================
+Episode 461
+  Avg Score: 137.12
+  Total Reward: 13405.50
+  Total Rate: 147.69 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 146.86 Mbps
+  Total Power: 1110.65 W
+
+
+============================================================
+Episode 462
+  Avg Score: 137.17
+  Total Reward: 14279.10
+  Total Rate: 155.27 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 154.30 Mbps
+  Total Power: 959.49 W
+
+
+============================================================
+Episode 463
+  Avg Score: 137.15
+  Total Reward: 14013.98
+  Total Rate: 153.91 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 153.01 Mbps
+  Total Power: 1067.98 W
+
+
+============================================================
+Episode 464
+  Avg Score: 137.19
+  Total Reward: 13769.88
+  Total Rate: 152.50 Mbps
+  UL Rate: 1.03 Mbps
+  DL Rate: 151.47 Mbps
+  Total Power: 1163.56 W
+
+
+============================================================
+Episode 465
+  Avg Score: 137.17
+  Total Reward: 13556.61
+  Total Rate: 148.49 Mbps
+  UL Rate: 1.06 Mbps
+  DL Rate: 147.43 Mbps
+  Total Power: 1030.90 W
+
+
+============================================================
+Episode 466
+  Avg Score: 137.13
+  Total Reward: 13326.56
+  Total Rate: 145.52 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 144.66 Mbps
+  Total Power: 995.61 W
+
+
+============================================================
+Episode 467
+  Avg Score: 137.11
+  Total Reward: 13380.30
+  Total Rate: 147.59 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 146.64 Mbps
+  Total Power: 1098.82 W
+
+
+============================================================
+Episode 468
+  Avg Score: 137.09
+  Total Reward: 13611.98
+  Total Rate: 148.93 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 147.93 Mbps
+  Total Power: 1017.84 W
+
+
+============================================================
+Episode 469
+  Avg Score: 137.16
+  Total Reward: 14030.91
+  Total Rate: 153.74 Mbps
+  UL Rate: 0.72 Mbps
+  DL Rate: 153.02 Mbps
+  Total Power: 1121.07 W
+
+
+============================================================
+Episode 470
+  Avg Score: 137.18
+  Total Reward: 13565.29
+  Total Rate: 150.33 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 149.41 Mbps
+  Total Power: 1175.00 W
+
+
+============================================================
+Episode 471
+  Avg Score: 137.22
+  Total Reward: 13432.06
+  Total Rate: 148.24 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 147.36 Mbps
+  Total Power: 1156.82 W
+
+
+============================================================
+Episode 472
+  Avg Score: 137.31
+  Total Reward: 13685.47
+  Total Rate: 149.58 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 148.72 Mbps
+  Total Power: 1036.85 W
+
+
+============================================================
+Episode 473
+  Avg Score: 137.27
+  Total Reward: 13753.42
+  Total Rate: 148.95 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 148.03 Mbps
+  Total Power: 895.09 W
+
+
+============================================================
+Episode 474
+  Avg Score: 137.18
+  Total Reward: 12900.20
+  Total Rate: 142.80 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 141.93 Mbps
+  Total Power: 1121.37 W
+
+
+============================================================
+Episode 475
+  Avg Score: 137.13
+  Total Reward: 13277.82
+  Total Rate: 147.74 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 146.82 Mbps
+  Total Power: 1202.69 W
+
+
+============================================================
+Episode 476
+  Avg Score: 137.11
+  Total Reward: 13518.73
+  Total Rate: 148.25 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 147.39 Mbps
+  Total Power: 1060.40 W
+
+
+============================================================
+Episode 477
+  Avg Score: 137.01
+  Total Reward: 13539.76
+  Total Rate: 152.50 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 151.75 Mbps
+  Total Power: 1401.58 W
+
+
+============================================================
+Episode 478
+  Avg Score: 136.93
+  Total Reward: 13122.47
+  Total Rate: 145.50 Mbps
+  UL Rate: 0.72 Mbps
+  DL Rate: 144.78 Mbps
+  Total Power: 1171.78 W
+
+
+============================================================
+Episode 479
+  Avg Score: 136.87
+  Total Reward: 13818.45
+  Total Rate: 151.21 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 150.36 Mbps
+  Total Power: 998.08 W
+
+
+============================================================
+Episode 480
+  Avg Score: 136.85
+  Total Reward: 13435.30
+  Total Rate: 147.87 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 146.90 Mbps
+  Total Power: 1071.06 W
+
+
+============================================================
+Episode 481
+  Avg Score: 136.81
+  Total Reward: 13307.12
+  Total Rate: 145.88 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 144.99 Mbps
+  Total Power: 1022.98 W
+
+
+============================================================
+Episode 482
+  Avg Score: 136.82
+  Total Reward: 13466.92
+  Total Rate: 148.94 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 148.09 Mbps
+  Total Power: 1168.83 W
+
+
+============================================================
+Episode 483
+  Avg Score: 136.78
+  Total Reward: 13190.50
+  Total Rate: 145.40 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 144.54 Mbps
+  Total Power: 1119.55 W
+
+
+============================================================
+Episode 484
+  Avg Score: 136.84
+  Total Reward: 14494.00
+  Total Rate: 158.95 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 157.99 Mbps
+  Total Power: 1107.88 W
+
+
+============================================================
+Episode 485
+  Avg Score: 136.82
+  Total Reward: 13920.29
+  Total Rate: 155.73 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 154.75 Mbps
+  Total Power: 1320.95 W
+
+
+============================================================
+Episode 486
+  Avg Score: 136.81
+  Total Reward: 13427.55
+  Total Rate: 147.31 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 146.49 Mbps
+  Total Power: 1057.98 W
+
+
+============================================================
+Episode 487
+  Avg Score: 136.86
+  Total Reward: 13869.89
+  Total Rate: 151.95 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 151.17 Mbps
+  Total Power: 1066.12 W
+
+
+============================================================
+Episode 488
+  Avg Score: 136.85
+  Total Reward: 14142.96
+  Total Rate: 156.87 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 155.96 Mbps
+  Total Power: 1238.13 W
+
+
+============================================================
+Episode 489
+  Avg Score: 136.79
+  Total Reward: 13955.52
+  Total Rate: 157.02 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 156.14 Mbps
+  Total Power: 1372.14 W
+
+
+============================================================
+Episode 490
+  Avg Score: 136.83
+  Total Reward: 13783.11
+  Total Rate: 150.90 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 149.95 Mbps
+  Total Power: 1034.14 W
+
+
+============================================================
+Episode 491
+  Avg Score: 136.87
+  Total Reward: 13718.94
+  Total Rate: 149.60 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 148.80 Mbps
+  Total Power: 969.58 W
+
+
+============================================================
+Episode 492
+  Avg Score: 136.97
+  Total Reward: 14177.17
+  Total Rate: 155.66 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 154.74 Mbps
+  Total Power: 1096.20 W
+
+
+============================================================
+Episode 493
+  Avg Score: 136.97
+  Total Reward: 14263.76
+  Total Rate: 157.65 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 156.77 Mbps
+  Total Power: 1230.23 W
+
+
+============================================================
+Episode 494
+  Avg Score: 137.01
+  Total Reward: 14118.71
+  Total Rate: 156.15 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 155.28 Mbps
+  Total Power: 1165.13 W
+
+
+============================================================
+Episode 495
+  Avg Score: 137.01
+  Total Reward: 13555.44
+  Total Rate: 149.20 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 148.30 Mbps
+  Total Power: 1096.01 W
+
+
+============================================================
+Episode 496
+  Avg Score: 137.00
+  Total Reward: 14026.85
+  Total Rate: 152.62 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 151.74 Mbps
+  Total Power: 981.52 W
+
+
+============================================================
+Episode 497
+  Avg Score: 136.90
+  Total Reward: 13492.66
+  Total Rate: 149.64 Mbps
+  UL Rate: 1.01 Mbps
+  DL Rate: 148.63 Mbps
+  Total Power: 1171.17 W
+
+
+============================================================
+Episode 498
+  Avg Score: 136.94
+  Total Reward: 13800.32
+  Total Rate: 151.17 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 150.22 Mbps
+  Total Power: 1056.09 W
+
+
+============================================================
+Episode 499
+  Avg Score: 136.94
+  Total Reward: 13798.50
+  Total Rate: 152.12 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 151.16 Mbps
+  Total Power: 1123.56 W
+
+
+============================================================
+Episode 500
+  Avg Score: 136.88
+  Total Reward: 13411.83
+  Total Rate: 147.59 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 146.72 Mbps
+  Total Power: 1058.48 W
+
+
+============================================================
+Episode 501
+  Avg Score: 136.92
+  Total Reward: 13800.36
+  Total Rate: 152.07 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 151.11 Mbps
+  Total Power: 1132.65 W
+
+
+============================================================
+Episode 502
+  Avg Score: 136.87
+  Total Reward: 14089.44
+  Total Rate: 155.71 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 154.85 Mbps
+  Total Power: 1175.22 W
+
+
+============================================================
+Episode 503
+  Avg Score: 136.87
+  Total Reward: 13779.66
+  Total Rate: 153.72 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 152.76 Mbps
+  Total Power: 1300.09 W
+
+
+============================================================
+Episode 504
+  Avg Score: 136.82
+  Total Reward: 13226.82
+  Total Rate: 147.92 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 146.99 Mbps
+  Total Power: 1303.45 W
+
+
+============================================================
+Episode 505
+  Avg Score: 136.93
+  Total Reward: 14323.36
+  Total Rate: 157.32 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 156.33 Mbps
+  Total Power: 1092.50 W
+
+
+============================================================
+Episode 506
+  Avg Score: 136.90
+  Total Reward: 13391.71
+  Total Rate: 150.03 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 149.08 Mbps
+  Total Power: 1302.72 W
+
+
+============================================================
+Episode 507
+  Avg Score: 136.93
+  Total Reward: 13874.84
+  Total Rate: 152.50 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 151.56 Mbps
+  Total Power: 1077.82 W
+
+
+============================================================
+Episode 508
+  Avg Score: 136.97
+  Total Reward: 13901.52
+  Total Rate: 153.43 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 152.54 Mbps
+  Total Power: 1147.89 W
+
+
+============================================================
+Episode 509
+  Avg Score: 136.94
+  Total Reward: 13165.56
+  Total Rate: 146.25 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 145.37 Mbps
+  Total Power: 1190.69 W
+
+
+============================================================
+Episode 510
+  Avg Score: 136.98
+  Total Reward: 13623.47
+  Total Rate: 149.63 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 148.70 Mbps
+  Total Power: 1043.94 W
+
+
+============================================================
+Episode 511
+  Avg Score: 136.92
+  Total Reward: 13101.21
+  Total Rate: 147.12 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 146.23 Mbps
+  Total Power: 1356.48 W
+
+
+============================================================
+Episode 512
+  Avg Score: 136.99
+  Total Reward: 14176.07
+  Total Rate: 155.66 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 154.71 Mbps
+  Total Power: 1095.81 W
+
+
+============================================================
+Episode 513
+  Avg Score: 137.03
+  Total Reward: 13704.27
+  Total Rate: 148.84 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 147.93 Mbps
+  Total Power: 936.01 W
+
+
+============================================================
+Episode 514
+  Avg Score: 137.03
+  Total Reward: 13689.08
+  Total Rate: 150.10 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 149.25 Mbps
+  Total Power: 1058.71 W
+
+
+============================================================
+Episode 515
+  Avg Score: 137.07
+  Total Reward: 13941.50
+  Total Rate: 153.53 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 152.68 Mbps
+  Total Power: 1112.57 W
+
+
+============================================================
+Episode 516
+  Avg Score: 137.11
+  Total Reward: 13993.41
+  Total Rate: 154.50 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 153.55 Mbps
+  Total Power: 1138.86 W
+
+
+============================================================
+Episode 517
+  Avg Score: 137.17
+  Total Reward: 14056.36
+  Total Rate: 154.89 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 154.01 Mbps
+  Total Power: 1097.37 W
+
+
+============================================================
+Episode 518
+  Avg Score: 137.23
+  Total Reward: 13961.10
+  Total Rate: 154.80 Mbps
+  UL Rate: 1.03 Mbps
+  DL Rate: 153.77 Mbps
+  Total Power: 1206.66 W
+
+
+============================================================
+Episode 519
+  Avg Score: 137.19
+  Total Reward: 13403.04
+  Total Rate: 149.42 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 148.58 Mbps
+  Total Power: 1280.36 W
+
+
+============================================================
+Episode 520
+  Avg Score: 137.21
+  Total Reward: 14100.05
+  Total Rate: 155.37 Mbps
+  UL Rate: 1.00 Mbps
+  DL Rate: 154.37 Mbps
+  Total Power: 1108.25 W
+
+
+============================================================
+Episode 521
+  Avg Score: 137.22
+  Total Reward: 13508.26
+  Total Rate: 151.30 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 150.34 Mbps
+  Total Power: 1322.83 W
+
+
+============================================================
+Episode 522
+  Avg Score: 137.21
+  Total Reward: 13909.52
+  Total Rate: 150.82 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 149.88 Mbps
+  Total Power: 926.80 W
+
+
+============================================================
+Episode 523
+  Avg Score: 137.16
+  Total Reward: 13479.87
+  Total Rate: 147.69 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 146.73 Mbps
+  Total Power: 1049.81 W
+
+
+============================================================
+Episode 524
+  Avg Score: 137.13
+  Total Reward: 13449.06
+  Total Rate: 147.79 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 146.80 Mbps
+  Total Power: 1059.41 W
+
+
+============================================================
+Episode 525
+  Avg Score: 137.08
+  Total Reward: 13741.09
+  Total Rate: 151.64 Mbps
+  UL Rate: 1.05 Mbps
+  DL Rate: 150.59 Mbps
+  Total Power: 1102.89 W
+
+
+============================================================
+Episode 526
+  Avg Score: 137.00
+  Total Reward: 13290.01
+  Total Rate: 145.29 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 144.44 Mbps
+  Total Power: 987.04 W
+
+
+============================================================
+Episode 527
+  Avg Score: 137.00
+  Total Reward: 13462.98
+  Total Rate: 148.87 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 147.91 Mbps
+  Total Power: 1148.55 W
+
+
+============================================================
+Episode 528
+  Avg Score: 136.96
+  Total Reward: 13579.56
+  Total Rate: 148.40 Mbps
+  UL Rate: 1.06 Mbps
+  DL Rate: 147.34 Mbps
+  Total Power: 979.50 W
+
+
+============================================================
+Episode 529
+  Avg Score: 137.00
+  Total Reward: 13925.45
+  Total Rate: 152.44 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 151.51 Mbps
+  Total Power: 1022.41 W
+
+
+============================================================
+Episode 530
+  Avg Score: 137.05
+  Total Reward: 13903.23
+  Total Rate: 152.53 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 151.54 Mbps
+  Total Power: 1043.26 W
+
+
+============================================================
+Episode 531
+  Avg Score: 137.12
+  Total Reward: 13736.67
+  Total Rate: 151.36 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 150.45 Mbps
+  Total Power: 1111.90 W
+
+
+============================================================
+Episode 532
+  Avg Score: 137.19
+  Total Reward: 14214.77
+  Total Rate: 154.73 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 153.82 Mbps
+  Total Power: 972.90 W
+
+
+============================================================
+Episode 533
+  Avg Score: 137.31
+  Total Reward: 14386.99
+  Total Rate: 157.80 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 156.98 Mbps
+  Total Power: 1098.17 W
+
+
+============================================================
+Episode 534
+  Avg Score: 137.35
+  Total Reward: 14574.48
+  Total Rate: 157.83 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 157.00 Mbps
+  Total Power: 887.66 W
+
+
+============================================================
+Episode 535
+  Avg Score: 137.30
+  Total Reward: 13716.61
+  Total Rate: 151.13 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 150.20 Mbps
+  Total Power: 1113.59 W
+
+
+============================================================
+Episode 536
+  Avg Score: 137.35
+  Total Reward: 14084.12
+  Total Rate: 155.70 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 154.84 Mbps
+  Total Power: 1177.95 W
+
+
+============================================================
+Episode 537
+  Avg Score: 137.42
+  Total Reward: 14080.55
+  Total Rate: 152.75 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 151.99 Mbps
+  Total Power: 916.75 W
+
+
+============================================================
+Episode 538
+  Avg Score: 137.50
+  Total Reward: 14325.97
+  Total Rate: 154.74 Mbps
+  UL Rate: 0.70 Mbps
+  DL Rate: 154.03 Mbps
+  Total Power: 859.48 W
+
+
+============================================================
+Episode 539
+  Avg Score: 137.49
+  Total Reward: 13725.38
+  Total Rate: 149.65 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 148.81 Mbps
+  Total Power: 976.76 W
+
+
+============================================================
+Episode 540
+  Avg Score: 137.53
+  Total Reward: 14424.13
+  Total Rate: 158.21 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 157.33 Mbps
+  Total Power: 1093.59 W
+
+
+============================================================
+Episode 541
+  Avg Score: 137.59
+  Total Reward: 14000.31
+  Total Rate: 154.03 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 153.10 Mbps
+  Total Power: 1139.83 W
+
+
+============================================================
+Episode 542
+  Avg Score: 137.68
+  Total Reward: 14798.60
+  Total Rate: 162.04 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 161.24 Mbps
+  Total Power: 1111.63 W
+
+
+============================================================
+Episode 543
+  Avg Score: 137.72
+  Total Reward: 14239.46
+  Total Rate: 154.08 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 153.31 Mbps
+  Total Power: 904.99 W
+
+
+============================================================
+Episode 544
+  Avg Score: 137.69
+  Total Reward: 14024.49
+  Total Rate: 153.87 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 153.04 Mbps
+  Total Power: 1040.43 W
+
+
+============================================================
+Episode 545
+  Avg Score: 137.79
+  Total Reward: 14077.33
+  Total Rate: 155.31 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 154.53 Mbps
+  Total Power: 1121.26 W
+
+
+============================================================
+Episode 546
+  Avg Score: 137.84
+  Total Reward: 14145.95
+  Total Rate: 154.54 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 153.72 Mbps
+  Total Power: 1007.40 W
+
+
+============================================================
+Episode 547
+  Avg Score: 137.89
+  Total Reward: 14528.95
+  Total Rate: 157.61 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 156.81 Mbps
+  Total Power: 967.07 W
+
+
+============================================================
+Episode 548
+  Avg Score: 137.96
+  Total Reward: 14542.39
+  Total Rate: 162.12 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 161.28 Mbps
+  Total Power: 1311.94 W
+
+
+============================================================
+Episode 549
+  Avg Score: 137.95
+  Total Reward: 13600.98
+  Total Rate: 148.31 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 147.47 Mbps
+  Total Power: 998.28 W
+
+
+============================================================
+Episode 550
+  Avg Score: 138.07
+  Total Reward: 14500.77
+  Total Rate: 159.68 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 158.78 Mbps
+  Total Power: 1127.09 W
+
+
+============================================================
+Episode 551
+  Avg Score: 138.11
+  Total Reward: 14215.59
+  Total Rate: 156.64 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 155.73 Mbps
+  Total Power: 1126.18 W
+
+
+============================================================
+Episode 552
+  Avg Score: 138.22
+  Total Reward: 14332.09
+  Total Rate: 159.35 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 158.36 Mbps
+  Total Power: 1247.99 W
+
+
+============================================================
+Episode 553
+  Avg Score: 138.29
+  Total Reward: 14237.98
+  Total Rate: 155.42 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 154.43 Mbps
+  Total Power: 985.41 W
+
+
+============================================================
+Episode 554
+  Avg Score: 138.29
+  Total Reward: 13914.82
+  Total Rate: 153.12 Mbps
+  UL Rate: 0.69 Mbps
+  DL Rate: 152.43 Mbps
+  Total Power: 1106.29 W
+
+
+============================================================
+Episode 555
+  Avg Score: 138.43
+  Total Reward: 14036.84
+  Total Rate: 155.17 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 154.34 Mbps
+  Total Power: 1178.79 W
+
+
+============================================================
+Episode 556
+  Avg Score: 138.48
+  Total Reward: 14648.96
+  Total Rate: 160.58 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 159.79 Mbps
+  Total Power: 1093.65 W
+
+
+============================================================
+Episode 557
+  Avg Score: 138.45
+  Total Reward: 14211.45
+  Total Rate: 155.41 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 154.52 Mbps
+  Total Power: 1034.13 W
+
+
+============================================================
+Episode 558
+  Avg Score: 138.46
+  Total Reward: 14518.02
+  Total Rate: 157.22 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 156.34 Mbps
+  Total Power: 865.66 W
+
+
+============================================================
+Episode 559
+  Avg Score: 138.56
+  Total Reward: 14638.28
+  Total Rate: 159.96 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 159.22 Mbps
+  Total Power: 1030.98 W
+
+
+============================================================
+Episode 560
+  Avg Score: 138.48
+  Total Reward: 13380.17
+  Total Rate: 151.58 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 150.63 Mbps
+  Total Power: 1483.41 W
+
+
+============================================================
+Episode 561
+  Avg Score: 138.53
+  Total Reward: 13929.85
+  Total Rate: 153.03 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 152.19 Mbps
+  Total Power: 1124.19 W
+
+
+============================================================
+Episode 562
+  Avg Score: 138.54
+  Total Reward: 14438.48
+  Total Rate: 159.83 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 158.98 Mbps
+  Total Power: 1266.08 W
+
+
+============================================================
+Episode 563
+  Avg Score: 138.56
+  Total Reward: 14150.56
+  Total Rate: 155.32 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 154.37 Mbps
+  Total Power: 1084.96 W
+
+
+============================================================
+Episode 564
+  Avg Score: 138.61
+  Total Reward: 14314.38
+  Total Rate: 155.66 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 154.80 Mbps
+  Total Power: 956.54 W
+
+
+============================================================
+Episode 565
+  Avg Score: 138.61
+  Total Reward: 13547.41
+  Total Rate: 150.28 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 149.47 Mbps
+  Total Power: 1193.69 W
+
+
+============================================================
+Episode 566
+  Avg Score: 138.73
+  Total Reward: 14466.30
+  Total Rate: 161.14 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 160.26 Mbps
+  Total Power: 1278.43 W
+
+
+============================================================
+Episode 567
+  Avg Score: 138.83
+  Total Reward: 14382.78
+  Total Rate: 158.45 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 157.54 Mbps
+  Total Power: 1154.85 W
+
+
+============================================================
+Episode 568
+  Avg Score: 138.93
+  Total Reward: 14612.02
+  Total Rate: 157.87 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 157.01 Mbps
+  Total Power: 884.02 W
+
+
+============================================================
+Episode 569
+  Avg Score: 138.91
+  Total Reward: 13882.22
+  Total Rate: 152.10 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 151.24 Mbps
+  Total Power: 1037.39 W
+
+
+============================================================
+Episode 570
+  Avg Score: 139.03
+  Total Reward: 14797.27
+  Total Rate: 161.22 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 160.43 Mbps
+  Total Power: 1005.07 W
+
+
+============================================================
+Episode 571
+  Avg Score: 139.19
+  Total Reward: 15019.53
+  Total Rate: 160.25 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 159.47 Mbps
+  Total Power: 716.34 W
+
+
+============================================================
+Episode 572
+  Avg Score: 139.25
+  Total Reward: 14250.83
+  Total Rate: 156.41 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 155.51 Mbps
+  Total Power: 1068.21 W
+
+
+============================================================
+Episode 573
+  Avg Score: 139.23
+  Total Reward: 13556.05
+  Total Rate: 148.79 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 148.05 Mbps
+  Total Power: 1070.45 W
+
+
+============================================================
+Episode 574
+  Avg Score: 139.34
+  Total Reward: 14020.92
+  Total Rate: 155.65 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 154.81 Mbps
+  Total Power: 1263.42 W
+
+
+============================================================
+Episode 575
+  Avg Score: 139.48
+  Total Reward: 14659.26
+  Total Rate: 159.92 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 158.98 Mbps
+  Total Power: 1027.84 W
+
+
+============================================================
+Episode 576
+  Avg Score: 139.55
+  Total Reward: 14268.77
+  Total Rate: 156.54 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 155.64 Mbps
+  Total Power: 1081.00 W
+
+
+============================================================
+Episode 577
+  Avg Score: 139.65
+  Total Reward: 14467.63
+  Total Rate: 159.13 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 158.21 Mbps
+  Total Power: 1134.72 W
+
+
+============================================================
+Episode 578
+  Avg Score: 139.82
+  Total Reward: 14842.63
+  Total Rate: 162.05 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 161.15 Mbps
+  Total Power: 1006.97 W
+
+
+============================================================
+Episode 579
+  Avg Score: 139.79
+  Total Reward: 13549.21
+  Total Rate: 149.76 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 148.93 Mbps
+  Total Power: 1168.44 W
+
+
+============================================================
+Episode 580
+  Avg Score: 139.87
+  Total Reward: 14201.53
+  Total Rate: 157.45 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 156.55 Mbps
+  Total Power: 1212.04 W
+
+
+============================================================
+Episode 581
+  Avg Score: 139.96
+  Total Reward: 14189.90
+  Total Rate: 154.82 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 153.96 Mbps
+  Total Power: 969.34 W
+
+
+============================================================
+Episode 582
+  Avg Score: 140.03
+  Total Reward: 14210.90
+  Total Rate: 154.96 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 154.07 Mbps
+  Total Power: 1008.26 W
+
+
+============================================================
+Episode 583
+  Avg Score: 140.11
+  Total Reward: 13987.88
+  Total Rate: 154.23 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 153.37 Mbps
+  Total Power: 1151.09 W
+
+
+============================================================
+Episode 584
+  Avg Score: 140.10
+  Total Reward: 14325.88
+  Total Rate: 156.99 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 156.00 Mbps
+  Total Power: 1043.49 W
+
+
+============================================================
+Episode 585
+  Avg Score: 140.04
+  Total Reward: 13349.35
+  Total Rate: 146.14 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 145.40 Mbps
+  Total Power: 1042.48 W
+
+
+============================================================
+Episode 586
+  Avg Score: 140.06
+  Total Reward: 13658.17
+  Total Rate: 148.99 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 148.06 Mbps
+  Total Power: 1015.29 W
+
+
+============================================================
+Episode 587
+  Avg Score: 140.04
+  Total Reward: 13645.21
+  Total Rate: 151.51 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 150.62 Mbps
+  Total Power: 1268.15 W
+
+
+============================================================
+Episode 588
+  Avg Score: 140.08
+  Total Reward: 14548.79
+  Total Rate: 159.37 Mbps
+  UL Rate: 0.96 Mbps
+  DL Rate: 158.41 Mbps
+  Total Power: 1078.84 W
+
+
+============================================================
+Episode 589
+  Avg Score: 140.02
+  Total Reward: 13394.85
+  Total Rate: 152.66 Mbps
+  UL Rate: 0.72 Mbps
+  DL Rate: 151.95 Mbps
+  Total Power: 1561.49 W
+
+
+============================================================
+Episode 590
+  Avg Score: 139.93
+  Total Reward: 12843.20
+  Total Rate: 144.10 Mbps
+  UL Rate: 0.20 Mbps
+  DL Rate: 143.90 Mbps
+  Total Power: 1392.43 W
+
+
+============================================================
+Episode 591
+  Avg Score: 139.79
+  Total Reward: 12345.85
+  Total Rate: 138.52 Mbps
+  UL Rate: 0.18 Mbps
+  DL Rate: 138.34 Mbps
+  Total Power: 1400.73 W
+
+
+============================================================
+Episode 592
+  Avg Score: 139.74
+  Total Reward: 13661.83
+  Total Rate: 151.83 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 150.96 Mbps
+  Total Power: 1219.71 W
+
+
+============================================================
+Episode 593
+  Avg Score: 139.74
+  Total Reward: 14232.18
+  Total Rate: 156.18 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 155.26 Mbps
+  Total Power: 1033.02 W
+
+
+============================================================
+Episode 594
+  Avg Score: 139.67
+  Total Reward: 13451.97
+  Total Rate: 150.34 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 149.45 Mbps
+  Total Power: 1305.51 W
+
+
+============================================================
+Episode 595
+  Avg Score: 139.78
+  Total Reward: 14627.84
+  Total Rate: 159.08 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 158.26 Mbps
+  Total Power: 996.92 W
+
+
+============================================================
+Episode 596
+  Avg Score: 139.77
+  Total Reward: 13922.65
+  Total Rate: 151.63 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 150.73 Mbps
+  Total Power: 962.15 W
+
+
+============================================================
+Episode 597
+  Avg Score: 139.76
+  Total Reward: 13406.76
+  Total Rate: 146.43 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 145.61 Mbps
+  Total Power: 998.81 W
+
+
+============================================================
+Episode 598
+  Avg Score: 139.75
+  Total Reward: 13735.85
+  Total Rate: 149.96 Mbps
+  UL Rate: 0.98 Mbps
+  DL Rate: 148.99 Mbps
+  Total Power: 975.79 W
+
+
+============================================================
+Episode 599
+  Avg Score: 139.79
+  Total Reward: 14208.77
+  Total Rate: 155.60 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 154.63 Mbps
+  Total Power: 1006.07 W
+
+
+============================================================
+Episode 600
+  Avg Score: 139.84
+  Total Reward: 13913.50
+  Total Rate: 152.37 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 151.47 Mbps
+  Total Power: 1043.74 W
+
+
+============================================================
+Episode 601
+  Avg Score: 139.90
+  Total Reward: 14372.35
+  Total Rate: 158.59 Mbps
+  UL Rate: 1.03 Mbps
+  DL Rate: 157.55 Mbps
+  Total Power: 1122.94 W
+
+
+============================================================
+Episode 602
+  Avg Score: 139.91
+  Total Reward: 14208.94
+  Total Rate: 154.21 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 153.34 Mbps
+  Total Power: 939.05 W
+
+
+============================================================
+Episode 603
+  Avg Score: 139.98
+  Total Reward: 14473.99
+  Total Rate: 158.62 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 157.75 Mbps
+  Total Power: 1075.71 W
+
+
+============================================================
+Episode 604
+  Avg Score: 140.06
+  Total Reward: 14001.26
+  Total Rate: 153.75 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 152.87 Mbps
+  Total Power: 1092.61 W
+
+
+============================================================
+Episode 605
+  Avg Score: 140.00
+  Total Reward: 13691.98
+  Total Rate: 152.12 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 151.26 Mbps
+  Total Power: 1246.57 W
+
+
+============================================================
+Episode 606
+  Avg Score: 140.06
+  Total Reward: 13991.48
+  Total Rate: 154.00 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 153.10 Mbps
+  Total Power: 1107.67 W
+
+
+============================================================
+Episode 607
+  Avg Score: 140.12
+  Total Reward: 14556.90
+  Total Rate: 160.23 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 159.32 Mbps
+  Total Power: 1152.83 W
+
+
+============================================================
+Episode 608
+  Avg Score: 140.21
+  Total Reward: 14723.49
+  Total Rate: 160.64 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 159.74 Mbps
+  Total Power: 1025.02 W
+
+
+============================================================
+Episode 609
+  Avg Score: 140.30
+  Total Reward: 14112.73
+  Total Rate: 156.67 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 155.76 Mbps
+  Total Power: 1241.36 W
+
+
+============================================================
+Episode 610
+  Avg Score: 140.37
+  Total Reward: 14333.20
+  Total Rate: 159.69 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 158.87 Mbps
+  Total Power: 1298.31 W
+
+
+============================================================
+Episode 611
+  Avg Score: 140.53
+  Total Reward: 14699.47
+  Total Rate: 161.29 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 160.39 Mbps
+  Total Power: 1115.76 W
+
+
+============================================================
+Episode 612
+  Avg Score: 140.59
+  Total Reward: 14722.16
+  Total Rate: 163.22 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 162.44 Mbps
+  Total Power: 1257.23 W
+
+
+============================================================
+Episode 613
+  Avg Score: 140.61
+  Total Reward: 13894.64
+  Total Rate: 156.63 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 155.76 Mbps
+  Total Power: 1476.81 W
+
+
+============================================================
+Episode 614
+  Avg Score: 140.71
+  Total Reward: 14733.25
+  Total Rate: 159.51 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 158.65 Mbps
+  Total Power: 936.34 W
+
+
+============================================================
+Episode 615
+  Avg Score: 140.77
+  Total Reward: 14527.14
+  Total Rate: 161.78 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 160.96 Mbps
+  Total Power: 1324.95 W
+
+
+============================================================
+Episode 616
+  Avg Score: 140.81
+  Total Reward: 14376.31
+  Total Rate: 160.29 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 159.47 Mbps
+  Total Power: 1316.01 W
+
+
+============================================================
+Episode 617
+  Avg Score: 140.86
+  Total Reward: 14622.25
+  Total Rate: 162.87 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 161.92 Mbps
+  Total Power: 1271.83 W
+
+
+============================================================
+Episode 618
+  Avg Score: 140.94
+  Total Reward: 14675.17
+  Total Rate: 162.77 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 161.88 Mbps
+  Total Power: 1261.13 W
+
+
+============================================================
+Episode 619
+  Avg Score: 141.03
+  Total Reward: 14356.22
+  Total Rate: 157.82 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 156.97 Mbps
+  Total Power: 1129.25 W
+
+
+============================================================
+Episode 620
+  Avg Score: 141.08
+  Total Reward: 14601.79
+  Total Rate: 161.15 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 160.28 Mbps
+  Total Power: 1176.85 W
+
+
+============================================================
+Episode 621
+  Avg Score: 141.14
+  Total Reward: 14151.84
+  Total Rate: 154.27 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 153.40 Mbps
+  Total Power: 1006.39 W
+
+
+============================================================
+Episode 622
+  Avg Score: 141.18
+  Total Reward: 14211.37
+  Total Rate: 154.53 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 153.77 Mbps
+  Total Power: 1001.38 W
+
+
+============================================================
+Episode 623
+  Avg Score: 141.33
+  Total Reward: 14998.73
+  Total Rate: 165.43 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 164.51 Mbps
+  Total Power: 1160.11 W
+
+
+============================================================
+Episode 624
+  Avg Score: 141.41
+  Total Reward: 14323.68
+  Total Rate: 160.27 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 159.48 Mbps
+  Total Power: 1397.04 W
+
+
+============================================================
+Episode 625
+  Avg Score: 141.46
+  Total Reward: 14186.76
+  Total Rate: 157.27 Mbps
+  UL Rate: 0.93 Mbps
+  DL Rate: 156.34 Mbps
+  Total Power: 1234.37 W
+
+
+============================================================
+Episode 626
+  Avg Score: 141.52
+  Total Reward: 13928.68
+  Total Rate: 153.85 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 153.09 Mbps
+  Total Power: 1203.11 W
+
+
+============================================================
+Episode 627
+  Avg Score: 141.66
+  Total Reward: 14857.49
+  Total Rate: 161.60 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 160.77 Mbps
+  Total Power: 1031.91 W
+
+
+============================================================
+Episode 628
+  Avg Score: 141.74
+  Total Reward: 14330.93
+  Total Rate: 156.97 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 156.18 Mbps
+  Total Power: 1068.53 W
+
+
+============================================================
+Episode 629
+  Avg Score: 141.79
+  Total Reward: 14477.66
+  Total Rate: 157.90 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 156.98 Mbps
+  Total Power: 1042.97 W
+
+
+============================================================
+Episode 630
+  Avg Score: 141.84
+  Total Reward: 14359.47
+  Total Rate: 156.74 Mbps
+  UL Rate: 0.69 Mbps
+  DL Rate: 156.05 Mbps
+  Total Power: 1071.70 W
+
+
+============================================================
+Episode 631
+  Avg Score: 141.93
+  Total Reward: 14625.10
+  Total Rate: 161.26 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 160.42 Mbps
+  Total Power: 1149.80 W
+
+
+============================================================
+Episode 632
+  Avg Score: 141.96
+  Total Reward: 14591.87
+  Total Rate: 161.60 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 160.82 Mbps
+  Total Power: 1277.05 W
+
+
+============================================================
+Episode 633
+  Avg Score: 142.01
+  Total Reward: 14886.81
+  Total Rate: 164.21 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 163.30 Mbps
+  Total Power: 1146.76 W
+
+
+============================================================
+Episode 634
+  Avg Score: 142.05
+  Total Reward: 14936.74
+  Total Rate: 162.55 Mbps
+  UL Rate: 0.97 Mbps
+  DL Rate: 161.58 Mbps
+  Total Power: 1007.74 W
+
+
+============================================================
+Episode 635
+  Avg Score: 142.13
+  Total Reward: 14519.58
+  Total Rate: 158.36 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 157.45 Mbps
+  Total Power: 1004.43 W
+
+
+============================================================
+Episode 636
+  Avg Score: 142.19
+  Total Reward: 14665.98
+  Total Rate: 161.10 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 160.26 Mbps
+  Total Power: 1121.13 W
+
+
+============================================================
+Episode 637
+  Avg Score: 142.26
+  Total Reward: 14830.24
+  Total Rate: 162.55 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 161.56 Mbps
+  Total Power: 1066.01 W
+
+
+============================================================
+Episode 638
+  Avg Score: 142.26
+  Total Reward: 14231.21
+  Total Rate: 154.23 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 153.32 Mbps
+  Total Power: 936.32 W
+
+
+============================================================
+Episode 639
+  Avg Score: 142.34
+  Total Reward: 14581.99
+  Total Rate: 159.86 Mbps
+  UL Rate: 0.99 Mbps
+  DL Rate: 158.87 Mbps
+  Total Power: 1073.37 W
+
+
+============================================================
+Episode 640
+  Avg Score: 142.39
+  Total Reward: 14950.77
+  Total Rate: 163.57 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 162.74 Mbps
+  Total Power: 1071.56 W
+
+
+============================================================
+Episode 641
+  Avg Score: 142.43
+  Total Reward: 14332.59
+  Total Rate: 155.76 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 155.02 Mbps
+  Total Power: 985.12 W
+
+
+============================================================
+Episode 642
+  Avg Score: 142.44
+  Total Reward: 14958.05
+  Total Rate: 163.67 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 162.76 Mbps
+  Total Power: 1050.88 W
+
+
+============================================================
+Episode 643
+  Avg Score: 142.46
+  Total Reward: 14432.19
+  Total Rate: 157.62 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 156.82 Mbps
+  Total Power: 1045.77 W
+
+
+============================================================
+Episode 644
+  Avg Score: 142.50
+  Total Reward: 14448.98
+  Total Rate: 158.83 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 157.95 Mbps
+  Total Power: 1116.85 W
+
+
+============================================================
+Episode 645
+  Avg Score: 142.55
+  Total Reward: 14491.14
+  Total Rate: 159.54 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 158.64 Mbps
+  Total Power: 1115.73 W
+
+
+============================================================
+Episode 646
+  Avg Score: 142.64
+  Total Reward: 15083.66
+  Total Rate: 164.70 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 163.88 Mbps
+  Total Power: 1063.72 W
+
+
+============================================================
+Episode 647
+  Avg Score: 142.67
+  Total Reward: 14804.04
+  Total Rate: 161.46 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 160.63 Mbps
+  Total Power: 1025.29 W
+
+
+============================================================
+Episode 648
+  Avg Score: 142.69
+  Total Reward: 14764.39
+  Total Rate: 165.39 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 164.52 Mbps
+  Total Power: 1404.44 W
+
+
+============================================================
+Episode 649
+  Avg Score: 142.82
+  Total Reward: 14950.66
+  Total Rate: 162.31 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 161.48 Mbps
+  Total Power: 962.29 W
+
+
+============================================================
+Episode 650
+  Avg Score: 142.82
+  Total Reward: 14489.84
+  Total Rate: 159.64 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 158.84 Mbps
+  Total Power: 1168.41 W
+
+
+============================================================
+Episode 651
+  Avg Score: 142.84
+  Total Reward: 14357.15
+  Total Rate: 156.37 Mbps
+  UL Rate: 0.72 Mbps
+  DL Rate: 155.65 Mbps
+  Total Power: 1008.80 W
+
+
+============================================================
+Episode 652
+  Avg Score: 142.88
+  Total Reward: 14789.09
+  Total Rate: 159.74 Mbps
+  UL Rate: 0.71 Mbps
+  DL Rate: 159.03 Mbps
+  Total Power: 917.10 W
+
+
+============================================================
+Episode 653
+  Avg Score: 142.95
+  Total Reward: 14924.27
+  Total Rate: 161.89 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 161.03 Mbps
+  Total Power: 959.94 W
+
+
+============================================================
+Episode 654
+  Avg Score: 143.04
+  Total Reward: 14808.29
+  Total Rate: 162.06 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 161.30 Mbps
+  Total Power: 1101.22 W
+
+
+============================================================
+Episode 655
+  Avg Score: 143.14
+  Total Reward: 15012.64
+  Total Rate: 162.90 Mbps
+  UL Rate: 0.67 Mbps
+  DL Rate: 162.23 Mbps
+  Total Power: 982.36 W
+
+
+============================================================
+Episode 656
+  Avg Score: 143.14
+  Total Reward: 14704.81
+  Total Rate: 160.62 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 159.83 Mbps
+  Total Power: 1077.81 W
+
+
+============================================================
+Episode 657
+  Avg Score: 143.21
+  Total Reward: 14911.61
+  Total Rate: 162.19 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 161.35 Mbps
+  Total Power: 1018.55 W
+
+
+============================================================
+Episode 658
+  Avg Score: 143.25
+  Total Reward: 14851.69
+  Total Rate: 161.74 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 160.94 Mbps
+  Total Power: 1031.93 W
+
+
+============================================================
+Episode 659
+  Avg Score: 143.17
+  Total Reward: 13817.17
+  Total Rate: 152.48 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 151.60 Mbps
+  Total Power: 1166.94 W
+
+
+============================================================
+Episode 660
+  Avg Score: 143.28
+  Total Reward: 14477.99
+  Total Rate: 158.85 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 158.01 Mbps
+  Total Power: 1127.52 W
+
+
+============================================================
+Episode 661
+  Avg Score: 143.38
+  Total Reward: 14935.70
+  Total Rate: 163.05 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 162.19 Mbps
+  Total Power: 1004.61 W
+
+
+============================================================
+Episode 662
+  Avg Score: 143.39
+  Total Reward: 14553.03
+  Total Rate: 159.05 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 158.25 Mbps
+  Total Power: 1062.90 W
+
+
+============================================================
+Episode 663
+  Avg Score: 143.39
+  Total Reward: 14173.36
+  Total Rate: 157.11 Mbps
+  UL Rate: 0.65 Mbps
+  DL Rate: 156.47 Mbps
+  Total Power: 1233.35 W
+
+
+============================================================
+Episode 664
+  Avg Score: 143.36
+  Total Reward: 13984.22
+  Total Rate: 152.99 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 152.13 Mbps
+  Total Power: 1055.42 W
+
+
+============================================================
+Episode 665
+  Avg Score: 143.43
+  Total Reward: 14310.99
+  Total Rate: 155.96 Mbps
+  UL Rate: 0.72 Mbps
+  DL Rate: 155.24 Mbps
+  Total Power: 1030.38 W
+
+
+============================================================
+Episode 666
+  Avg Score: 143.48
+  Total Reward: 14916.48
+  Total Rate: 163.44 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 162.67 Mbps
+  Total Power: 1123.46 W
+
+
+============================================================
+Episode 667
+  Avg Score: 143.45
+  Total Reward: 14103.89
+  Total Rate: 156.57 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 155.71 Mbps
+  Total Power: 1235.22 W
+
+
+============================================================
+Episode 668
+  Avg Score: 143.43
+  Total Reward: 14376.83
+  Total Rate: 157.60 Mbps
+  UL Rate: 0.74 Mbps
+  DL Rate: 156.86 Mbps
+  Total Power: 1089.27 W
+
+
+============================================================
+Episode 669
+  Avg Score: 143.46
+  Total Reward: 14257.55
+  Total Rate: 158.56 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 157.72 Mbps
+  Total Power: 1281.95 W
+
+
+============================================================
+Episode 670
+  Avg Score: 143.47
+  Total Reward: 14856.72
+  Total Rate: 160.54 Mbps
+  UL Rate: 0.76 Mbps
+  DL Rate: 159.78 Mbps
+  Total Power: 902.20 W
+
+
+============================================================
+Episode 671
+  Avg Score: 143.44
+  Total Reward: 14739.04
+  Total Rate: 160.62 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 159.82 Mbps
+  Total Power: 1045.53 W
+
+
+============================================================
+Episode 672
+  Avg Score: 143.47
+  Total Reward: 14540.73
+  Total Rate: 160.44 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 159.64 Mbps
+  Total Power: 1193.18 W
+
+
+============================================================
+Episode 673
+  Avg Score: 143.61
+  Total Reward: 14966.21
+  Total Rate: 164.15 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 163.34 Mbps
+  Total Power: 1112.66 W
+
+
+============================================================
+Episode 674
+  Avg Score: 143.65
+  Total Reward: 14370.56
+  Total Rate: 157.91 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 157.10 Mbps
+  Total Power: 1129.70 W
+
+
+============================================================
+Episode 675
+  Avg Score: 143.63
+  Total Reward: 14528.71
+  Total Rate: 160.87 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 160.03 Mbps
+  Total Power: 1225.66 W
+
+
+============================================================
+Episode 676
+  Avg Score: 143.65
+  Total Reward: 14433.35
+  Total Rate: 157.24 Mbps
+  UL Rate: 0.75 Mbps
+  DL Rate: 156.48 Mbps
+  Total Power: 1059.77 W
+
+
+============================================================
+Episode 677
+  Avg Score: 143.67
+  Total Reward: 14698.23
+  Total Rate: 159.06 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 158.29 Mbps
+  Total Power: 937.26 W
+
+
+============================================================
+Episode 678
+  Avg Score: 143.66
+  Total Reward: 14661.25
+  Total Rate: 162.45 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 161.64 Mbps
+  Total Power: 1242.95 W
+
+
+============================================================
+Episode 679
+  Avg Score: 143.87
+  Total Reward: 15653.12
+  Total Rate: 168.93 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 168.08 Mbps
+  Total Power: 906.74 W
+
+
+============================================================
+Episode 680
+  Avg Score: 143.84
+  Total Reward: 13919.94
+  Total Rate: 151.30 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 150.40 Mbps
+  Total Power: 973.63 W
+
+
+============================================================
+Episode 681
+  Avg Score: 143.90
+  Total Reward: 14845.97
+  Total Rate: 163.33 Mbps
+  UL Rate: 0.86 Mbps
+  DL Rate: 162.47 Mbps
+  Total Power: 1119.49 W
+
+
+============================================================
+Episode 682
+  Avg Score: 143.92
+  Total Reward: 14375.11
+  Total Rate: 160.48 Mbps
+  UL Rate: 0.70 Mbps
+  DL Rate: 159.78 Mbps
+  Total Power: 1343.76 W
+
+
+============================================================
+Episode 683
+  Avg Score: 143.97
+  Total Reward: 14507.91
+  Total Rate: 161.12 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 160.33 Mbps
+  Total Power: 1280.65 W
+
+
+============================================================
+Episode 684
+  Avg Score: 144.02
+  Total Reward: 14796.47
+  Total Rate: 161.64 Mbps
+  UL Rate: 0.77 Mbps
+  DL Rate: 160.87 Mbps
+  Total Power: 1063.07 W
+
+
+============================================================
+Episode 685
+  Avg Score: 144.22
+  Total Reward: 15369.63
+  Total Rate: 166.64 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 165.76 Mbps
+  Total Power: 945.05 W
+
+
+============================================================
+Episode 686
+  Avg Score: 144.34
+  Total Reward: 14862.78
+  Total Rate: 161.99 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 161.07 Mbps
+  Total Power: 1012.18 W
+
+
+============================================================
+Episode 687
+  Avg Score: 144.37
+  Total Reward: 13925.55
+  Total Rate: 151.97 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 151.10 Mbps
+  Total Power: 1006.00 W
+
+
+============================================================
+Episode 688
+  Avg Score: 144.45
+  Total Reward: 15395.39
+  Total Rate: 167.98 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 167.08 Mbps
+  Total Power: 1041.75 W
+
+
+============================================================
+Episode 689
+  Avg Score: 144.62
+  Total Reward: 15068.64
+  Total Rate: 165.32 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 164.38 Mbps
+  Total Power: 1107.69 W
+
+
+============================================================
+Episode 690
+  Avg Score: 144.79
+  Total Reward: 14537.22
+  Total Rate: 158.32 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 157.52 Mbps
+  Total Power: 1003.04 W
+
+
+============================================================
+Episode 691
+  Avg Score: 145.02
+  Total Reward: 14619.00
+  Total Rate: 159.71 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 158.90 Mbps
+  Total Power: 1039.20 W
+
+
+============================================================
+Episode 692
+  Avg Score: 145.14
+  Total Reward: 14901.87
+  Total Rate: 163.82 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 162.95 Mbps
+  Total Power: 1140.76 W
+
+
+============================================================
+Episode 693
+  Avg Score: 145.14
+  Total Reward: 14230.77
+  Total Rate: 156.06 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 155.23 Mbps
+  Total Power: 1093.50 W
+
+
+============================================================
+Episode 694
+  Avg Score: 145.25
+  Total Reward: 14519.56
+  Total Rate: 159.86 Mbps
+  UL Rate: 0.80 Mbps
+  DL Rate: 159.06 Mbps
+  Total Power: 1161.24 W
+
+
+============================================================
+Episode 695
+  Avg Score: 145.28
+  Total Reward: 14902.80
+  Total Rate: 163.97 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 163.12 Mbps
+  Total Power: 1172.15 W
+
+
+============================================================
+Episode 696
+  Avg Score: 145.24
+  Total Reward: 13596.63
+  Total Rate: 150.58 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 149.71 Mbps
+  Total Power: 1191.66 W
+
+
+============================================================
+Episode 697
+  Avg Score: 145.32
+  Total Reward: 14164.35
+  Total Rate: 155.33 Mbps
+  UL Rate: 0.87 Mbps
+  DL Rate: 154.46 Mbps
+  Total Power: 1081.45 W
+
+
+============================================================
+Episode 698
+  Avg Score: 145.38
+  Total Reward: 14339.55
+  Total Rate: 160.18 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 159.28 Mbps
+  Total Power: 1340.51 W
+
+
+============================================================
+Episode 699
+  Avg Score: 145.43
+  Total Reward: 14722.19
+  Total Rate: 159.22 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 158.37 Mbps
+  Total Power: 914.62 W
+
+
+============================================================
+Episode 700
+  Avg Score: 145.57
+  Total Reward: 15262.78
+  Total Rate: 166.83 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 166.00 Mbps
+  Total Power: 1078.06 W
+
+
+============================================================
+Episode 701
+  Avg Score: 145.64
+  Total Reward: 15121.25
+  Total Rate: 167.23 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 166.39 Mbps
+  Total Power: 1256.19 W
+
+
+============================================================
+Episode 702
+  Avg Score: 145.72
+  Total Reward: 14985.49
+  Total Rate: 164.62 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 163.79 Mbps
+  Total Power: 1104.58 W
+
+
+============================================================
+Episode 703
+  Avg Score: 145.75
+  Total Reward: 14768.19
+  Total Rate: 162.46 Mbps
+  UL Rate: 0.95 Mbps
+  DL Rate: 161.52 Mbps
+  Total Power: 1059.27 W
+
+
+============================================================
+Episode 704
+  Avg Score: 145.83
+  Total Reward: 14799.23
+  Total Rate: 163.36 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 162.55 Mbps
+  Total Power: 1201.15 W
+
+
+============================================================
+Episode 705
+  Avg Score: 145.84
+  Total Reward: 13831.98
+  Total Rate: 153.67 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 152.85 Mbps
+  Total Power: 1260.15 W
+
+
+============================================================
+Episode 706
+  Avg Score: 145.94
+  Total Reward: 14931.07
+  Total Rate: 162.60 Mbps
+  UL Rate: 0.85 Mbps
+  DL Rate: 161.75 Mbps
+  Total Power: 996.78 W
+
+
+============================================================
+Episode 707
+  Avg Score: 145.95
+  Total Reward: 14679.34
+  Total Rate: 161.46 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 160.58 Mbps
+  Total Power: 1141.75 W
+
+
+============================================================
+Episode 708
+  Avg Score: 145.87
+  Total Reward: 13933.54
+  Total Rate: 153.80 Mbps
+  UL Rate: 0.81 Mbps
+  DL Rate: 152.98 Mbps
+  Total Power: 1158.67 W
+
+
+============================================================
+Episode 709
+  Avg Score: 145.91
+  Total Reward: 14546.78
+  Total Rate: 159.91 Mbps
+  UL Rate: 0.83 Mbps
+  DL Rate: 159.08 Mbps
+  Total Power: 1138.29 W
+
+
+============================================================
+Episode 710
+  Avg Score: 145.96
+  Total Reward: 14825.06
+  Total Rate: 165.65 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 164.81 Mbps
+  Total Power: 1386.95 W
+
+
+============================================================
+Episode 711
+  Avg Score: 145.98
+  Total Reward: 14855.35
+  Total Rate: 163.35 Mbps
+  UL Rate: 0.91 Mbps
+  DL Rate: 162.43 Mbps
+  Total Power: 1109.54 W
+
+
+============================================================
+Episode 712
+  Avg Score: 145.96
+  Total Reward: 14574.22
+  Total Rate: 161.10 Mbps
+  UL Rate: 0.84 Mbps
+  DL Rate: 160.26 Mbps
+  Total Power: 1148.45 W
+
+
+============================================================
+Episode 713
+  Avg Score: 146.03
+  Total Reward: 14613.57
+  Total Rate: 160.99 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 160.17 Mbps
+  Total Power: 1157.07 W
+
+
+============================================================
+Episode 714
+  Avg Score: 146.03
+  Total Reward: 14645.37
+  Total Rate: 159.01 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 158.07 Mbps
+  Total Power: 963.19 W
+
+
+============================================================
+Episode 715
+  Avg Score: 146.12
+  Total Reward: 15511.47
+  Total Rate: 170.36 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 169.42 Mbps
+  Total Power: 1122.97 W
+
+
+============================================================
+Episode 716
+  Avg Score: 146.17
+  Total Reward: 14851.96
+  Total Rate: 162.90 Mbps
+  UL Rate: 0.90 Mbps
+  DL Rate: 162.00 Mbps
+  Total Power: 1137.95 W
+
+
+============================================================
+Episode 717
+  Avg Score: 146.20
+  Total Reward: 14907.59
+  Total Rate: 162.16 Mbps
+  UL Rate: 0.94 Mbps
+  DL Rate: 161.23 Mbps
+  Total Power: 1017.87 W
+
+
+============================================================
+Episode 718
+  Avg Score: 146.20
+  Total Reward: 14651.16
+  Total Rate: 159.05 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 158.14 Mbps
+  Total Power: 955.25 W
+
+
+============================================================
+Episode 719
+  Avg Score: 146.23
+  Total Reward: 14665.53
+  Total Rate: 161.62 Mbps
+  UL Rate: 0.82 Mbps
+  DL Rate: 160.80 Mbps
+  Total Power: 1166.32 W
+
+
+============================================================
+Episode 720
+  Avg Score: 146.26
+  Total Reward: 14965.76
+  Total Rate: 162.86 Mbps
+  UL Rate: 0.78 Mbps
+  DL Rate: 162.08 Mbps
+  Total Power: 990.95 W
+
+
+============================================================
+Episode 721
+  Avg Score: 146.26
+  Total Reward: 14074.67
+  Total Rate: 154.62 Mbps
+  UL Rate: 0.79 Mbps
+  DL Rate: 153.83 Mbps
+  Total Power: 1129.04 W
+
+
+============================================================
+Episode 722
+  Avg Score: 146.31
+  Total Reward: 14737.40
+  Total Rate: 161.55 Mbps
+  UL Rate: 0.89 Mbps
+  DL Rate: 160.67 Mbps
+  Total Power: 1113.94 W
+
+
+============================================================
+Episode 723
+  Avg Score: 146.25
+  Total Reward: 14429.46
+  Total Rate: 159.63 Mbps
+  UL Rate: 0.92 Mbps
+  DL Rate: 158.71 Mbps
+  Total Power: 1207.86 W
+
+
+============================================================
+Episode 724
+  Avg Score: 146.31
+  Total Reward: 14940.06
+  Total Rate: 162.82 Mbps
+  UL Rate: 0.88 Mbps
+  DL Rate: 161.94 Mbps
+  Total Power: 1030.39 W
+

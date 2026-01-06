@@ -1,0 +1,1641 @@
+
+UAV1 hover loc: [329.11, 341.52, 255.59]
+UAV2 hover loc: [823.99, 854.15, 250.12]
+UAV3 hover loc: [315.14, 925.64, 249.67]
+Fair_ue: 0.85 Fair_uav: 0.95
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -41.07 Time: 19.67 Energy: 17.61
+UAV1 hover loc: [308.05, 325.14, 259.76]
+UAV2 hover loc: [800.78, 839.86, 237.89]
+UAV3 hover loc: [304.82, 942.87, 259.61]
+Fair_ue: 0.88 Fair_uav: 0.98
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 0 3 2 2 2 2]
+Reward: -36.04 Time: 18.79 Energy: 14.39
+UAV1 hover loc: [288.79, 336.75, 272.08]
+UAV2 hover loc: [781.70, 824.86, 234.89]
+UAV3 hover loc: [278.06, 943.97, 242.57]
+Fair_ue: 0.88 Fair_uav: 0.97
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 0 2 2 3 2 2 2 2]
+Reward: -38.58 Time: 20.28 Energy: 15.51
+UAV1 hover loc: [272.44, 350.38, 274.61]
+UAV2 hover loc: [760.25, 829.02, 209.03]
+UAV3 hover loc: [258.82, 967.15, 254.48]
+Fair_ue: 0.88 Fair_uav: 0.97
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 0 2 2 3 2 2 2 2]
+Reward: -10.47 Time: 21.08 Energy: 16.49
+UAV1 hover loc: [250.75, 366.98, 283.66]
+UAV2 hover loc: [740.58, 854.63, 213.34]
+UAV3 hover loc: [250.70, 982.63, 236.27]
+Fair_ue: 0.88 Fair_uav: 0.97
+Connected Array: [1 0 1 0 3 1 1 1 1 3 0 3 0 2 2 3 2 2 2 2]
+Reward: -12.56 Time: 24.59 Energy: 14.99
+UAV1 hover loc: [218.59, 381.06, 280.07]
+UAV2 hover loc: [740.58, 854.63, 213.34]
+UAV3 hover loc: [230.02, 1002.04, 221.66]
+Fair_ue: 0.87 Fair_uav: 0.97
+Connected Array: [1 0 1 0 3 1 1 1 1 3 0 3 0 2 2 3 2 2 2 2]
+Reward: -18.57 Time: 23.59 Energy: 16.87
+UAV1 hover loc: [232.22, 414.01, 303.47]
+UAV2 hover loc: [712.40, 884.40, 215.90]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.89 Fair_uav: 0.96
+Connected Array: [1 1 1 1 3 1 1 1 1 3 0 0 0 2 2 3 2 2 2 2]
+Reward: -15.76 Time: 21.34 Energy: 21.54
+UAV1 hover loc: [213.12, 437.25, 288.24]
+UAV2 hover loc: [690.18, 894.51, 238.54]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.89 Fair_uav: 0.96
+Connected Array: [1 0 0 1 3 1 1 1 1 3 0 0 0 2 2 3 2 2 2 2]
+Reward: -21.03 Time: 26.97 Energy: 16.13
+UAV1 hover loc: [213.12, 437.25, 288.24]
+UAV2 hover loc: [672.65, 933.18, 235.16]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.89 Fair_uav: 0.96
+Connected Array: [1 0 0 1 3 1 1 1 1 3 0 0 0 2 2 3 2 0 2 2]
+Reward: -33.03 Time: 30.33 Energy: 19.69
+UAV1 hover loc: [201.82, 481.42, 283.15]
+UAV2 hover loc: [670.40, 960.50, 241.42]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.88 Fair_uav: 0.96
+Connected Array: [1 0 0 1 3 1 1 0 1 3 0 0 0 2 2 3 2 0 0 2]
+Reward: -40.09 Time: 36.18 Energy: 17.83
+UAV1 hover loc: [201.82, 481.42, 283.15]
+UAV2 hover loc: [646.25, 982.89, 217.17]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.88 Fair_uav: 0.96
+Connected Array: [1 0 0 1 3 1 1 0 1 3 0 0 0 2 2 3 2 0 0 0]
+Reward: -51.17 Time: 42.10 Energy: 16.89
+UAV1 hover loc: [201.82, 481.42, 283.15]
+UAV2 hover loc: [670.13, 1008.61, 232.04]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 0 0 1 3 1 1 0 1 3 0 0 0 2 2 3 2 0 0 2]
+Reward: -78.65 Time: 38.85 Energy: 18.47
+UAV1 hover loc: [207.02, 523.02, 260.94]
+UAV2 hover loc: [630.13, 1017.87, 231.63]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 0 0 1 3 1 1 0 1 3 0 0 0 0 2 3 2 0 0 0]
+Reward: -83.03 Time: 46.12 Energy: 18.43
+UAV1 hover loc: [207.02, 523.02, 260.94]
+UAV2 hover loc: [593.44, 1009.26, 240.71]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 0 0 1 3 1 1 0 1 3 0 0 2 0 2 3 2 0 0 0]
+Reward: -78.86 Time: 40.26 Energy: 16.09
+UAV1 hover loc: [226.73, 548.47, 248.33]
+UAV2 hover loc: [572.08, 1024.20, 255.07]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 0 2 0 2 3 2 0 0 0]
+Reward: -69.50 Time: 39.27 Energy: 13.73
+UAV1 hover loc: [222.94, 585.91, 255.62]
+UAV2 hover loc: [545.77, 1050.24, 284.88]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 0 1 3 1 1 0 0 3 0 0 2 0 2 3 2 0 0 0]
+Reward: -79.71 Time: 43.13 Energy: 19.11
+UAV1 hover loc: [222.94, 585.91, 255.62]
+UAV2 hover loc: [508.21, 1048.46, 302.01]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 0 1 3 1 1 0 0 3 0 0 2 0 2 3 2 0 0 0]
+Reward: -82.41 Time: 41.95 Energy: 17.96
+UAV1 hover loc: [236.22, 626.66, 228.78]
+UAV2 hover loc: [511.47, 1093.11, 312.63]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [0 0 0 1 3 1 0 0 0 3 0 1 2 0 0 3 0 0 0 0]
+Reward: -91.07 Time: 50.54 Energy: 19.11
+UAV1 hover loc: [233.24, 663.00, 214.77]
+UAV2 hover loc: [501.08, 1128.86, 349.52]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -101.21 Time: 61.07 Energy: 16.73
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [474.66, 1127.34, 366.93]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.86 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -91.24 Time: 59.27 Energy: 8.53
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [474.66, 1127.34, 366.93]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.85 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -106.07 Time: 61.08 Energy: 11.49
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [474.66, 1127.34, 366.93]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.85 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -107.38 Time: 57.18 Energy: 16.61
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [474.66, 1127.34, 366.93]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.84 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -123.20 Time: 60.72 Energy: 28.78
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [460.98, 1143.55, 389.09]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.83 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -103.77 Time: 60.88 Energy: 14.05
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [460.98, 1143.55, 389.09]
+UAV3 hover loc: [204.54, 1014.75, 213.03]
+Fair_ue: 0.82 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -105.57 Time: 59.77 Energy: 11.81
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [460.98, 1143.55, 389.09]
+UAV3 hover loc: [200.44, 1002.49, 217.99]
+Fair_ue: 0.82 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -105.04 Time: 62.02 Energy: 13.87
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [460.98, 1143.55, 389.09]
+UAV3 hover loc: [200.44, 1002.49, 217.99]
+Fair_ue: 0.81 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -109.88 Time: 57.93 Energy: 17.62
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [460.98, 1143.55, 389.09]
+UAV3 hover loc: [200.44, 1002.49, 217.99]
+Fair_ue: 0.80 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -107.97 Time: 57.86 Energy: 15.59
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [439.50, 1148.12, 420.45]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.79 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -99.08 Time: 62.55 Energy: 11.81
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [418.86, 1142.90, 450.57]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.78 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -104.83 Time: 60.55 Energy: 14.36
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [418.86, 1142.90, 450.57]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.77 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -108.55 Time: 57.52 Energy: 15.92
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [390.46, 1147.50, 465.55]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.76 Fair_uav: 0.97
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -103.43 Time: 61.53 Energy: 11.57
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [390.46, 1147.50, 465.55]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.75 Fair_uav: 0.96
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -112.24 Time: 60.16 Energy: 16.55
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [390.46, 1147.50, 465.55]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.74 Fair_uav: 0.96
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -114.27 Time: 60.12 Energy: 18.42
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [390.46, 1147.50, 465.55]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.73 Fair_uav: 0.96
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -102.82 Time: 56.55 Energy: 10.33
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [390.46, 1147.50, 465.55]
+UAV3 hover loc: [200.86, 984.53, 232.74]
+Fair_ue: 0.72 Fair_uav: 0.96
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -108.80 Time: 60.86 Energy: 11.81
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [375.45, 1125.80, 479.54]
+UAV3 hover loc: [209.73, 963.62, 242.90]
+Fair_ue: 0.71 Fair_uav: 0.96
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -93.29 Time: 56.98 Energy: 9.96
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [352.53, 1135.52, 499.76]
+UAV3 hover loc: [209.73, 963.62, 242.90]
+Fair_ue: 0.71 Fair_uav: 0.95
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -100.95 Time: 60.45 Energy: 8.96
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [352.53, 1135.52, 499.76]
+UAV3 hover loc: [209.17, 953.06, 263.84]
+Fair_ue: 0.70 Fair_uav: 0.95
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -109.71 Time: 61.33 Energy: 16.65
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [326.24, 1121.42, 499.25]
+UAV3 hover loc: [209.17, 953.06, 263.84]
+Fair_ue: 0.69 Fair_uav: 0.95
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -101.99 Time: 60.12 Energy: 9.94
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [326.24, 1121.42, 499.25]
+UAV3 hover loc: [206.83, 945.83, 268.12]
+Fair_ue: 0.68 Fair_uav: 0.95
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -98.98 Time: 59.01 Energy: 7.86
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [326.24, 1121.42, 499.25]
+UAV3 hover loc: [206.83, 945.83, 268.12]
+Fair_ue: 0.67 Fair_uav: 0.95
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -106.77 Time: 60.68 Energy: 8.80
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [315.97, 1120.28, 495.51]
+UAV3 hover loc: [206.83, 945.83, 268.12]
+Fair_ue: 0.66 Fair_uav: 0.94
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -102.96 Time: 61.51 Energy: 8.98
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [286.52, 1114.96, 493.94]
+UAV3 hover loc: [206.83, 945.83, 268.12]
+Fair_ue: 0.66 Fair_uav: 0.94
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -98.51 Time: 56.28 Energy: 9.59
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [286.52, 1114.96, 493.94]
+UAV3 hover loc: [206.83, 945.83, 268.12]
+Fair_ue: 0.65 Fair_uav: 0.94
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -102.57 Time: 56.52 Energy: 8.23
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [266.90, 1099.93, 491.87]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.64 Fair_uav: 0.94
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -98.19 Time: 60.61 Energy: 9.58
+UAV1 hover loc: [222.50, 695.77, 206.13]
+UAV2 hover loc: [277.47, 1073.37, 489.77]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.63 Fair_uav: 0.93
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -103.74 Time: 59.58 Energy: 11.01
+UAV1 hover loc: [205.55, 685.19, 216.25]
+UAV2 hover loc: [280.70, 1046.79, 482.83]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.63 Fair_uav: 0.93
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -97.63 Time: 59.07 Energy: 10.25
+UAV1 hover loc: [230.47, 673.78, 217.62]
+UAV2 hover loc: [266.63, 1046.23, 480.51]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.62 Fair_uav: 0.93
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -97.30 Time: 60.46 Energy: 8.38
+UAV1 hover loc: [217.25, 660.77, 227.18]
+UAV2 hover loc: [260.46, 1027.84, 467.73]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.61 Fair_uav: 0.93
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -99.37 Time: 62.31 Energy: 8.44
+UAV1 hover loc: [215.49, 653.74, 230.10]
+UAV2 hover loc: [257.64, 1022.79, 456.66]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.61 Fair_uav: 0.92
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -97.33 Time: 58.37 Energy: 10.20
+UAV1 hover loc: [203.80, 634.95, 238.68]
+UAV2 hover loc: [261.98, 1020.00, 449.28]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.60 Fair_uav: 0.92
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -103.51 Time: 61.09 Energy: 13.52
+UAV1 hover loc: [210.78, 632.03, 244.01]
+UAV2 hover loc: [262.72, 1015.28, 430.10]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.60 Fair_uav: 0.92
+Connected Array: [0 0 0 1 3 0 0 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -96.56 Time: 59.72 Energy: 7.80
+UAV1 hover loc: [216.15, 627.73, 254.96]
+UAV2 hover loc: [266.83, 1010.71, 427.55]
+UAV3 hover loc: [203.04, 939.18, 300.07]
+Fair_ue: 0.59 Fair_uav: 0.92
+Connected Array: [0 0 0 1 3 1 1 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -96.32 Time: 57.71 Energy: 11.47
+UAV1 hover loc: [222.77, 612.03, 260.31]
+UAV2 hover loc: [274.47, 1007.83, 417.77]
+UAV3 hover loc: [201.87, 978.44, 299.96]
+Fair_ue: 0.59 Fair_uav: 0.91
+Connected Array: [1 0 0 1 3 1 1 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -82.99 Time: 51.49 Energy: 10.28
+UAV1 hover loc: [233.44, 605.06, 266.76]
+UAV2 hover loc: [274.73, 998.49, 407.02]
+UAV3 hover loc: [201.87, 978.44, 299.96]
+Fair_ue: 0.59 Fair_uav: 0.91
+Connected Array: [1 1 0 1 3 1 1 0 0 3 0 1 0 0 0 3 0 0 0 0]
+Reward: -86.99 Time: 48.69 Energy: 13.05
+UAV1 hover loc: [227.48, 602.31, 272.40]
+UAV2 hover loc: [265.27, 991.22, 401.47]
+UAV3 hover loc: [218.42, 1021.28, 299.82]
+Fair_ue: 0.59 Fair_uav: 0.90
+Connected Array: [1 1 0 1 3 1 1 0 0 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -76.61 Time: 44.18 Energy: 13.15
+UAV1 hover loc: [232.10, 596.58, 279.07]
+UAV2 hover loc: [265.80, 984.62, 395.38]
+UAV3 hover loc: [218.42, 1021.28, 299.82]
+Fair_ue: 0.60 Fair_uav: 0.90
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -77.07 Time: 41.49 Energy: 12.32
+UAV1 hover loc: [232.93, 586.40, 281.18]
+UAV2 hover loc: [265.80, 984.62, 384.10]
+UAV3 hover loc: [247.42, 1061.25, 306.34]
+Fair_ue: 0.60 Fair_uav: 0.89
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -73.95 Time: 40.02 Energy: 15.67
+UAV1 hover loc: [233.96, 584.32, 295.13]
+UAV2 hover loc: [265.87, 984.33, 378.04]
+UAV3 hover loc: [245.29, 1107.67, 291.33]
+Fair_ue: 0.60 Fair_uav: 0.89
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -75.88 Time: 42.40 Energy: 15.21
+UAV1 hover loc: [233.96, 584.32, 302.41]
+UAV2 hover loc: [270.71, 981.54, 373.77]
+UAV3 hover loc: [203.52, 1124.26, 290.94]
+Fair_ue: 0.61 Fair_uav: 0.88
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -73.96 Time: 42.16 Energy: 13.52
+UAV1 hover loc: [237.80, 578.81, 318.90]
+UAV2 hover loc: [270.71, 981.54, 366.36]
+UAV3 hover loc: [203.52, 1124.26, 290.94]
+Fair_ue: 0.61 Fair_uav: 0.88
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -81.76 Time: 44.74 Energy: 13.72
+UAV1 hover loc: [238.47, 574.58, 326.87]
+UAV2 hover loc: [270.71, 981.54, 358.75]
+UAV3 hover loc: [203.52, 1124.26, 290.94]
+Fair_ue: 0.61 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -83.26 Time: 42.33 Energy: 17.62
+UAV1 hover loc: [247.20, 574.58, 342.53]
+UAV2 hover loc: [270.78, 981.46, 357.90]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.61 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 1 3 0 0 3 0 0 0 0]
+Reward: -76.19 Time: 39.89 Energy: 17.97
+UAV1 hover loc: [248.51, 574.28, 345.81]
+UAV2 hover loc: [270.82, 980.49, 345.64]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 2 3 0 0 3 0 0 0 0]
+Reward: -84.68 Time: 40.64 Energy: 20.73
+UAV1 hover loc: [249.06, 574.02, 347.74]
+UAV2 hover loc: [271.05, 980.49, 344.43]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.86
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 2 3 0 0 3 0 0 0 0]
+Reward: -81.59 Time: 43.68 Energy: 14.60
+UAV1 hover loc: [249.77, 573.52, 349.23]
+UAV2 hover loc: [271.07, 980.42, 344.23]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.86
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 2 3 0 0 3 0 0 0 0]
+Reward: -84.40 Time: 41.98 Energy: 19.10
+UAV1 hover loc: [249.87, 573.31, 350.00]
+UAV2 hover loc: [272.51, 979.02, 341.70]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.86
+Connected Array: [1 1 0 1 3 1 1 0 1 3 0 2 3 0 0 3 0 0 0 0]
+Reward: -79.88 Time: 40.53 Energy: 16.04
+UAV1 hover loc: [254.08, 570.68, 357.98]
+UAV2 hover loc: [273.69, 978.05, 337.26]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.86
+Connected Array: [1 1 0 1 3 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -90.38 Time: 43.74 Energy: 23.35
+UAV1 hover loc: [258.35, 570.68, 363.20]
+UAV2 hover loc: [273.46, 976.07, 323.61]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.86
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -87.31 Time: 41.29 Energy: 22.77
+UAV1 hover loc: [260.47, 568.02, 369.43]
+UAV2 hover loc: [273.47, 976.05, 309.54]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.86
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -46.68 Time: 39.99 Energy: 13.47
+UAV1 hover loc: [260.92, 566.51, 370.39]
+UAV2 hover loc: [273.47, 976.05, 309.54]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.62 Fair_uav: 0.87
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -51.58 Time: 42.06 Energy: 16.34
+UAV1 hover loc: [260.92, 566.51, 370.39]
+UAV2 hover loc: [273.47, 976.05, 309.54]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -50.02 Time: 38.88 Energy: 18.00
+UAV1 hover loc: [261.17, 566.50, 371.62]
+UAV2 hover loc: [274.12, 975.71, 307.94]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -49.06 Time: 40.92 Energy: 15.02
+UAV1 hover loc: [264.58, 564.37, 378.42]
+UAV2 hover loc: [275.95, 975.56, 304.16]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -58.28 Time: 42.92 Energy: 22.27
+UAV1 hover loc: [270.03, 564.37, 394.56]
+UAV2 hover loc: [275.95, 975.56, 292.68]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 2 0 0 0 0]
+Reward: -54.88 Time: 42.23 Energy: 19.59
+UAV1 hover loc: [271.50, 559.41, 404.25]
+UAV2 hover loc: [275.95, 975.56, 292.68]
+UAV3 hover loc: [240.44, 1147.68, 260.63]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 2 0 0 0 0]
+Reward: -54.33 Time: 38.87 Energy: 22.43
+UAV1 hover loc: [271.50, 559.41, 408.21]
+UAV2 hover loc: [276.45, 975.56, 292.26]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -51.31 Time: 40.68 Energy: 22.61
+UAV1 hover loc: [271.50, 559.41, 408.21]
+UAV2 hover loc: [276.45, 975.56, 288.53]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -57.52 Time: 42.78 Energy: 21.71
+UAV1 hover loc: [271.64, 559.09, 411.31]
+UAV2 hover loc: [276.45, 975.56, 288.53]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -49.06 Time: 40.56 Energy: 15.47
+UAV1 hover loc: [271.64, 559.09, 411.31]
+UAV2 hover loc: [277.24, 975.56, 285.27]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -57.72 Time: 42.20 Energy: 22.49
+UAV1 hover loc: [271.64, 559.09, 411.31]
+UAV2 hover loc: [277.47, 975.51, 282.12]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -54.17 Time: 39.91 Energy: 21.22
+UAV1 hover loc: [271.64, 559.09, 411.31]
+UAV2 hover loc: [278.83, 975.38, 276.93]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 3 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -53.29 Time: 41.16 Energy: 19.09
+UAV1 hover loc: [271.64, 559.09, 416.32]
+UAV2 hover loc: [278.83, 975.38, 274.52]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 1 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -53.52 Time: 39.98 Energy: 20.51
+UAV1 hover loc: [271.64, 559.09, 427.63]
+UAV2 hover loc: [280.36, 975.38, 268.47]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -60.43 Time: 44.27 Energy: 22.15
+UAV1 hover loc: [271.64, 559.09, 438.15]
+UAV2 hover loc: [280.36, 975.38, 268.47]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.87
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -54.53 Time: 45.87 Energy: 14.68
+UAV1 hover loc: [271.69, 558.68, 441.41]
+UAV2 hover loc: [280.36, 975.38, 268.47]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -55.68 Time: 43.46 Energy: 18.25
+UAV1 hover loc: [272.87, 558.44, 443.19]
+UAV2 hover loc: [280.36, 975.38, 268.47]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -57.55 Time: 44.74 Energy: 18.85
+UAV1 hover loc: [276.36, 554.61, 451.81]
+UAV2 hover loc: [280.36, 975.38, 262.44]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -59.04 Time: 43.37 Energy: 21.74
+UAV1 hover loc: [276.36, 554.61, 451.81]
+UAV2 hover loc: [280.36, 975.38, 262.44]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -60.89 Time: 45.43 Energy: 21.53
+UAV1 hover loc: [276.36, 554.61, 451.81]
+UAV2 hover loc: [280.36, 975.38, 262.44]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -59.70 Time: 44.39 Energy: 21.40
+UAV1 hover loc: [276.63, 554.31, 452.31]
+UAV2 hover loc: [280.36, 975.38, 257.81]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -62.22 Time: 46.89 Energy: 21.43
+UAV1 hover loc: [276.63, 554.31, 452.31]
+UAV2 hover loc: [280.36, 975.38, 254.63]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -60.65 Time: 45.69 Energy: 21.07
+UAV1 hover loc: [276.63, 554.31, 452.31]
+UAV2 hover loc: [280.37, 975.32, 252.33]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -59.16 Time: 45.23 Energy: 20.05
+UAV1 hover loc: [276.63, 554.31, 458.10]
+UAV2 hover loc: [281.27, 975.30, 250.68]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 3 0 0 0 0]
+Reward: -59.95 Time: 44.14 Energy: 21.93
+UAV1 hover loc: [276.63, 554.31, 458.10]
+UAV2 hover loc: [281.27, 975.30, 241.97]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.88
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 2 0 0 0 0]
+Reward: -61.05 Time: 46.18 Energy: 21.01
+UAV1 hover loc: [276.85, 554.31, 458.85]
+UAV2 hover loc: [281.27, 975.30, 241.97]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.89
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 2 0 0 0 0]
+Reward: -60.09 Time: 45.68 Energy: 20.56
+UAV1 hover loc: [277.12, 554.21, 461.89]
+UAV2 hover loc: [281.27, 975.30, 241.97]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.89
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 2 0 0 0 0]
+Reward: -61.77 Time: 46.79 Energy: 21.14
+UAV1 hover loc: [277.12, 554.21, 461.89]
+UAV2 hover loc: [283.69, 971.42, 229.36]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.89
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 2 0 0 0 0]
+Reward: -65.79 Time: 49.61 Energy: 22.36
+UAV1 hover loc: [277.30, 553.68, 463.58]
+UAV2 hover loc: [284.49, 970.71, 224.86]
+UAV3 hover loc: [267.13, 1147.68, 206.89]
+Fair_ue: 0.63 Fair_uav: 0.89
+Connected Array: [1 1 0 0 2 1 1 0 1 2 0 2 3 0 0 2 0 0 0 0]
+Reward: -57.33 Time: 44.19 Energy: 19.33
+UAV1 hover loc: [352.92, 350.00, 258.90]
+UAV2 hover loc: [850.00, 850.00, 250.00]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -40.30 Time: 14.52 Energy: 19.68
+UAV1 hover loc: [355.41, 349.78, 269.32]
+UAV2 hover loc: [850.00, 850.00, 250.00]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -49.84 Time: 16.13 Energy: 27.61
+UAV1 hover loc: [356.02, 349.59, 271.68]
+UAV2 hover loc: [851.76, 847.00, 235.59]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.28 Time: 15.00 Energy: 27.18
+UAV1 hover loc: [357.76, 349.59, 274.71]
+UAV2 hover loc: [852.97, 845.57, 228.26]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -40.39 Time: 14.49 Energy: 19.80
+UAV1 hover loc: [357.76, 349.59, 274.71]
+UAV2 hover loc: [852.97, 845.57, 228.26]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.96 Time: 15.22 Energy: 26.64
+UAV1 hover loc: [357.76, 349.59, 274.71]
+UAV2 hover loc: [852.97, 845.57, 228.26]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -43.18 Time: 14.47 Energy: 22.60
+UAV1 hover loc: [357.76, 349.59, 274.71]
+UAV2 hover loc: [852.97, 845.57, 227.82]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -43.59 Time: 15.08 Energy: 27.41
+UAV1 hover loc: [357.76, 349.59, 274.71]
+UAV2 hover loc: [852.97, 845.57, 227.82]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -44.09 Time: 14.46 Energy: 23.52
+UAV1 hover loc: [357.76, 349.59, 274.71]
+UAV2 hover loc: [852.97, 845.57, 227.82]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -46.14 Time: 15.94 Energy: 24.10
+UAV1 hover loc: [357.76, 349.59, 280.96]
+UAV2 hover loc: [853.17, 845.46, 225.75]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -42.30 Time: 15.28 Energy: 20.91
+UAV1 hover loc: [357.76, 349.59, 286.86]
+UAV2 hover loc: [853.17, 845.46, 225.75]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -43.70 Time: 14.65 Energy: 22.94
+UAV1 hover loc: [360.26, 348.01, 293.65]
+UAV2 hover loc: [853.17, 845.46, 225.75]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.58 Time: 14.86 Energy: 26.61
+UAV1 hover loc: [360.26, 348.01, 293.65]
+UAV2 hover loc: [853.45, 845.44, 224.80]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.91 Time: 15.48 Energy: 27.33
+UAV1 hover loc: [362.72, 348.01, 304.80]
+UAV2 hover loc: [853.45, 845.44, 224.80]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -49.38 Time: 15.58 Energy: 27.70
+UAV1 hover loc: [363.46, 348.01, 311.11]
+UAV2 hover loc: [857.49, 845.44, 214.15]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -45.26 Time: 14.49 Energy: 24.67
+UAV1 hover loc: [363.72, 348.01, 311.68]
+UAV2 hover loc: [857.95, 845.44, 204.51]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -43.65 Time: 14.66 Energy: 22.88
+UAV1 hover loc: [364.23, 347.93, 316.32]
+UAV2 hover loc: [857.95, 845.44, 204.51]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -52.33 Time: 15.12 Energy: 26.11
+UAV1 hover loc: [364.71, 347.84, 318.77]
+UAV2 hover loc: [857.95, 845.44, 204.25]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.34 Time: 14.99 Energy: 27.24
+UAV1 hover loc: [364.71, 347.84, 318.77]
+UAV2 hover loc: [857.95, 845.44, 204.25]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -52.40 Time: 14.11 Energy: 27.19
+UAV1 hover loc: [364.71, 347.84, 318.77]
+UAV2 hover loc: [857.95, 845.44, 204.25]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -45.86 Time: 14.05 Energy: 25.71
+UAV1 hover loc: [364.71, 347.84, 321.75]
+UAV2 hover loc: [857.95, 845.44, 204.25]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -53.47 Time: 14.92 Energy: 27.44
+UAV1 hover loc: [364.71, 347.84, 325.04]
+UAV2 hover loc: [858.00, 845.43, 203.92]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.70 Time: 14.53 Energy: 27.07
+UAV1 hover loc: [364.71, 347.84, 325.04]
+UAV2 hover loc: [858.57, 845.20, 201.91]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.01 Time: 14.85 Energy: 27.06
+UAV1 hover loc: [364.71, 347.84, 334.84]
+UAV2 hover loc: [858.57, 845.20, 201.91]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -46.03 Time: 15.65 Energy: 24.28
+UAV1 hover loc: [364.86, 347.78, 338.99]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.53 Time: 14.39 Energy: 27.03
+UAV1 hover loc: [366.04, 347.78, 342.76]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -52.51 Time: 14.79 Energy: 26.62
+UAV1 hover loc: [366.04, 347.78, 347.88]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -52.44 Time: 14.48 Energy: 26.86
+UAV1 hover loc: [366.70, 347.60, 354.76]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -40.58 Time: 14.28 Energy: 20.20
+UAV1 hover loc: [366.70, 347.60, 359.15]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.84 Time: 14.93 Energy: 22.81
+UAV1 hover loc: [366.92, 347.54, 360.45]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -52.98 Time: 14.96 Energy: 26.92
+UAV1 hover loc: [366.92, 347.54, 360.45]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -46.54 Time: 14.92 Energy: 25.52
+UAV1 hover loc: [366.92, 347.54, 360.45]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -54.77 Time: 16.17 Energy: 27.49
+UAV1 hover loc: [366.92, 347.54, 360.45]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -46.41 Time: 15.45 Energy: 24.85
+UAV1 hover loc: [366.92, 347.54, 364.30]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -53.63 Time: 15.74 Energy: 26.78
+UAV1 hover loc: [366.92, 347.54, 364.30]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.94 Time: 15.60 Energy: 22.23
+UAV1 hover loc: [366.92, 347.54, 364.30]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -53.60 Time: 15.40 Energy: 27.10
+UAV1 hover loc: [367.36, 347.27, 370.34]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.22 Time: 15.04 Energy: 27.07
+UAV1 hover loc: [367.36, 347.27, 370.34]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.26 Time: 15.21 Energy: 24.94
+UAV1 hover loc: [367.36, 347.27, 376.95]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.26 Time: 15.31 Energy: 24.85
+UAV1 hover loc: [368.69, 344.96, 383.23]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -40.94 Time: 15.72 Energy: 19.11
+UAV1 hover loc: [368.69, 344.96, 391.92]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -45.67 Time: 15.15 Energy: 24.42
+UAV1 hover loc: [368.42, 344.66, 397.63]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -46.39 Time: 15.99 Energy: 19.29
+UAV1 hover loc: [368.35, 344.53, 398.81]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -50.35 Time: 16.11 Energy: 23.13
+UAV1 hover loc: [366.73, 344.31, 401.60]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.46 Time: 15.81 Energy: 26.55
+UAV1 hover loc: [366.73, 344.31, 401.60]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -53.69 Time: 15.59 Energy: 26.99
+UAV1 hover loc: [366.73, 344.31, 401.60]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -43.23 Time: 14.66 Energy: 22.47
+UAV1 hover loc: [366.73, 344.31, 408.11]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -43.94 Time: 15.85 Energy: 16.99
+UAV1 hover loc: [365.55, 343.98, 412.60]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.60 Time: 15.49 Energy: 27.01
+UAV1 hover loc: [365.55, 343.98, 415.50]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -44.72 Time: 15.55 Energy: 23.06
+UAV1 hover loc: [360.29, 340.34, 422.24]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -54.83 Time: 19.73 Energy: 24.00
+UAV1 hover loc: [358.10, 340.97, 427.43]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.22 Time: 18.03 Energy: 22.09
+UAV1 hover loc: [358.10, 340.97, 427.43]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -52.93 Time: 19.09 Energy: 22.75
+UAV1 hover loc: [358.10, 340.97, 440.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -55.63 Time: 18.64 Energy: 25.89
+UAV1 hover loc: [358.10, 340.97, 440.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -57.01 Time: 19.30 Energy: 26.61
+UAV1 hover loc: [355.94, 341.28, 445.16]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -44.48 Time: 17.97 Energy: 15.42
+UAV1 hover loc: [355.94, 341.28, 445.16]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -56.65 Time: 18.71 Energy: 26.84
+UAV1 hover loc: [355.94, 341.28, 445.16]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -54.18 Time: 20.04 Energy: 23.04
+UAV1 hover loc: [355.94, 341.28, 445.16]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -58.19 Time: 19.18 Energy: 27.91
+UAV1 hover loc: [355.16, 342.93, 448.81]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -56.00 Time: 18.53 Energy: 26.37
+UAV1 hover loc: [353.33, 348.40, 454.94]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -57.79 Time: 19.53 Energy: 27.16
+UAV1 hover loc: [353.45, 352.15, 460.23]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -56.90 Time: 18.60 Energy: 27.20
+UAV1 hover loc: [354.36, 355.39, 469.30]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -53.05 Time: 18.28 Energy: 23.67
+UAV1 hover loc: [354.36, 355.41, 469.46]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.07 Time: 18.55 Energy: 26.41
+UAV1 hover loc: [354.36, 355.41, 469.46]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -53.22 Time: 18.64 Energy: 23.46
+UAV1 hover loc: [354.36, 355.41, 469.46]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -52.80 Time: 19.63 Energy: 27.05
+UAV1 hover loc: [359.23, 359.98, 478.03]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -56.38 Time: 18.05 Energy: 27.20
+UAV1 hover loc: [359.23, 359.98, 478.03]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -50.89 Time: 18.03 Energy: 21.72
+UAV1 hover loc: [361.43, 364.14, 483.39]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -49.88 Time: 19.16 Energy: 19.58
+UAV1 hover loc: [361.43, 364.14, 483.39]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -59.31 Time: 20.80 Energy: 27.38
+UAV1 hover loc: [365.23, 370.29, 491.73]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -57.69 Time: 19.10 Energy: 27.45
+UAV1 hover loc: [365.23, 370.29, 491.73]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -62.77 Time: 19.20 Energy: 27.43
+UAV1 hover loc: [365.58, 370.29, 495.19]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.95 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.69 Time: 20.14 Energy: 21.40
+UAV1 hover loc: [366.67, 370.61, 496.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -57.73 Time: 19.28 Energy: 27.30
+UAV1 hover loc: [366.67, 370.61, 496.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.92 Time: 18.13 Energy: 22.63
+UAV1 hover loc: [366.67, 370.61, 496.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.42 Time: 18.85 Energy: 18.41
+UAV1 hover loc: [366.67, 370.61, 496.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -61.55 Time: 18.48 Energy: 26.91
+UAV1 hover loc: [366.67, 370.61, 496.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -54.34 Time: 18.99 Energy: 24.18
+UAV1 hover loc: [366.67, 370.61, 496.97]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -49.55 Time: 19.33 Energy: 19.04
+UAV1 hover loc: [366.67, 370.61, 497.12]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -55.84 Time: 20.65 Energy: 24.01
+UAV1 hover loc: [366.67, 370.61, 497.12]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -56.52 Time: 21.12 Energy: 19.22
+UAV1 hover loc: [366.67, 370.61, 497.12]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -65.11 Time: 20.90 Energy: 28.01
+UAV1 hover loc: [366.67, 370.61, 497.12]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -58.58 Time: 20.14 Energy: 27.25
+UAV1 hover loc: [366.67, 370.61, 498.34]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.03 Time: 18.83 Energy: 21.00
+UAV1 hover loc: [366.67, 370.61, 498.34]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -60.40 Time: 19.58 Energy: 24.62
+UAV1 hover loc: [366.67, 370.61, 498.34]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -61.11 Time: 19.83 Energy: 25.08
+UAV1 hover loc: [366.67, 370.61, 498.34]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -58.80 Time: 18.89 Energy: 28.70
+UAV1 hover loc: [366.67, 370.61, 498.34]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -49.90 Time: 19.28 Energy: 19.41
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -58.63 Time: 20.30 Energy: 27.10
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -55.61 Time: 19.61 Energy: 19.77
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -54.87 Time: 18.16 Energy: 20.47
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -61.85 Time: 18.27 Energy: 27.34
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -59.72 Time: 19.47 Energy: 24.00
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.59 Time: 20.00 Energy: 16.34
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -62.30 Time: 20.69 Energy: 25.36
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -57.29 Time: 19.65 Energy: 21.38
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -48.84 Time: 20.29 Energy: 17.29
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -62.13 Time: 20.90 Energy: 24.97
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.96 Time: 18.76 Energy: 17.93
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -56.07 Time: 20.22 Energy: 24.57
+UAV1 hover loc: [366.67, 370.61, 498.80]
+UAV2 hover loc: [859.28, 845.00, 200.04]
+UAV3 hover loc: [397.68, 950.00, 213.58]
+Fair_ue: 0.94 Fair_uav: 1.00
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.35 Time: 19.24 Energy: 20.83
+========================= This episode is done =========================
+Average score: -63.733120717181926
+UAV1 hover loc: [350.07, 350.00, 250.57]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -51.46 Time: 14.35 Energy: 31.01
+UAV1 hover loc: [350.07, 350.00, 250.57]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [350.00, 950.00, 250.00]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -47.84 Time: 14.28 Energy: 22.46
+UAV1 hover loc: [350.07, 350.00, 250.57]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.94 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -46.25 Time: 21.24 Energy: 18.57
+UAV1 hover loc: [350.07, 350.00, 250.57]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.93 Fair_uav: 0.98
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -51.33 Time: 21.70 Energy: 17.81
+UAV1 hover loc: [350.07, 350.00, 250.57]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.91 Fair_uav: 0.98
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -57.83 Time: 21.34 Energy: 24.38
+UAV1 hover loc: [350.07, 350.00, 266.84]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.91 Fair_uav: 0.97
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -61.17 Time: 21.97 Energy: 26.86
+UAV1 hover loc: [351.68, 351.89, 278.20]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.90 Fair_uav: 0.97
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -55.07 Time: 20.03 Energy: 22.52
+UAV1 hover loc: [351.68, 351.89, 284.08]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.89 Fair_uav: 0.97
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -53.35 Time: 20.61 Energy: 20.08
+UAV1 hover loc: [351.68, 351.89, 284.08]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.89 Fair_uav: 0.97
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -49.80 Time: 20.11 Energy: 16.92
+UAV1 hover loc: [351.68, 351.89, 284.08]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.89 Fair_uav: 0.97
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -56.67 Time: 21.24 Energy: 22.57
+UAV1 hover loc: [351.68, 351.89, 291.18]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.88 Fair_uav: 0.97
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -53.94 Time: 19.36 Energy: 21.65
+UAV1 hover loc: [352.22, 352.43, 295.85]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.88 Fair_uav: 0.97
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -47.29 Time: 20.13 Energy: 14.16
+UAV1 hover loc: [353.36, 352.44, 299.27]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.88 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -49.19 Time: 21.85 Energy: 14.28
+UAV1 hover loc: [353.36, 352.44, 299.27]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.88 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -53.60 Time: 21.38 Energy: 19.11
+UAV1 hover loc: [353.36, 352.44, 299.27]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.88 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -59.24 Time: 21.76 Energy: 24.33
+UAV1 hover loc: [353.36, 352.44, 299.27]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -52.54 Time: 20.71 Energy: 18.65
+UAV1 hover loc: [353.34, 352.86, 302.66]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -57.22 Time: 21.53 Energy: 22.47
+UAV1 hover loc: [353.34, 352.86, 302.66]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -55.52 Time: 19.95 Energy: 22.32
+UAV1 hover loc: [353.34, 352.86, 302.66]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -52.73 Time: 20.44 Energy: 19.01
+UAV1 hover loc: [353.34, 352.86, 304.61]
+UAV2 hover loc: [864.86, 850.00, 210.19]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 2 2 2]
+Reward: -52.44 Time: 20.26 Energy: 18.89
+UAV1 hover loc: [353.56, 352.89, 305.78]
+UAV2 hover loc: [892.70, 886.73, 205.07]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 0 2 2]
+Reward: -50.75 Time: 25.19 Energy: 17.24
+UAV1 hover loc: [353.56, 352.89, 305.78]
+UAV2 hover loc: [923.75, 886.73, 204.18]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 0 2 2]
+Reward: -47.44 Time: 25.67 Energy: 13.42
+UAV1 hover loc: [353.56, 352.89, 305.78]
+UAV2 hover loc: [960.92, 906.06, 210.32]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.87 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 0 2 2]
+Reward: -47.12 Time: 23.62 Energy: 15.12
+UAV1 hover loc: [353.56, 352.89, 305.78]
+UAV2 hover loc: [960.92, 906.06, 210.32]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 2 0 2 2]
+Reward: -58.09 Time: 24.26 Energy: 20.43
+UAV1 hover loc: [353.56, 352.89, 305.78]
+UAV2 hover loc: [1011.81, 906.06, 211.52]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 0 0 2 2]
+Reward: -53.30 Time: 27.00 Energy: 17.87
+UAV1 hover loc: [353.56, 352.89, 306.76]
+UAV2 hover loc: [1011.81, 906.06, 211.52]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 0 0 2 2]
+Reward: -62.19 Time: 26.77 Energy: 21.96
+UAV1 hover loc: [353.56, 352.89, 318.67]
+UAV2 hover loc: [1061.72, 939.30, 213.45]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 0 0 2 2]
+Reward: -61.72 Time: 27.96 Energy: 25.25
+UAV1 hover loc: [353.56, 352.89, 318.67]
+UAV2 hover loc: [1061.72, 939.30, 213.45]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 0 2 0 3 0 0 2 2]
+Reward: -60.65 Time: 29.30 Energy: 17.81
+UAV1 hover loc: [353.56, 352.89, 318.67]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.86 Fair_uav: 0.96
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -76.87 Time: 40.53 Energy: 18.77
+UAV1 hover loc: [353.56, 352.89, 318.67]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.86 Fair_uav: 0.95
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -82.50 Time: 43.55 Energy: 16.30
+UAV1 hover loc: [353.56, 352.89, 318.67]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.85 Fair_uav: 0.95
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -78.11 Time: 40.10 Energy: 15.29
+UAV1 hover loc: [353.56, 352.89, 318.67]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [343.75, 942.16, 206.52]
+Fair_ue: 0.85 Fair_uav: 0.95
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -80.83 Time: 38.49 Energy: 19.54
+UAV1 hover loc: [353.61, 352.89, 319.89]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.85 Fair_uav: 0.95
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -73.52 Time: 41.77 Energy: 13.85
+UAV1 hover loc: [355.31, 353.43, 323.18]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.85 Fair_uav: 0.95
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -80.24 Time: 39.75 Energy: 17.50
+UAV1 hover loc: [355.59, 355.97, 325.90]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.84 Fair_uav: 0.94
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -81.65 Time: 41.36 Energy: 17.19
+UAV1 hover loc: [355.59, 355.97, 326.42]
+UAV2 hover loc: [1117.88, 939.30, 207.83]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.84 Fair_uav: 0.94
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -83.05 Time: 41.57 Energy: 18.27
+UAV1 hover loc: [355.59, 355.97, 326.98]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.84 Fair_uav: 0.94
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -80.94 Time: 40.97 Energy: 21.66
+UAV1 hover loc: [355.59, 355.97, 337.37]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.84 Fair_uav: 0.93
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -86.31 Time: 41.20 Energy: 21.68
+UAV1 hover loc: [359.95, 355.97, 344.54]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.83 Fair_uav: 0.93
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -86.95 Time: 41.45 Energy: 21.97
+UAV1 hover loc: [359.95, 355.97, 344.54]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.83 Fair_uav: 0.93
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -86.02 Time: 40.66 Energy: 21.70
+UAV1 hover loc: [359.95, 355.97, 348.87]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.83 Fair_uav: 0.92
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -85.69 Time: 40.41 Energy: 21.51
+UAV1 hover loc: [359.95, 355.97, 350.44]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.82 Fair_uav: 0.92
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -83.55 Time: 42.80 Energy: 16.86
+UAV1 hover loc: [359.95, 355.97, 357.76]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.82 Fair_uav: 0.92
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -81.08 Time: 40.67 Energy: 16.40
+UAV1 hover loc: [361.16, 355.97, 361.88]
+UAV2 hover loc: [1135.71, 980.82, 247.31]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.82 Fair_uav: 0.91
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -85.06 Time: 39.48 Energy: 21.46
+UAV1 hover loc: [361.16, 355.97, 361.88]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.81 Fair_uav: 0.91
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -77.51 Time: 41.92 Energy: 16.36
+UAV1 hover loc: [361.19, 355.98, 362.84]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.81 Fair_uav: 0.91
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -86.44 Time: 40.55 Energy: 21.53
+UAV1 hover loc: [361.19, 355.98, 362.84]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.81 Fair_uav: 0.90
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -82.60 Time: 40.45 Energy: 17.69
+UAV1 hover loc: [362.10, 355.98, 363.95]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.80 Fair_uav: 0.90
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -83.54 Time: 41.60 Energy: 17.37
+UAV1 hover loc: [365.60, 356.28, 373.98]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.80 Fair_uav: 0.89
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -87.56 Time: 41.05 Energy: 21.83
+UAV1 hover loc: [365.60, 356.28, 373.98]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.80 Fair_uav: 0.89
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -88.88 Time: 42.10 Energy: 21.99
+UAV1 hover loc: [365.60, 356.28, 376.09]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.79 Fair_uav: 0.89
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -80.28 Time: 43.72 Energy: 11.67
+UAV1 hover loc: [366.92, 356.35, 379.28]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.79 Fair_uav: 0.89
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -84.94 Time: 41.77 Energy: 18.17
+UAV1 hover loc: [375.47, 356.35, 392.44]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.79 Fair_uav: 0.88
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -83.87 Time: 41.56 Energy: 22.22
+UAV1 hover loc: [375.47, 356.35, 392.44]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.79 Fair_uav: 0.88
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -86.59 Time: 43.00 Energy: 18.39
+UAV1 hover loc: [376.30, 356.35, 394.86]
+UAV2 hover loc: [1140.81, 980.82, 298.63]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.78 Fair_uav: 0.88
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -79.82 Time: 41.86 Energy: 12.66
+UAV1 hover loc: [376.30, 356.35, 394.86]
+UAV2 hover loc: [1146.40, 980.82, 357.19]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.78 Fair_uav: 0.87
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 2]
+Reward: -80.66 Time: 39.73 Energy: 21.57
+UAV1 hover loc: [379.09, 356.35, 400.51]
+UAV2 hover loc: [1146.40, 980.82, 357.19]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.78 Fair_uav: 0.87
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 2]
+Reward: -82.99 Time: 39.15 Energy: 19.42
+UAV1 hover loc: [379.09, 356.35, 400.51]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.78 Fair_uav: 0.87
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -82.40 Time: 39.73 Energy: 22.16
+UAV1 hover loc: [379.10, 356.40, 400.66]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.77 Fair_uav: 0.87
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -87.15 Time: 42.07 Energy: 19.48
+UAV1 hover loc: [379.11, 356.40, 400.94]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.77 Fair_uav: 0.86
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -84.52 Time: 41.98 Energy: 21.84
+UAV1 hover loc: [379.11, 356.40, 400.94]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.77 Fair_uav: 0.86
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -86.24 Time: 41.94 Energy: 18.52
+UAV1 hover loc: [379.22, 356.40, 401.36]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.77 Fair_uav: 0.86
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -90.13 Time: 42.52 Energy: 21.74
+UAV1 hover loc: [379.22, 356.40, 401.36]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.76 Fair_uav: 0.86
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -82.58 Time: 44.22 Energy: 12.41
+UAV1 hover loc: [379.22, 356.40, 401.36]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.73]
+Fair_ue: 0.76 Fair_uav: 0.85
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -88.73 Time: 41.37 Energy: 21.33
+UAV1 hover loc: [381.99, 356.40, 407.20]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.05]
+Fair_ue: 0.76 Fair_uav: 0.85
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -80.14 Time: 39.19 Energy: 19.85
+UAV1 hover loc: [381.99, 356.40, 407.20]
+UAV2 hover loc: [1148.50, 981.89, 417.15]
+UAV3 hover loc: [344.25, 941.83, 201.05]
+Fair_ue: 0.76 Fair_uav: 0.85
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -83.19 Time: 43.55 Energy: 18.45
+UAV1 hover loc: [382.18, 356.40, 407.41]
+UAV2 hover loc: [1138.54, 1003.02, 454.22]
+UAV3 hover loc: [344.25, 941.83, 201.05]
+Fair_ue: 0.75 Fair_uav: 0.84
+Connected Array: [1 1 1 0 3 1 1 1 1 3 0 3 0 0 0 3 0 0 0 0]
+Reward: -69.97 Time: 42.10 Energy: 11.61
+UAV1 hover loc: [383.85, 302.68, 246.78]
+UAV2 hover loc: [877.42, 838.21, 280.48]
+UAV3 hover loc: [345.84, 984.97, 262.20]
+Fair_ue: 0.85 Fair_uav: 0.99
+Connected Array: [1 0 1 0 3 1 1 1 1 3 2 3 3 2 0 3 2 2 2 2]
+Reward: -615.16 Time: 389.48 Energy: 222.56
+UAV1 hover loc: [354.12, 337.62, 276.51]
+UAV2 hover loc: [892.32, 861.57, 236.91]
+UAV3 hover loc: [348.75, 954.66, 298.34]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -556.30 Time: 356.30 Energy: 198.89
+UAV1 hover loc: [343.48, 332.51, 262.24]
+UAV2 hover loc: [887.18, 864.62, 265.87]
+UAV3 hover loc: [351.00, 962.19, 293.82]
+Fair_ue: 0.95 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 3 3 2 2 2 2]
+Reward: -584.02 Time: 383.48 Energy: 199.43
+UAV1 hover loc: [348.74, 322.79, 291.05]
+UAV2 hover loc: [887.15, 870.62, 284.85]
+UAV3 hover loc: [336.13, 1003.70, 306.45]
+Fair_ue: 0.94 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 0 3 2 2 2 2]
+Reward: -554.42 Time: 358.86 Energy: 194.30
+UAV1 hover loc: [385.40, 350.56, 281.63]
+UAV2 hover loc: [866.88, 872.65, 328.51]
+UAV3 hover loc: [332.08, 1004.23, 302.55]
+Fair_ue: 0.94 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 0 3 2 2 2 2]
+Reward: -486.88 Time: 310.49 Energy: 174.96
+UAV1 hover loc: [373.33, 336.32, 321.31]
+UAV2 hover loc: [865.73, 866.45, 388.10]
+UAV3 hover loc: [337.69, 976.07, 273.80]
+Fair_ue: 0.93 Fair_uav: 0.99
+Connected Array: [1 1 1 0 3 1 1 1 1 3 2 3 3 2 0 3 2 2 2 2]
+Reward: -433.24 Time: 266.65 Energy: 165.01
