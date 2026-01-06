@@ -9,14 +9,18 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # 导入配置
-from config import EnvironmentConfig, TrainingConfig, LogConfig
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from config.config import EnvironmentConfig, TrainingConfig, LogConfig
 
 # 导入环境
-from uav_env_dude import UAVEnvDUDe
-from ENV import Environment as LegacyEnvironment
+from environments.uav_env_dude import UAVEnvDUDe
+from environments.ENV import Environment as LegacyEnvironment
 
 # 导入算法
-from perddpg_torch import Agent
+from algorithms.matd3.perddpg_torch import Agent
 
 
 class TrainingLogger:

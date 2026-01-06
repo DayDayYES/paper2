@@ -3,9 +3,9 @@ import os
 import numpy as np
 import torch as T
 import torch.nn.functional as F
-from networks import ActorNetwork, CriticNetwork
-from noise import OUActionNoise
-from examplebuffer import ReplayBuffer
+from .networks import ActorNetwork, CriticNetwork
+from .noise import OUActionNoise
+from .examplebuffer import ReplayBuffer
 
 
 class Agent():

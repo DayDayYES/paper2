@@ -3,7 +3,7 @@ import random
 
 import matplotlib.pyplot as plt
 import numpy as np
-from uav import UAV, FUAV
+from .uav import UAV, FUAV
 
 
 class Environment():

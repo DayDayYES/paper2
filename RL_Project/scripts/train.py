@@ -1,13 +1,16 @@
 import random
 import matplotlib.pyplot as plt
 import numpy as np
-from uav_env import UAVTASKENV
+import sys
 import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from environments.ENV import Environment as UAVTASKENV
 import scipy.io
-from perddpg_torch import Agent
+from algorithms.matd3.perddpg_torch import Agent
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 from matplotlib.patches import ConnectionPatch
-from buffer import ReplayBuffer
+from algorithms.matd3.buffer import ReplayBuffer
 from scipy.interpolate import make_interp_spline
 import time
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # 或者任何你想要的级别

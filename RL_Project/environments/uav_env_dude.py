@@ -5,7 +5,7 @@
 import math
 import numpy as np
 import matplotlib.pyplot as plt
-from uav import UAV, FUAV
+from .uav import UAV, FUAV
 
 
 class UAVEnvDUDe:
