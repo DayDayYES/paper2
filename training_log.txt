@@ -14628,3 +14628,47 @@ Episode 1
   DL Rate: 98.15 Mbps
   Total Power: 18420.68 W
 
+
+============================================================
+训练开始时间: 2026-01-07 16:38:07
+环境类型: dude
+UAV数量: 2
+用户数量: 20
+============================================================
+
+✓ 环境创建成功: UAVEnvDUDe
+  观察维度: 3
+  动作维度: 44
+✓ 创建 2 个智能体
+
+开始训练...
+
+============================================================
+Episode 0
+  Avg Score: -501.43
+  Total Reward: -50142.97
+  Total Rate: 73.03 Mbps
+  UL Rate: 2.53 Mbps
+  DL Rate: 70.50 Mbps
+  Total Power: 57376.68 W
+
+
+============================================================
+Episode 1
+  Avg Score: -291.79
+  Total Reward: -8215.89
+  Total Rate: 68.05 Mbps
+  UL Rate: 5.54 Mbps
+  DL Rate: 62.50 Mbps
+  Total Power: 14996.81 W
+
+
+============================================================
+Episode 2
+  Avg Score: -191.74
+  Total Reward: 836.93
+  Total Rate: 74.03 Mbps
+  UL Rate: 8.02 Mbps
+  DL Rate: 66.02 Mbps
+  Total Power: 6511.58 W
+

@@ -27,7 +27,8 @@ class UAV:
         
         # 无人机性能参数
         self.f_uav = uav_params.get('f_uav', 1.2 * 10 ** 9)  # 计算频率
-        self.P_uav = uav_params.get('P_uav', 5)  # 传输功率
+        self.P_uav_max = uav_params.get('P_uav_max', 5)  # 传输功率
+        self.P_uav_min = uav_params.get('P_uav_min', 0)
         self.B = uav_params.get('B', 10 * 10 ** 6)  # 带宽
         self.v_uav_min = uav_params.get('v_uav_min', 0)  # 最小速度
         self.v_uav_max = uav_params.get('v_uav_max', 60)  # 最大速度
